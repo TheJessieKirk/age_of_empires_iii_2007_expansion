@@ -9,7 +9,7 @@ _[Age of Empires III](<https://www.ageofempires.com/games/aoeiii/>)_ is develope
 
 ### 0.1 License and Limitation of Liability
 
-Except where otherwise indicated in seperate LICENSE.txt files,this release is free software: you can redistribute it and/or modify it under the terms of the [GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Except where otherwise indicated in seperate LICENSE.txt files, this release is free software: you can redistribute it and/or modify it under the terms of the [GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This release is distributed in the hope that it will be useful, but __WITHOUT ANY WARRANTY__; without even the implied warranty of __MERCHANTABILITY__ or __FITNESS FOR A PARTICULAR PURPOSE__. See the GNU General Public License for more details.
 
