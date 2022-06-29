@@ -28,9 +28,9 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 * The Knights of St. John now have galleys instead of caravels, as the Order historically made great use of galleys.
 
-* In _Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars. _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_
+* In _Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_. Also, Morgan Black says "Good work" when all treasures have been gathered.
 
-* In _Into the Caves_, the secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it.
+* In _Into the Caves_, the secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it, and Morgan Black says "Good work" when you do.
 
 * In _PIRATES!_, the caravel that gets blown up at the start, and any caravels that would be sent from Malta, are now galleys to reflect changes above.
 
