@@ -42,23 +42,34 @@ You should have received a copy of the GNU Lesser General Public License along w
     * _Santa Fè (English: Holy Faith)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
 
 * The Knights of St. John now have the following randoms names for their galleons:
-    * _Beneghem (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _Half Moon (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Antonio di Padova (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Giacomo (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Giorgio (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Giovanni (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Raimondo (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Salvatore (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Vicenzo (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Zaccharia (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _Santa Anna (English: Saint Anne)_: a Knights Hospitaller carrack launched from Nice in 1522<sup>[4]</sup>. She transported the order to Malta on 26th October 1530<sup>[2]</sup> and routed a squadron of 25 Ottoman ships in 1531. In 1532, she assisted in an expedition against the Peloponnese where the entry to the Gulf of Corinth was seized. In 1535, Santa Anna fought in the successful campaign against Tunis as part of a Spanish fleet, and helped them capture over 100 Barbary corsair ships. After she was temporarily employed as a wheat freighter, and after eighteen years service, _Santa Anna_ was stripped and abandoned in 1540.<sup>[4]</sup>
-    * _Santa Catarina (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _Santa Croce (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _Sante Elisabeth (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _Beneghem (English: Bethlehem?)_: a 66-gun Ottomon carrack launched c. 1654, captured by the Knights of St. John in 1700<sup>[7]</sup> and decommissioned c. 1700<sup>[5]</sup>.
+    * _Half Moon_: a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1713<sup>[5]</sup>.
+    * _San Antonio di Padova (English: Saint Anthony of Padua)_: a Knights Hospitaller ship-of-the-line that was launched in 1727 and broken up in 1765<sup>[5]</sup>.
+    * _San Giacomo (English: Saint Giacomo)_:
+        * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1703<sup>[5]</sup>,
+        * a Knights Hospitaller ship-of-the-line that was launched in 1769 and decommissioned c. 1784<sup>[5]</sup>.
+    * _San Giorgio (English: Saint George)_: a Knights Hospitaller ship-of-the-line that was launched in 1719<sup>[5]</sup>.
+    * _San Giovanni (English: Saint John)_:
+        * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1703<sup>[5]</sup>
+        * a Knights Hospitaller carrack or ship-of-the-line that was launched in 1718 and broken up in 1753<sup>[5]</sup>
+        * a Knights Hospitaller ship-of-the-line that was launched in 1720 and broken up c. 1765<sup>[5]</sup>
+        * a Knights Hospitaller ship-of-the-line that was launched in 1768 and decommissioned c. 1784<sup>[5]</sup>.
+    * _San Raimondo (English: Saint Peter)_: ap
+    * _San Salvatore (English: Holy Saviour)_: a Knights Hospitaller ship-of-the-line that was launched c. 1760 and decommissioned in 1762.<sup>[5]</sup>.
+    * _San Vicenzo (English: Saint Vincenzo)_:
+        * a Knights Hospitaller ship-of-the-line that was launched in 1720<sup>[5]</sup>,
+        * a Knights Hospitaller ship-of-the-line that was launched in 1755<sup>[5]</sup>.
+    * _San Zaccharia (English: Saint Zechariah)_: a 64-gun Knights Hospitaller ship-of-the-line launched from Senglea on 7th March 1765. She was captured by the French on 11th June 1798, where she was taken into service as the _Zacharie_, then as the _Dégo_. She was blockaded in the Valletta by the British c. 1798 and used as a prison hulk and source of firewood, before being captured and broken up 1803<sup>[6]</sup>.
+    * _Santa Anna (English: Saint Anne)_: a 50-gun Knights Hospitaller carrack launched from Nice in 1522<sup>[4]</sup>. She transported the order to Malta on 26th October 1530<sup>[2]</sup> and routed a squadron of 25 Ottoman ships in 1531. In 1532, she assisted in an expedition against the Peloponnese where the entry to the Gulf of Corinth was seized. In 1535, Santa Anna fought in the successful campaign against Tunis as part of a Spanish fleet, and helped them capture over 100 Barbary corsair ships. After she was temporarily employed as a wheat freighter, and after eighteen years service, _Santa Anna_ was stripped and abandoned in 1540.<sup>[4]</sup>
+    * _Santa Catarina (English: Saint Peter)_: ap
+    * _Santa Croce (English: Holy Cross)_: a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1706<sup>[5]</sup>.
+    * _Sante Elisabeth (English: Saint Peter)_: ap
 
 ## 2 Sources
 * [1]: [Battle of Lepanto order of battle (English Wikipedia)](<https://en.wikipedia.org/wiki/Battle_of_Lepanto_order_of_battle>)
 * [2]: [Navy of the Order of Saint John (English Wikipedia)](<https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John>)
 * [3]: [Grand Harbour of Malta tornado (English Wikipedia)](<https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado>)
 * [4]: [Santa Anna (1522 ship) (English Wikipedia)](<https://en.wikipedia.org/wiki/Santa_Anna_(1522_ship)>)
+* [5]: [List of ships of the line of the Order of Saint John (English Wikipedia)](<https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_the_Order_of_Saint_John>)
+* [6]: [French ship Dégo (1798) (English Wikipedia)](<https://en.wikipedia.org/wiki/French_ship_D%C3%A9go_(1798)>)
+* [7]: [List of sailing ships of the Ottoman Empire (English Wikipedia)](<https://en.wikipedia.org/wiki/List_of_sailing_ships_of_the_Ottoman_Empire>)
