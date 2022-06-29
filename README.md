@@ -17,7 +17,19 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ## 1 Changes
 
-### 1.1 Names
+### 1.1 Single Player Campaign
+
+* In _Blood, Ice and Steal Act 1: Breakout", Alain Magnan's "knights" are now guard lancers instead of imperial hussars. _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_
+
+* The Knights of St. John now uses a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on [_"Bandiera del Sovrano Militare Ordine di Malta.svg"_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>). Public domain.
+
+* Alain Magnan now has retextured caparison and jupon to match the new flag design detailed above. 
+
+* _St. Elmo_ (Morgan's flagship) now has retextured sails to match the new flag design detailed above.
+
+### 1.2 Units
+
+### 1.3 Random Names
 
 * The Knights of St. John now have the following random names for their galleys:
     * _Capitana (English: Captain)_; a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
