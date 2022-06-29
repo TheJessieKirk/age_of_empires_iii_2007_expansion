@@ -34,6 +34,8 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 * In _PIRATES!_, the caravel that gets blown up at the start, and any caravels that would be sent from Malta, are now galleys to reflect changes above.
 
+* In _Secrets of the New World_ and _The Fountain of Youth_, players can now build walls and outposts.
+
 ### 1.2 Units
 
 ### 1.3 Random Names
@@ -43,7 +45,7 @@ You should have received a copy of the GNU Lesser General Public License along w
     * _San Claudio (English: Saint Claudius)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
     * _San Filippo (English: Saint Philip)_: a Knights Hospitaller galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>. She was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
     * _San Giovanni (English: Saint John)_: a Knights Hospitaller galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>, fought in the Battle of Lepanto (1571)<sup>[1]</sup> and saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
-    * _San Giuseppe (English: Victory)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
+    * _San Giuseppe (English: Saint Joseph)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
     * _San Lorenzo (English: Saint Lawrence)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
     * _San Michele (English: Saint Michael)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
     * _San Pietro (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>. 
@@ -67,7 +69,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         * a Knights Hospitaller ship , c. 1755<sup>[22]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1768 and decommissioned c. 1784<sup>[5]</sup>.
         * a Knights Hospitaller ship-of-the-line that was captured by the French in Valetta before being launched by them and entering service as the _Athénien_. She was subsequently captured by the British and taken into service as the _HMS Athenienne_ c.1798<sup>[8]</sup>. _(I'll add more history if I add British ship names to this mod at a later date. __-Jess__)_
-    * _San Raimondo (English: Saint Peter)_: a 46-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
+    * _San Raimondo (English: Saint Raymond)_: a 46-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
     * _San Salvatore (English: Holy Saviour)_:
         * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1760 and decommissioned in 1762.<sup>[5]</sup>
         * a Turkish ship-of-the-line _Corona Ottomana_ that was captured by the Knights Hospitaller in 1760 after her slaves rebelled.<sup>[22]</sup> 
@@ -78,7 +80,7 @@ You should have received a copy of the GNU Lesser General Public License along w
     * _Santa Anna (English: Saint Anne)_: a 50-gun Knights Hospitaller carrack launched from Nice in 1522<sup>[4]</sup>. She transported the order to Malta on 26th October 1530<sup>[2]</sup> and routed a squadron of 25 Ottoman ships in 1531. In 1532, she assisted in an expedition against the Peloponnese where the entry to the Gulf of Corinth was seized. In 1535, Santa Anna fought in the successful campaign against Tunis as part of a Spanish fleet, and helped them capture over 100 Barbary corsair ships. After she was temporarily employed as a wheat freighter, and after eighteen years service, _Santa Anna_ was stripped and abandoned in 1540.<sup>[4]</sup>
     * _Santa Catarina (English: Saint Peter)_: a 56-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
     * _Santa Croce (English: Holy Cross)_: an Ottomon carrack _La Rosa_, captured by the Knights of St. John in 1706<sup>[7][22]</sup>
-    * _Sante Elisabeth (English: Saint Peter)_: a 32-gun Knights Hospitaller frigate launched from Valetta in 1783. She was captured by the French on 11th June 1798, where she was taken into service as the _Carthaginoise_. She was blockaded in the Valletta by the British c. 1798 and used as a source of firewood, before being captured and broken up c. 1800<sup>[6]</sup>.
+    * _Sante Elisabeth (English: Saint Elizabeth)_: a 32-gun Knights Hospitaller frigate launched from Valetta in 1783. She was captured by the French on 11th June 1798, where she was taken into service as the _Carthaginoise_. She was blockaded in the Valletta by the British c. 1798 and used as a source of firewood, before being captured and broken up c. 1800<sup>[6]</sup>.
 
 * The Knights of St. John now have the following randoms names for their Forts:
     * _Fort Chambray_: a bastioned fort build on the island of Gozo, Malta by the Knights Hospitaller 1749–c. 1760<sup>[11]</sup>.
