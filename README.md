@@ -54,6 +54,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         * a Knights Hospitaller carrack or ship-of-the-line that was launched in 1718 and broken up in 1753<sup>[5]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1720 and broken up c. 1765<sup>[5]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1768 and decommissioned c. 1784<sup>[5]</sup>.
+        * a Knights Hospitaller ship-of-the-line that was captured by the French in Valetta before being launched by them and entering service as the _Athénien_. She was subsequently captured by the British and taken into service as the _HMS Athenienne_ c.1798<sup>[8]</sup>. _(I'll add more history if I add British ship names to this mod at a later date. __-Jess__)_
     * _San Raimondo (English: Saint Peter)_: ap
     * _San Salvatore (English: Holy Saviour)_: a Knights Hospitaller ship-of-the-line that was launched c. 1760 and decommissioned in 1762.<sup>[5]</sup>.
     * _San Vicenzo (English: Saint Vincenzo)_:
@@ -73,3 +74,4 @@ You should have received a copy of the GNU Lesser General Public License along w
 * [5]: [List of ships of the line of the Order of Saint John (English Wikipedia)](<https://en.wikipedia.org/wiki/List_of_ships_of_the_line_of_the_Order_of_Saint_John>)
 * [6]: [French ship Dégo (1798) (English Wikipedia)](<https://en.wikipedia.org/wiki/French_ship_D%C3%A9go_(1798)>)
 * [7]: [List of sailing ships of the Ottoman Empire (English Wikipedia)](<https://en.wikipedia.org/wiki/List_of_sailing_ships_of_the_Ottoman_Empire>)
+* [8]: [HMS Athenienne (1800) (English Wikipedia)](<https://en.wikipedia.org/wiki/HMS_Athenienne_(1800)>)
