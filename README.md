@@ -36,7 +36,10 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 * In _Secrets of the New World_ and _The Fountain of Youth_, players can now build walls and outposts.
 
-### 1.2 Units
+### 1.2 Civilisations
+
+#### Ottomans
+* The Ottomans now use a more historically-accurate _Blue Turks' Flag_; three white crescent moons defacing a blue field. Based on "[_File:Blue Ottoman Flag.svg_](<https://upload.wikimedia.org/wikipedia/commons/d/d1/Blue_Ottoman_Flag.svg>)". Public domain.
 
 ### 1.3 Random Names
 
