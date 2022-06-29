@@ -19,7 +19,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ### 1.1 Single Player Campaign
 
-* In _Blood, Ice and Steal Act 1: Breakout", Alain Magnan's "knights" are now guard lancers instead of imperial hussars. _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_
+* In _Blood, Ice and Steal Act 1: Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars. _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_
 
 * The Knights of St. John now uses a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on [_"Bandiera del Sovrano Militare Ordine di Malta.svg"_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>). Public domain.
 
