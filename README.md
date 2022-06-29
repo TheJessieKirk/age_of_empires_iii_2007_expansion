@@ -23,7 +23,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 * The Knights of St. John now uses a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on [_"Bandiera del Sovrano Militare Ordine di Malta.svg"_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>). Public domain.
 
-* Alain Magnan now has retextured caparison and jupon to match the new flag design detailed above. 
+* Alain Magnan now has a retextured caparison and jupon to match the new flag design detailed above. 
 
 * _St. Elmo_ (Morgan's flagship) now has retextured sails to match the new flag design detailed above.
 
