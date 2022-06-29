@@ -1,4 +1,4 @@
-# Age of Empires III: Definitive Edition Expansion
+# Age of Empires III (2007) Expansion
 
 ## 0. Legal
 Copyright © 2022 Jessie Kirk.
