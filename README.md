@@ -26,7 +26,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 * _St. Elmo_ (Morgan's flagship) now has retextured sails to match the new flag design detailed above.
 
-* The Knights of St. John now have galleys instead of caravels, as this is more historically accurate.
+* The Knights of St. John now have galleys instead of caravels, as the Order historically made great use of galleys.
 
 * In _Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars. _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_
 
