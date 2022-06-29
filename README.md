@@ -94,6 +94,8 @@ You should have received a copy of the GNU Lesser General Public License along w
     * _Fort Tigné_: a polygonal fort build in Marsamxett Harbour, Malta by the Knights Hospitaller 1793–1795<sup>[21]</sup>.
 _(I know the Knights of Malta built forts on at least one of the Carribean island colonies they controlled but I can't find any information, so I went with the ones on Malta __-Jess__)_
 
+* The Circle of Ossus now have more random names for their caravels and galleons. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>). _(For a secret-order-of-European-scientists feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
+
 ## 2 Sources
 * [1]: [Battle of Lepanto order of battle (English Wikipedia)](<https://en.wikipedia.org/wiki/Battle_of_Lepanto_order_of_battle>)
 * [2]: [Navy of the Order of Saint John (English Wikipedia)](<https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John>)
