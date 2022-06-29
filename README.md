@@ -70,6 +70,20 @@ You should have received a copy of the GNU Lesser General Public License along w
     * _Santa Croce (English: Holy Cross)_: a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1706<sup>[5]</sup>.
     * _Sante Elisabeth (English: Saint Peter)_: a 32-gun Knights Hospitaller frigate launched from Valetta in 1783. She was captured by the French on 11th June 1798, where she was taken into service as the _Carthaginoise_. She was blockaded in the Valletta by the British c. 1798 and used as a source of firewood, before being captured and broken up c. 1800<sup>[6]</sup>.
 
+* The Knights of St. John now have the following randoms names for their Forts:
+    * _Fort Chambray_: a bastioned fort build on the island of Gozo, Malta by the Knights Hospitaller 1749–c. 1760<sup>[11]</sup>.
+    * _Fort Manoel_: a star fort build on Manoel Island, Malta by the Knights Hospitaller 1723–1733<sup>[12]</sup>.
+    * _Fort Ricasoli_: a bastioned fort build in Grand Harbour, Malta by the Knights Hospitaller 1670–1698<sup>[13]</sup>.
+    * _Fort Saint Agatha_: a large bastioned watchtower build in Mellieħa, Malta by the Knights Hospitaller c. 1647–1649<sup>[14]</sup>.
+    * _Fort Saint Angelo_: a bastioned fort build on the built in Grand Harbour, Malta by the Knights Hospitaller c. 1200–1691<sup>[15]</sup>.
+    * _Fort Saint Elmo_: a star fort build in Valleta, Malta by the Knights Hospitaller 1552–c. 1570<sup>[16]</sup>.
+    * _Fort Saint Michael_: a small fort build on Senglea, Malta by the Knights Hospitaller 1552–1581<sup>[17]</sup>.
+    * _Fort Saint Thomas_: a large bastioned watchtower build in Marsaskala, Malta by the Knights Hospitaller in 1614<sup>[18]</sup>.
+    * _Fort San Lucian (English: Saint Lucian)_: a large bastioned watchtower/fort build in Marsaxlokk, Malta by the Knights Hospitaller 1610–1611<sup>[19]</sup>.
+    * _Fort San Salvatore (English: Holy Saviour)_: a retrenched fort build in Birgu, Malta by the Knights Hospitaller in 1724<sup>[20]</sup>.
+    * _Fort Tigné_: a polygonal fort build in Marsamxett Harbour, Malta by the Knights Hospitaller 1793–1795<sup>[21]</sup>.
+_(I know the Knights of Malta built forts on at least one of the Carribean island colonies they controlled but I can't find any information, so I went with the ones on Malta __-Jess__)_
+
 ## 2 Sources
 * [1]: [Battle of Lepanto order of battle (English Wikipedia)](<https://en.wikipedia.org/wiki/Battle_of_Lepanto_order_of_battle>)
 * [2]: [Navy of the Order of Saint John (English Wikipedia)](<https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John>)
@@ -81,3 +95,14 @@ You should have received a copy of the GNU Lesser General Public License along w
 * [8]: [HMS Athenienne (1800) (English Wikipedia)](<https://en.wikipedia.org/wiki/HMS_Athenienne_(1800)>)
 * [9]: [Action of 28 September 1644](<https://en.wikipedia.org/wiki/Action_of_28_September_1644>)
 * [10]: [Battle of Matapan 1644](<https://en.wikipedia.org/wiki/Battle_of_Matapan>)
+* [11]: [Fort Chambray](<https://en.wikipedia.org/wiki/Fort_Chambray>)
+* [12]: [Fort_Manoel](<https://en.wikipedia.org/wiki/Fort_Manoel>)
+* [13]: [Fort Ricasoli](<https://en.wikipedia.org/wiki/Fort_Ricasoli>)
+* [14]: [Saint Agatha's Tower](<https://en.wikipedia.org/wiki/Saint_Agatha%27s_Tower>)
+* [15]: [Fort St. Angelo](<https://en.wikipedia.org/wiki/Fort_St._Angelo>)
+* [16]: [Fort Saint Elmo](<https://en.wikipedia.org/wiki/Fort_Saint_Elmo>)
+* [17]: [Fort Saint Michael](<https://en.wikipedia.org/wiki/Fort_Saint_Michael>)
+* [18]: [Saint Thomas Tower](<https://en.wikipedia.org/wiki/Saint_Thomas_Tower>)
+* [19]: [Fort San Lucian](<https://en.wikipedia.org/wiki/Fort_San_Lucian>)
+* [20]: [Fort San Salvatore](<https://en.wikipedia.org/wiki/Fort_San_Salvatore>)
+* [21]: [Fort Tigné](<https://en.wikipedia.org/wiki/Fort_Tign%C3%A9>)
