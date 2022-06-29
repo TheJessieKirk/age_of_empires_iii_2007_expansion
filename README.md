@@ -59,16 +59,16 @@ You should have received a copy of the GNU Lesser General Public License along w
         * a Knights Hospitaller ship-of-the-line that was launched in 1720 and broken up c. 1765<sup>[5]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1768 and decommissioned c. 1784<sup>[5]</sup>.
         * a Knights Hospitaller ship-of-the-line that was captured by the French in Valetta before being launched by them and entering service as the _Athénien_. She was subsequently captured by the British and taken into service as the _HMS Athenienne_ c.1798<sup>[8]</sup>. _(I'll add more history if I add British ship names to this mod at a later date. __-Jess__)_
-    * _San Raimondo (English: Saint Peter)_: ap
+    * _San Raimondo (English: Saint Peter)_: a 46-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
     * _San Salvatore (English: Holy Saviour)_: a Knights Hospitaller ship-of-the-line that was launched c. 1760 and decommissioned in 1762.<sup>[5]</sup>.
     * _San Vicenzo (English: Saint Vincenzo)_:
         * a Knights Hospitaller ship-of-the-line that was launched in 1720<sup>[5]</sup>,
         * a Knights Hospitaller ship-of-the-line that was launched in 1755<sup>[5]</sup>.
     * _San Zaccharia (English: Saint Zechariah)_: a 64-gun Knights Hospitaller ship-of-the-line launched from Senglea on 7th March 1765. She was captured by the French on 11th June 1798, where she was taken into service as the _Zacharie_, then as the _Dégo_. She was blockaded in the Valletta by the British c. 1798 and used as a prison hulk and source of firewood, before being captured and broken up 1803<sup>[6]</sup>.
     * _Santa Anna (English: Saint Anne)_: a 50-gun Knights Hospitaller carrack launched from Nice in 1522<sup>[4]</sup>. She transported the order to Malta on 26th October 1530<sup>[2]</sup> and routed a squadron of 25 Ottoman ships in 1531. In 1532, she assisted in an expedition against the Peloponnese where the entry to the Gulf of Corinth was seized. In 1535, Santa Anna fought in the successful campaign against Tunis as part of a Spanish fleet, and helped them capture over 100 Barbary corsair ships. After she was temporarily employed as a wheat freighter, and after eighteen years service, _Santa Anna_ was stripped and abandoned in 1540.<sup>[4]</sup>
-    * _Santa Catarina (English: Saint Peter)_: ap
+    * _Santa Catarina (English: Saint Peter)_: a 56-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
     * _Santa Croce (English: Holy Cross)_: a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1706<sup>[5]</sup>.
-    * _Sante Elisabeth (English: Saint Peter)_: ap
+    * _Sante Elisabeth (English: Saint Peter)_: a 32-gun Knights Hospitaller frigate launched from Valetta in 1783. She was captured by the French on 11th June 1798, where she was taken into service as the _Carthaginoise_. She was blockaded in the Valletta by the British c. 1798 and used as a source of firewood, before being captured and broken up c. 1800<sup>[6]</sup>.
 
 ## 2 Sources
 * [1]: [Battle of Lepanto order of battle (English Wikipedia)](<https://en.wikipedia.org/wiki/Battle_of_Lepanto_order_of_battle>)
@@ -80,3 +80,4 @@ You should have received a copy of the GNU Lesser General Public License along w
 * [7]: [List of sailing ships of the Ottoman Empire (English Wikipedia)](<https://en.wikipedia.org/wiki/List_of_sailing_ships_of_the_Ottoman_Empire>)
 * [8]: [HMS Athenienne (1800) (English Wikipedia)](<https://en.wikipedia.org/wiki/HMS_Athenienne_(1800)>)
 * [9]: [Action of 28 September 1644](<https://en.wikipedia.org/wiki/Action_of_28_September_1644>)
+* [10]: [Battle of Matapan 1644](<https://en.wikipedia.org/wiki/Battle_of_Matapan>)
