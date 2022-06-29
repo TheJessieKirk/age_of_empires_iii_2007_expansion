@@ -19,11 +19,34 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ### 1.1 Names
 
-* The Knights of St. John now have the following additional ship names for their caravels:
-    * _Angelo (English: Angel)_; three Holy League (Venitian) gallies with this name took part in the Battle of Lepanto (1571)<sup>[1]</sup>.
+* The Knights of St. John now have the following random names for their galleys:
+    * _Capitana (English: Captain)_; a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Claudio (English: Saint Claudius)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
+    * _San Filippo (English: Saint Philip)_: a Knights Hospitaller galley that transported the order to Malta on 26th October 1530<sup>[2]</sup>. She was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
+    * _San Giovanni (English: Saint John)_: a Knights Hospitaller galley that transported the order to Malta on 26th October 1530<sup>[2]</sup>, and fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Michele (English: Saint Michael)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
+    * _San Pietro (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>. 
+    * _Santa Croce (English: Holy Cross)_: a Knights Hospitaller galley that transported the order to Malta on 26th October 1530<sup>[2]</sup>. 
+    * _Santa Fè (English: Holy Faith)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
 
-* The Knights of St. John now have the following ship names for their galleons:
-    * _San Antonio di Padova (English: Saint Anthony of Padua)_; a Knights of St. John carrack (1727–1765)<sup>[3]</sup>.
+* The Knights of St. John now have the following randoms names for their galleons:
+    * _Beneghem (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _Half Moon (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Antonio di Padova (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Giacomo (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Giorgio (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Giovanni (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Raimondo (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Salvatore (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Vicenzo (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Zaccharia (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _Santa Anna (English: Saint Anne)_: a Knights Hospitaller carrack launched from Nice in 1522<sup>[4]</sup>. She transported the order to Malta on 26th October 1530<sup>[2]</sup> and routed a squadron of 25 Ottoman ships in 1531. In 1532, she assisted in an expedition against the Peloponnese where the entry to the Gulf of Corinth was seized. In 1535, Santa Anna fought in the successful campaign against Tunis as part of a Spanish fleet, and helped them capture over 100 Barbary corsair ships. After she was temporarily employed as a wheat freighter, and after eighteen years service, _Santa Anna_ was stripped and abandoned in 1540.<sup>[4]</sup>
+    * _Santa Catarina (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _Santa Croce (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _Sante Elisabeth (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
 
 ## 2 Sources
 * [1]: [Battle of Lepanto order of battle (English Wikipedia)](<https://en.wikipedia.org/wiki/Battle_of_Lepanto_order_of_battle>)
+* [2]: [Navy of the Order of Saint John (English Wikipedia)](<https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John>)
+* [3]: [Grand Harbour of Malta tornado (English Wikipedia)](<https://en.wikipedia.org/wiki/Grand_Harbour_of_Malta_tornado>)
+* [4]: [Santa Anna (1522 ship) (English Wikipedia)](<https://en.wikipedia.org/wiki/Santa_Anna_(1522_ship)>)
