@@ -5,7 +5,7 @@ Copyright © 2022 Jessie Kirk.
 
 This release is __100% unofficial__ and in no way endorsed by Ensemble Studios, [Xbox Game Studios](<https://www.xbox.com/en-US/xbox-game-studios>), [Big Huge Games](<https://bighugegames.com/>), [Tantalus Media](<https://www.tantalus.com.au/>), [Forgotten Empires](<https://www.forgottenempires.net/>), or their affiliates.
 
-_[Age of Empires III: Definitive Edition](<https://www.ageofempires.com/games/aoeiiide/>)_ is developed by [Tantalus Media](<https://www.tantalus.com.au/>) and [Forgotten Empires](<https://www.forgottenempires.net/>), and published by [Xbox Game Studios](<https://www.xbox.com/en-US/xbox-game-studios>). ® or ™, and/or © 2020–2022 of [Microsoft Corporation](<https://www.microsoft.com/en-us/>), or its affiliates.
+_[Age of Empires III](<https://www.ageofempires.com/games/aoeiii/>)_ is developed by Ensemble Studios, [Xbox Game Studios](<https://www.xbox.com/en-US/xbox-game-studios>), [Big Huge Games](<https://bighugegames.com/>), [Tantalus Media](<https://www.tantalus.com.au/>) and [Forgotten Empires](<https://www.forgottenempires.net/>). ® or ™, and/or © 2020–2022 of [Microsoft Corporation](<https://www.microsoft.com/en-us/>), or its affiliates.
 
 ### 0.1 License and Limitation of Liability
 
