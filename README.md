@@ -53,10 +53,10 @@ You should have received a copy of the GNU Lesser General Public License along w
     * _Vittoria (English: Victory)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
 
 * The Knights of St. John now have the following randoms names for their galleons:
-    * _Beneghem (English: Bethlehem?)_: a 66-gun Ottomon carrack launched c. 1654, captured by the Knights of St. John in 1700<sup>[7]</sup> and decommissioned c. 1700<sup>[5]</sup>.
-    * _Half Moon_: a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1713<sup>[5]</sup>.
+    * _Beneghem (Corruption of Berenghemi)_: a 66-gun Ottomon carrack _Sultana Berenghemi_ launched c. 1654, captured by the Knights of St. John in 1700<sup>[7][22]</sup> and decommissioned c. 1700<sup>[5]</sup>.
+    * _Half Moon_: an Algerine carrack or ship-of-the-line that was captured by the Knights Hospitaller in 1713<sup>[5][22]</sup>.
     * _San Antonio di Padova (English: Saint Anthony of Padua)_: a Knights Hospitaller ship-of-the-line that was launched in 1727 and broken up in 1765<sup>[5]</sup>.
-    * _San Giacomo (English: Saint Giacomo)_:
+    * _San Giacomo/San Gioacchino/Saint Joachim (English: Saint Giacomo)_:
         * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1703<sup>[5]</sup>,
         * a Knights Hospitaller ship-of-the-line that was launched in 1769 and decommissioned c. 1784<sup>[5]</sup>.
     * _San Giorgio (English: Saint George)_: a Knights Hospitaller ship-of-the-line that was launched in 1719<sup>[5]</sup>.
@@ -64,17 +64,20 @@ You should have received a copy of the GNU Lesser General Public License along w
         * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1703<sup>[5]</sup>
         * a Knights Hospitaller carrack or ship-of-the-line that was launched in 1718 and broken up in 1753<sup>[5]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1720 and broken up c. 1765<sup>[5]</sup>
+        * a Knights Hospitaller ship , c. 1755<sup>[22]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1768 and decommissioned c. 1784<sup>[5]</sup>.
         * a Knights Hospitaller ship-of-the-line that was captured by the French in Valetta before being launched by them and entering service as the _Athénien_. She was subsequently captured by the British and taken into service as the _HMS Athenienne_ c.1798<sup>[8]</sup>. _(I'll add more history if I add British ship names to this mod at a later date. __-Jess__)_
     * _San Raimondo (English: Saint Peter)_: a 46-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
-    * _San Salvatore (English: Holy Saviour)_: a Knights Hospitaller ship-of-the-line that was launched c. 1760 and decommissioned in 1762.<sup>[5]</sup>.
+    * _San Salvatore (English: Holy Saviour)_:
+        * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1760 and decommissioned in 1762.<sup>[5]</sup>
+        * a Turkish ship-of-the-line _Corona Ottomana_ that was captured by the Knights Hospitaller in 1760 after her slaves rebelled.<sup>[22]</sup> 
     * _San Vicenzo (English: Saint Vincenzo)_:
         * a Knights Hospitaller ship-of-the-line that was launched in 1720<sup>[5]</sup>,
         * a Knights Hospitaller ship-of-the-line that was launched in 1755<sup>[5]</sup>.
     * _San Zaccharia (English: Saint Zechariah)_: a 64-gun Knights Hospitaller ship-of-the-line launched from Senglea on 7th March 1765. She was captured by the French on 11th June 1798, where she was taken into service as the _Zacharie_, then as the _Dégo_. She was blockaded in the Valletta by the British c. 1798 and used as a prison hulk and source of firewood, before being captured and broken up 1803<sup>[6]</sup>.
     * _Santa Anna (English: Saint Anne)_: a 50-gun Knights Hospitaller carrack launched from Nice in 1522<sup>[4]</sup>. She transported the order to Malta on 26th October 1530<sup>[2]</sup> and routed a squadron of 25 Ottoman ships in 1531. In 1532, she assisted in an expedition against the Peloponnese where the entry to the Gulf of Corinth was seized. In 1535, Santa Anna fought in the successful campaign against Tunis as part of a Spanish fleet, and helped them capture over 100 Barbary corsair ships. After she was temporarily employed as a wheat freighter, and after eighteen years service, _Santa Anna_ was stripped and abandoned in 1540.<sup>[4]</sup>
     * _Santa Catarina (English: Saint Peter)_: a 56-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
-    * _Santa Croce (English: Holy Cross)_: a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1706<sup>[5]</sup>.
+    * _Santa Croce (English: Holy Cross)_: an Ottomon carrack _La Rosa_, captured by the Knights of St. John in 1706<sup>[7][22]</sup>
     * _Sante Elisabeth (English: Saint Peter)_: a 32-gun Knights Hospitaller frigate launched from Valetta in 1783. She was captured by the French on 11th June 1798, where she was taken into service as the _Carthaginoise_. She was blockaded in the Valletta by the British c. 1798 and used as a source of firewood, before being captured and broken up c. 1800<sup>[6]</sup>.
 
 * The Knights of St. John now have the following randoms names for their Forts:
@@ -113,3 +116,4 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [19]: [Fort San Lucian (English Wikipedia)](<https://en.wikipedia.org/wiki/Fort_San_Lucian>)
 * [20]: [Fort San Salvatore (English Wikipedia)](<https://en.wikipedia.org/wiki/Fort_San_Salvatore>)
 * [21]: [Fort Tigné (English Wikipedia)](<https://en.wikipedia.org/wiki/Fort_Tign%C3%A9>)
+* [22]: [List of Maltese battleships (Academic)](<https://en-academic.com/dic.nsf/enwiki/517573>)
