@@ -19,13 +19,20 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ### 1.1 Single Player Campaign
 
-* In _Blood, Ice and Steal Act 1: Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars. _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_
-
+#### _Blood, Ice and Steal_ Act 1###
 * The Knights of St. John now uses a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on "[_Bandiera del Sovrano Militare Ordine di Malta.svg_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>)". Public domain.
 
 * Alain Magnan now has a retextured caparison and jupon to match the new flag design detailed above. 
 
 * _St. Elmo_ (Morgan's flagship) now has retextured sails to match the new flag design detailed above.
+
+* The Knights of St. John now have galleys instead of caravels, as this is more historically accurate.
+
+* In _Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars. _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_
+
+* In _Into the Caves_, the secondary objective "find a shipwreck and gather any supplies near it" nis now fixed so you can complete it.
+
+* In _PIRATES!_, the caravel that gets blown up at the start, and any caravels that would be sent from Malta, are now galleys to reflect changes above.
 
 ### 1.2 Units
 
