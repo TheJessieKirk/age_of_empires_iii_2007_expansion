@@ -101,6 +101,18 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 
 * The Circle of Ossus now have more random names for their caravels and galleons. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>). _(For a secret-order-of-European-scientists feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
 
+* Privateers now have the following additional random names:
+    * _Adventure_:
+        * A Jamaican sloop captured by Blackbeard in March 1718, and placed under the command of Israel Hands<sup>[23]</sup>.
+        * A sloop captured by Blackbeard which he was given official title to in June 1718<sup>[23]</sup>.
+    * _Anne Galley_: A pirate ship commanded by Richard Noland c. 1717<sup>[27]</sup>
+    * _Bennet_: A pirate sloop commanded by Benjamin Hornigold, used by him to attack ships sailing near New Providence in 1717<sup>[25]</sup>.
+    * _Happy Return_: A pirate sloop commanded by Benjamin Hornigold, used by him to attack ships sailing near New Providence in the winter of 1713 and/or 1714<sup>[24]</sup>.
+    * _Kingston_: A Jamaican ship captured by Calico Jack and used by him sometime after the 24th November 1718<sup>[26]</sup>.
+    * _Marianne_: A pirate sloop commanded by Paulsgrave Williams, used by him to attack ships sailing near New Providence in the winter of 1713 and/or 1714<sup>[24][27][28]</sup>.
+    * _Sultana_: A pirate galley commanded by Black Sam c. 1717.<sup>[28]</sup>.
+    * _Whydah Gally,_: A pirate sloop commanded by Black Sam c. 1717. It was sunk by a storm on 26th April 1717<sup>[27][28]</sup>.
+
 ## 2 Sources
 * [1]: [Battle of Lepanto order of battle (English Wikipedia)](<https://en.wikipedia.org/wiki/Battle_of_Lepanto_order_of_battle>)
 * [2]: [Navy of the Order of Saint John (English Wikipedia)](<https://en.wikipedia.org/wiki/Navy_of_the_Order_of_Saint_John>)
@@ -124,3 +136,9 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [20]: [Fort San Salvatore (English Wikipedia)](<https://en.wikipedia.org/wiki/Fort_San_Salvatore>)
 * [21]: [Fort Tigné (English Wikipedia)](<https://en.wikipedia.org/wiki/Fort_Tign%C3%A9>)
 * [22]: [List of Maltese battleships (Academic)](<https://en-academic.com/dic.nsf/enwiki/517573>)
+* [23]: [Blackbeard (English Wikipedia)](<https://en.wikipedia.org/wiki/Blackbeard>)
+* [24]: [Benjamin Hornigold (English Wikipedia)](<https://en.wikipedia.org/wiki/Benjamin_Hornigold>)
+* [25]: [Jean Bonadvis (English Wikipedia)](<https://en.wikipedia.org/wiki/Jean_Bonadvis>)
+* [26]: [Calico Jack (English Wikipedia)](<https://en.wikipedia.org/wiki/Calico_Jack>)
+* [27]: [Richard Noland (English Wikipedia)](<https://en.wikipedia.org/wiki/Richard_Noland>)
+* [28]: [Samuel Bellamy (English Wikipedia)](<https://en.wikipedia.org/wiki/Samuel_Bellamy>)
