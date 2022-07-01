@@ -44,12 +44,28 @@ You should have received a copy of the GNU Lesser General Public License along w
 #### Minor Civilizations
 * Changed "Aztec" to "Mēxihcah"<sup>[36]</sup>.
 * Changed "Carib" to "Kalinago"<sup>[29]</sup>.
+* Changed "Cayuga" to "Gayogo̱hó꞉nǫʼ"<sup>[41]</sup>.
+* Changed "Cherokee" to "Aniyvwiyaʔi"<sup>[45]</sup>.
+* Changed "Cheyenne" to "Tsétsêhéstâhese"<sup>[48]</sup>.
 * Changed "Comanche" to "Nʉmʉnʉʉ"<sup>[30]</sup>.
 * Changed "Cree" to "Néhinaw"<sup>[31]</sup>.
+* Changed "Dakota" to "Dakȟóta"<sup>[44]</sup>.
 * Changed "Huari" to "Aikanã"<sup>[35]</sup>.
+* Changed "Huran" to "Waⁿdát"<sup>[46]</sup>.
 * Changed "Inca" to "Tawantinsuyu"<sup>[34]</sup>.
 * Chanced "Iroquois" to "Haudenosaunee"<sup>[32]</sup>.
+* Chanced "Lakota" and "Sioux" to "Lakȟóta"<sup>[32]</sup>.
+* Chanced "Mapuche" to "Reche"<sup>[50]</sup>.
+* Changed "Mohawk" to "Kanienʼkehá꞉ka"<sup>[37]</sup>.
+* Changed "Navajo" to "Diné"<sup>[51]</sup>.
 * Changed "Nootka" to "Nuučaan̓ułʔatḥ"<sup>[33]</sup>.
+* Changed "Oneida" to "Onʌyoteˀa·ká·"<sup>[40]</sup>.
+* Changed "Onondaga" to "Onöñda’gaga’"<sup>[39]</sup>.
+* Changed "Seminole" to "yat'Siminoli"<sup>[46]</sup>.
+* Changed "Seneca" to "Onödowáʼga"<sup>[38]</sup>.
+* Changed "Sioux" to "Lakȟóta"<sup>[43]</sup>.
+* Changed "Tuscarora" to "Skarù:ręˀ"<sup>[42]</sup>.
+* Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
 
 ### 1.3 Random Names
 
@@ -156,7 +172,23 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [30]: [Comanche (English Wikipedia)](<https://en.wikipedia.org/wiki/Comanche>)
 * [31]: [Cree (English Wikipedia)](<https://en.wikipedia.org/wiki/Cree>)
 * [32]: [Iroquois (English Wikipedia)](<https://en.wikipedia.org/wiki/Iroquois>)
-* [33]: [Nuu-chah-nulth (English Wikipedia)](https://en.wikipedia.org/wiki/Nuu-chah-nulth>)
-* [34]: [Inca Empire (English Wikipedia)](https://en.wikipedia.org/wiki/Inca_Empire>)
-* [35]: [Aikanã people (English Wikipedia)](https://en.wikipedia.org/wiki/Aikan%C3%A3_people>)
-* [36]: [Aztecs (English Wikipedia)](https://en.wikipedia.org/wiki/Aztecs>)
+* [33]: [Nuu-chah-nulth (English Wikipedia)](<https://en.wikipedia.org/wiki/Nuu-chah-nulth>)
+* [34]: [Inca Empire (English Wikipedia)](<https://en.wikipedia.org/wiki/Inca_Empire>)
+* [35]: [Aikanã people (English Wikipedia)](<https://en.wikipedia.org/wiki/Aikan%C3%A3_people>)
+* [36]: [Aztecs (English Wikipedia)](<https://en.wikipedia.org/wiki/Aztecs>)
+* [37]: [Mohawk people (English Wikipedia)](<https://en.wikipedia.org/wiki/Mohawk_people>)
+* [38]: [Seneca people (English Wikipedia)](<https://en.wikipedia.org/wiki/Seneca_people>)
+* [39]: [Onondaga people (English Wikipedia)](<https://en.wikipedia.org/wiki/Onondaga_people>)
+* [40]: [Oneida people (English Wikipedia)](<https://en.wikipedia.org/wiki/Oneida_people>)
+* [41]: [Cayuga people (English Wikipedia)](<https://en.wikipedia.org/wiki/Cayuga_people>)
+* [42]: [Tuscarora people (English Wikipedia)](<https://en.wikipedia.org/wiki/Tuscarora_people>)
+* [43]: [Lakota people (English Wikipedia)](<https://en.wikipedia.org/wiki/Lakota_people>)
+* [44]: [Dakota people (English Wikipedia)](<https://en.wikipedia.org/wiki/Dakota_people>)
+* [45]: [Cherokee (English Wikipedia)](<https://en.wikipedia.org/wiki/Cherokee>)
+* [46]: [Seminole (English Wikipedia)](<https://en.wikipedia.org/wiki/Seminole>)
+* [47]: [Apache (English Wikipedia)](<https://en.wikipedia.org/wiki/Apache>)
+* [48]: [Cheyenne (English Wikipedia)](<https://en.wikipedia.org/wiki/Cheyenne>)
+* [49]: [Wyandot_people (English Wikipedia)](<https://en.wikipedia.org/wiki/Wyandot_people>)
+* [50]: [Mapuche (English Wikipedia)](<https://en.wikipedia.org/wiki/Mapuche>)
+* [51]: [Navajo (English Wikipedia)](<https://en.wikipedia.org/wiki/Navajo>)
+* [52]: [Zapotec civilization (English Wikipedia)](<https://en.wikipedia.org/wiki/Zapotec_civilization>)
