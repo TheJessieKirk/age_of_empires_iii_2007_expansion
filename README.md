@@ -51,10 +51,10 @@ You should have received a copy of the GNU Lesser General Public License along w
 * Changed "Cree" to "Néhinaw"<sup>[31]</sup>.
 * Changed "Dakota" to "Dakȟóta"<sup>[44]</sup>.
 * Changed "Huari" to "Aikanã"<sup>[35]</sup>.
-* Changed "Huran" to "Waⁿdát"<sup>[46]</sup>.
+* Changed "Huron" to "Waⁿdát"<sup>[46]</sup>.
 * Changed "Inca" to "Tawantinsuyu"<sup>[34]</sup>.
 * Chanced "Iroquois" to "Haudenosaunee"<sup>[32]</sup>.
-* Chanced "Lakota" and "Sioux" to "Lakȟóta"<sup>[32]</sup>.
+* Chanced "Lakota" and "Sioux" to "Lakȟóta"<sup>[32][43]</sup>.
 * Chanced "Mapuche" to "Reche"<sup>[50]</sup>.
 * Changed "Mohawk" to "Kanienʼkehá꞉ka"<sup>[37]</sup>.
 * Changed "Navajo" to "Diné"<sup>[51]</sup>.
@@ -63,7 +63,6 @@ You should have received a copy of the GNU Lesser General Public License along w
 * Changed "Onondaga" to "Onöñda’gaga’"<sup>[39]</sup>.
 * Changed "Seminole" to "yat'Siminoli"<sup>[46]</sup>.
 * Changed "Seneca" to "Onödowáʼga"<sup>[38]</sup>.
-* Changed "Sioux" to "Lakȟóta"<sup>[43]</sup>.
 * Changed "Tuscarora" to "Skarù:ręˀ"<sup>[42]</sup>.
 * Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
 
