@@ -42,6 +42,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 * The Ottomans now use a more historically-accurate _Blue Turks' Flag_; three white crescent moons defacing a blue field. Based on "[_File:Blue Ottoman Flag.svg_](<https://upload.wikimedia.org/wikipedia/commons/d/d1/Blue_Ottoman_Flag.svg>)". Public domain.
 
 #### Minor Civilizations
+* Changed "Apache" to "Indé"<sup>[55]</sup>.
 * Changed "Aztec" to "Mēxihcah"<sup>[36]</sup>.
 * Changed "Carib" to "Kalinago"<sup>[29]</sup>.
 * Changed "Cayuga" to "Gayogo̱hó꞉nǫʼ"<sup>[41]</sup>.
@@ -54,6 +55,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 * Changed "Huron" to "Waⁿdát"<sup>[46]</sup>.
 * Changed "Inca" to "Tawantinsuyu"<sup>[34]</sup>.
 * Chanced "Iroquois" to "Haudenosaunee"<sup>[32]</sup>.
+* Changed "Jesuit" to "Societas Iesu"<sup>[54]</sup>.
 * Chanced "Lakota" and "Sioux" to "Lakȟóta"<sup>[32][43]</sup>.
 * Chanced "Mapuche" to "Reche"<sup>[50]</sup>.
 * Changed "Mohawk" to "Kanienʼkehá꞉ka"<sup>[37]</sup>.
@@ -63,6 +65,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 * Changed "Onondaga" to "Onöñda’gaga’"<sup>[39]</sup>.
 * Changed "Seminole" to "yat'Siminoli"<sup>[46]</sup>.
 * Changed "Seneca" to "Onödowáʼga"<sup>[38]</sup>.
+* Changed "Shaolin" to "Chan" and "Kung Fu"<sup>[53]</sup>.
 * Changed "Tuscarora" to "Skarù:ręˀ"<sup>[42]</sup>.
 * Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
 
@@ -124,7 +127,7 @@ You should have received a copy of the GNU Lesser General Public License along w
     * _Fort Tigné_: a polygonal fort build in Marsamxett Harbour, Malta by the Knights Hospitaller 1793–1795<sup>[21]</sup>.
 _(I know the Knights of Malta built forts on at least one of the Carribean island colonies they controlled but I can't find any information, so I went with the ones on Malta __-Jess__)_
 
-* The Circle of Ossus now have more random names for their caravels and galleons. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>). _(For a secret-order-of-European-scientists feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
+* The Circle of Ossus now have more random names for their caravels and galleons. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>) and _The Key of Solomon_. _(For a secret-order-of-European-scientists/exorcist feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
 
 * Privateers now have the following additional random names:
     * _Adventure_:
@@ -191,3 +194,6 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [50]: [Mapuche (English Wikipedia)](<https://en.wikipedia.org/wiki/Mapuche>)
 * [51]: [Navajo (English Wikipedia)](<https://en.wikipedia.org/wiki/Navajo>)
 * [52]: [Zapotec civilization (English Wikipedia)](<https://en.wikipedia.org/wiki/Zapotec_civilization>)
+* [53]: [Shaolin Monastery (English Wikipedia)](<https://en.wikipedia.org/wiki/Shaolin_Monastery>)
+* [54]: [Society of Jesus (English Wikipedia)](<https://en.wikipedia.org/wiki/Society_of_Jesus>)
+* [55]: [Apache (English Wikipedia)](<https://en.wikipedia.org/wiki/Apache>)
