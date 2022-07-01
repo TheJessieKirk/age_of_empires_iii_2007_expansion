@@ -1505,7 +1505,7 @@
         <string _locid="22868" symbol="cStringCivNameOttoman">Ottomans</string>
         <string _locid="22872" symbol="cStringNativeNameAztec">Mēxihcah</string>
         <string _locid="22873" symbol="cStringNativeNameMaya">Maya</string>
-        <string _locid="22874" symbol="cStringNativeNameInca">Incas</string>
+        <string _locid="22874" symbol="cStringNativeNameInca">Tawantinsuyu</string>
         <string _locid="22875" symbol="cStringNativeNameTupi">Tupi</string>
         <string _locid="22876" symbol="cStringNativeNameCarib">Kalinago</string>
         <string _locid="22877" symbol="cStringNativeNameSeminole">yat'Siminoli</string>
@@ -1905,10 +1905,10 @@
         <string _locid="24183">Aniyvwiyaʔi Rifleman</string>
         <string _locid="24184">Néhinaw rifleman with a good line of sight and long range.</string>
         <string _locid="24185">Néhinaw Tracker</string>
-        <string _locid="24186">Inca infantry armed with a flexible spear. Good against cavalry.</string>
-        <string _locid="24187">Incan Huaminca</string>
-        <string _locid="24188">Inca infantry that hurls bolas for a wide area of effect.</string>
-        <string _locid="24189">Incan Bolas Warrior</string>
+        <string _locid="24186">Tawantinsuyu infantry armed with a flexible spear. Good against cavalry.</string>
+        <string _locid="24187">Tawantinsuyu Huaminca</string>
+        <string _locid="24188">Tawantinsuyu infantry that hurls bolas for a wide area of effect.</string>
+        <string _locid="24189">Tawantinsuyu Bolas Warrior</string>
         <string _locid="24190">Maya barbed spearmen. Good against cavalry or buildings.</string>
         <string _locid="24191">Maya Holcan Spearman</string>
         <string _locid="24192">Nuučaan̓ułʔatḥ warrior armed with a wooden club.</string>
@@ -1923,7 +1923,7 @@
         <string _locid="24205">Champion Rifleman</string>
         <string _locid="24206">Néhinaw warrior attack and hitpoints increased.</string>
         <string _locid="24209">Champion Tracker</string>
-        <string _locid="24214">Inca warrior attack and hitpoints increased.</string>
+        <string _locid="24214">Tawantinsuyu warrior attack and hitpoints increased.</string>
         <string _locid="24217">Champion Bolas Warrior</string>
         <string _locid="24218">Maya warrior attack and hitpoints increased.</string>
         <string _locid="24221">Champion Holcan Spearman</string>
@@ -1938,8 +1938,8 @@
         <string _locid="24251">yat'Siminoli bow-making techniques improve the damage of all archers.</string>
         <string _locid="24252">yat'Siminoli Bowyer</string>
         <string _locid="24254">Néhinaw Kinship</string>
-        <string _locid="24255">Advanced Incan road-building techniques mean all your infantry move faster.</string>
-        <string _locid="24256">Incan Road-building</string>
+        <string _locid="24255">Advanced Tawantinsuyu road-building techniques mean all your infantry move faster.</string>
+        <string _locid="24256">Tawantinsuyu Road-building</string>
         <string _locid="24258">Skillful Néhinaw leatherworking lets you better protect your soldiers. All infantry and cavalry hitpoints increased.</string>
         <string _locid="24259">Néhinaw Tanning</string>
         <string _locid="24261">The Maya teach you how to weave cotton armor. Hand infantry hitpoints increased.</string>
@@ -2052,7 +2052,7 @@
         <string _locid="24988">NAT Lakȟóta Axe Rider</string>
         <string _locid="24989">NAT Tupi Archer</string>
         <string _locid="24990">NAT Kalinago Blowgunner</string>
-        <string _locid="24992">NAT Inca Bolas Man</string>
+        <string _locid="24992">NAT Tawantinsuyu Bolas Man</string>
         <string _locid="24993">INF Cassador</string>
         <string _locid="24994">AR Heavy Cannon</string>
         <string _locid="24995">CAV Cavalry Archer</string>
@@ -2072,7 +2072,7 @@
         <string _locid="25011">INF Highlander</string>
         <string _locid="25012">NAT Maya Holcan Spearman</string>
         <string _locid="25013">NAT Nʉmʉnʉʉ Horse Archer</string>
-        <string _locid="25014">NAT Incan Huaminca</string>
+        <string _locid="25014">NAT Tawantinsuyu Huaminca</string>
         <string _locid="25015">NAT Mēxihcah Jaguar Warrior</string>
         <string _locid="25016">INF Landsknecht</string>
         <string _locid="25017">INF Janissary</string>
@@ -2429,15 +2429,15 @@
         <string _locid="25910">Native American building. Build a Trading Post to forge an alliance.</string>
         <string _locid="25911">"These are our lands, but we will permit you to build a Trading Post here to forge an alliance between our people."</string>
         <string _locid="25912">Native Building</string>
-        <string _locid="25913">NAT Meso Inca</string>
+        <string _locid="25913">NAT Meso Tawantinsuyu</string>
         <string _locid="25915">Native American building. Build a Trading Post to forge an alliance.</string>
         <string _locid="25916">"These are our lands, but we will permit you to build a Trading Post here to forge an alliance between our people."</string>
         <string _locid="25917">Native Building</string>
         <string _locid="25918">NAT Rainforest Carib</string>
-        <string _locid="25920">Fast Incan communications lets you train soldiers faster.</string>
-        <string _locid="25921">Incan Chasquis Messengers</string>
+        <string _locid="25920">Fast Tawantinsuyu communications lets you train soldiers faster.</string>
+        <string _locid="25921">Tawantinsuyu Chasquis Messengers</string>
         <string _locid="25922">Villagers gather Coin from Mines faster.</string>
-        <string _locid="25923">Incan Metalworking</string>
+        <string _locid="25923">Tawantinsuyu Metalworking</string>
         <string _locid="25931">Ships a Factory Wagon to the New World, allowing you to construct a powerful Factory to produce resources or heavy artillery.</string>
         <string _locid="25932">Factory</string>
         <string _locid="25942" symbol="cStringGCHomeCityBtn">Home City</string>
@@ -2714,7 +2714,7 @@
         <string _locid="26912" gamecharacter="Alain" soundfilename="ALAI0040" portraitfilename="units\spc\alain\alain_igc_portrait">Well done, Morgan. The treasure fleet is ours, and my men control the lake.</string>
         <string _locid="26913" gamecharacter="Inca Warrior" soundfilename="CHIL0000" portraitfilename="units\spc\chilche_young\chilche_young_portrait">I will warn you as I warned the conquistador. The Lago Del Luna is an elder power. Do not trifle with it.</string>
         <string _locid="26914" gamecharacter="Alain" soundfilename="ALAI0045" portraitfilename="units\spc\alain\alain_igc_portrait">Morgan, why is that savage still alive?</string>
-        <string _locid="26915" gamecharacter="Morgan" soundfilename="MORG0145" portraitfilename="units\spc\morgan_black\morgan_black_igc_icon">The Inca prisoners helped us against the Spanish. It makes no sense to kill them.</string>
+        <string _locid="26915" gamecharacter="Morgan" soundfilename="MORG0145" portraitfilename="units\spc\morgan_black\morgan_black_igc_icon">The Tawantinsuyu prisoners helped us against the Spanish. It makes no sense to kill them.</string>
         <string _locid="26916" gamecharacter="Alain" soundfilename="ALAI0050" portraitfilename="units\spc\alain\alain_igc_portrait">I am Knight Commander, and you will follow my orders. Execute the Turk and the others, then rendezvous with me at the Lake.</string>
         <string _locid="26917" gamecharacter="Sahin" soundfilename="SAHI0045" portraitfilename="units\spc\sahin\sahin_igc_icon">Do you see it now, Frenk? You have been tricked.</string>
         <string _locid="26918" gamecharacter="Morgan" soundfilename="MORG0150" portraitfilename="units\spc\morgan_black\morgan_black_igc_icon">Silence!</string>
@@ -2880,7 +2880,7 @@
         <string _locid="27096" gamecharacter="Cooper" soundfilename="COOP0030" portraitfilename="units\spc\major_cooper\major_cooper_igc_icon">Escaped, and killed my best men in the process.</string>
         <string _locid="27097" gamecharacter="Kanyenke" soundfilename="KANY0160" portraitfilename="units\spc\kanyenke_old\igc_kanyenke_old_portrait">You see? Beaumont will go to Florida, and extract from the yat'Siminoli what he could not learn from you. And even if the lake is a myth, there is lost Spanish gold in the swamps.</string>
         <string _locid="27098" gamecharacter="Amelia" soundfilename="AMEL0090" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Then that's where we're going.</string>
-        <string _locid="27099" gamecharacter="Minion" soundfilename="GENR0075" portraitfilename="units\spc\boneguard\boneguard_age2_portrait">Grand Inquisitor, the yat'Siminoli says the Inca took the water, but he does not know where they went.</string>
+        <string _locid="27099" gamecharacter="Minion" soundfilename="GENR0075" portraitfilename="units\spc\boneguard\boneguard_age2_portrait">Grand Inquisitor, the yat'Siminoli says the Tawantinsuyu took the water, but he does not know where they went.</string>
         <string _locid="27100" gamecharacter="Beaumont" soundfilename="BEAU0040" portraitfilename="units\spc\beaumont\beaumont_igc_icon">Be sure he knows nothing. Take his toes first, then his fingers, one at a time.</string>
         <string _locid="27101" gamecharacter="Minion" soundfilename="GENR0080" portraitfilename="units\spc\boneguard\boneguard_age2_portrait">We have found several doubloons, but most of the Spanish fleet is still buried.</string>
         <string _locid="27102" gamecharacter="Beaumont" soundfilename="BEAU0045" portraitfilename="units\spc\beaumont\beaumont_igc_icon">Get the gold, then we search for the water. Dig faster. The pretty one and her friends will be here soon.</string>
@@ -2893,21 +2893,21 @@
         <string _locid="27109" gamecharacter="Amelia" soundfilename="AMEL0100" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Cooper!</string>
         <string _locid="27110" gamecharacter="Amelia" soundfilename="AMEL0105" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Beaumont will pay for this.</string>
         <string _locid="27111" gamecharacter="Kanyenke" soundfilename="KANY0170" portraitfilename="units\spc\kanyenke_old\igc_kanyenke_old_portrait">The Circle's stronghold is in Havana, but I am not so sure that is where Beaumont went. The local yat'Siminoli have a legend ... but their chief can explain better than I can.</string>
-        <string _locid="27112" gamecharacter="Seminole Chief" soundfilename="GENR0090" portraitfilename="units\natives\native_villager_icon_portrait">In the time of the knight Morgan, the Inca took many barrels of the water to Pacamayo Valley.</string>
-        <string _locid="27113" gamecharacter="Amelia" soundfilename="AMEL0110" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Inca? The Inca are all dead.</string>
+        <string _locid="27112" gamecharacter="Seminole Chief" soundfilename="GENR0090" portraitfilename="units\natives\native_villager_icon_portrait">In the time of the knight Morgan, the Tawantinsuyu took many barrels of the water to Pacamayo Valley.</string>
+        <string _locid="27113" gamecharacter="Amelia" soundfilename="AMEL0110" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Tawantinsuyu? The Tawantinsuyu are all dead.</string>
         <string _locid="27114" gamecharacter="Seminole Chief" soundfilename="GENR0100" portraitfilename="units\natives\native_villager_icon_portrait">My father told me that many captives returned to their homeland when the Spanish fleet was sunk. </string>
         <string _locid="27115" gamecharacter="Amelia" soundfilename="AMEL0115" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Then we must find their homeland before Beaumont does.</string>
         <string _locid="27120" gamecharacter="Bolivar" soundfilename="BOLI0000" portraitfilename="units\spc\bolivar\bolivar_igc_icon">You have helped bring freedom to my people. How can we repay you?</string>
         <string _locid="27121" gamecharacter="Amelia" soundfilename="AMEL0130" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Can you spare a guide? We need to travel east to Pacamayo Valley.</string>
         <string _locid="27122" gamecharacter="Bolivar" soundfilename="BOLI0005" portraitfilename="units\spc\bolivar\bolivar_igc_icon">I will send men with you, but be careful. The mountains are treacherous this time of year.</string>
         <string _locid="27123" gamecharacter="Amelia" soundfilename="AMEL0135" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">We'll take our chances. Good luck, General.</string>
-        <string _locid="27124" gamecharacter="Kanyenke" soundfilename="KANY0185" portraitfilename="units\spc\kanyenke_old\igc_kanyenke_old_portrait">The Inca still live.</string>
+        <string _locid="27124" gamecharacter="Kanyenke" soundfilename="KANY0185" portraitfilename="units\spc\kanyenke_old\igc_kanyenke_old_portrait">The Tawantinsuyu still live.</string>
         <string _locid="27125" gamecharacter="Amelia" soundfilename="AMEL0140" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">This place -- is it real?</string>
         <string _locid="27126" gamecharacter="Amelia" soundfilename="AMEL0145" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Hold your fire!</string>
         <string _locid="27129" gamecharacter="Amelia" soundfilename="AMEL0155" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">My name is Amelia Black.</string>
         <string _locid="27130" gamecharacter="High Priest" soundfilename="CHIL0015" portraitfilename="units\spc\chilche_old\chilche_old_igc_icon">I know who you are. You are the descendent of the knight who saved my people long ago. This battle was years in the making.</string>
         <string _locid="27131" gamecharacter="Amelia" soundfilename="AMEL0160" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">What battle?</string>
-        <string _locid="27134" gamecharacter="High Priest" soundfilename="CHIL0030" portraitfilename="units\spc\chilche_old\chilche_old_igc_icon">The water is not important. My people must come first. Help us defend the last city of the Inca, Amelia Black.</string>
+        <string _locid="27134" gamecharacter="High Priest" soundfilename="CHIL0030" portraitfilename="units\spc\chilche_old\chilche_old_igc_icon">The water is not important. My people must come first. Help us defend the last city of the Tawantinsuyu, Amelia Black.</string>
         <string _locid="27136" gamecharacter="High Priest" soundfilename="CHIL0035" portraitfilename="units\spc\chilche_old\chilche_old_igc_icon">Your people fight well.</string>
         <string _locid="27139" gamecharacter="Kanyenke" soundfilename="KANY0190" portraitfilename="units\spc\kanyenke_old\igc_kanyenke_old_portrait">This is not over yet. Beaumont escaped with several barrels of the water.</string>
         <string _locid="27141" gamecharacter="Amelia" soundfilename="AMEL0170" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">We've got to stop him!</string>
@@ -2993,7 +2993,7 @@
         <string _locid="27254" gamecharacter="Morgan" soundfilename="MORG5220">We'll have to siege the forts from land.</string>
         <string _locid="27255" gamecharacter="Morgan" soundfilename="MORG5225">We need to capture just one more treasure ship.</string>
         <string _locid="27256" gamecharacter="Soldier" soundfilename="GENR5050">We can't sail past those forts - they have the bay entrance covered with cannon. They'll tear us to shreds.</string>
-        <string _locid="27257" gamecharacter="Morgan" soundfilename="MORG5230">Inca prisoners! Free them!.</string>
+        <string _locid="27257" gamecharacter="Morgan" soundfilename="MORG5230">Tawantinsuyu prisoners! Free them!.</string>
         <string _locid="27258" gamecharacter="Sahin" soundfilename="SAHI5010">Morgan Black has come to my rescue? Unbelievable.</string>
         <string _locid="27259" gamecharacter="Morgan" soundfilename="MORG5235">Not to worry, Falcon. I just want the honor of gutting you myself.</string>
         <string _locid="27260" gamecharacter="Morgan" soundfilename="MORG5240">The treasure fleet is ours!</string>
@@ -3134,7 +3134,7 @@
         <string _locid="27444" gamecharacter="Amelia" soundfilename="AMEL5075">All that remains is to destroy Beaumont's town center.</string>
         <string _locid="27445" gamecharacter="Amelia" soundfilename="AMEL5080">We've done it! Beaumont's base in this swamp is no more!</string>
         <string _locid="27449" gamecharacter="Bolivar" soundfilename="BOLI5000" portraitfilename="units\spc\bolivar\bolivar_igc_icon">I am General Bolivar. What are you doing here? Are you with the Spanish?</string>
-        <string _locid="27450" gamecharacter="Amelia" soundfilename="AMEL5085" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">No. We're chasing a Frenchman -- Beaumont. He's looking for the old Inca lands.</string>
+        <string _locid="27450" gamecharacter="Amelia" soundfilename="AMEL5085" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">No. We're chasing a Frenchman -- Beaumont. He's looking for the old Tawantinsuyu lands.</string>
         <string _locid="27451" gamecharacter="Kanyenke" soundfilename="KANY5125">Troops are approaching ... but they are not attacking.</string>
         <string _locid="27452" gamecharacter="Spanish Villager" soundfilename="GENR5250">Thank you. Take these resources and use the military buildings the Spanish left behind.</string>
         <string _locid="27453" gamecharacter="Bolivar" soundfilename="BOLI5005" portraitfilename="units\spc\bolivar\bolivar_igc_icon">I know this place. You'll never get past the Spanish.</string>
@@ -3162,13 +3162,13 @@
         <string _locid="27475" gamecharacter="High Priest" soundfilename="CHIL5005">Another wave of enemy soldiers is coming.</string>
         <string _locid="27477" gamecharacter="High Priest" soundfilename="CHIL5015">The enemies are bringing cannon -- send your cavalry to destroy them.</string>
         <string _locid="27479" gamecharacter="High Priest" soundfilename="CHIL5025">A group of our brave warriors has returned from patrol -- use them where they are needed most.</string>
-        <string _locid="27480" gamecharacter="Amelia" soundfilename="AMEL5145">We've got to strengthen the defenses of this Inca city however we can!</string>
+        <string _locid="27480" gamecharacter="Amelia" soundfilename="AMEL5145">We've got to strengthen the defenses of this Tawantinsuyu city however we can!</string>
         <string _locid="27487" gamecharacter="High Priest" soundfilename="CHIL5030">Our cannon are on their way -- you have to hold out until they reach us!</string>
         <string _locid="27488" gamecharacter="High Priest" soundfilename="CHIL5035">Protect our approaching cannon from enemy patrols!</string>
-        <string _locid="27492" gamecharacter="Amelia" soundfilename="AMEL5190">They've destroyed one of the sacred Inca temples.</string>
-        <string _locid="27493" gamecharacter="High Priest" soundfilename="CHIL5040">They have destroyed another Inca temple.</string>
-        <string _locid="27494" gamecharacter="High Priest" soundfilename="CHIL5045">If our enemies destroy all of the temples, the Inca will lose the city and all hope.</string>
-        <string _locid="27495" gamecharacter="High Priest" soundfilename="CHIL5050">There is only one Inca temple left in the city -- it must not fall!</string>
+        <string _locid="27492" gamecharacter="Amelia" soundfilename="AMEL5190">They've destroyed one of the sacred Tawantinsuyu temples.</string>
+        <string _locid="27493" gamecharacter="High Priest" soundfilename="CHIL5040">They have destroyed another Tawantinsuyu temple.</string>
+        <string _locid="27494" gamecharacter="High Priest" soundfilename="CHIL5045">If our enemies destroy all of the temples, the Tawantinsuyu will lose the city and all hope.</string>
+        <string _locid="27495" gamecharacter="High Priest" soundfilename="CHIL5050">There is only one Tawantinsuyu temple left in the city -- it must not fall!</string>
         <string _locid="27496" gamecharacter="High Priest" soundfilename="CHIL5055">The city is saved!</string>
         <string _locid="27497" gamecharacter="Amelia" soundfilename="AMEL5195">Our ships ... they're all destroyed!</string>
         <string _locid="27498" gamecharacter="Kanyenke" soundfilename="KANY5170">The Boneguard navy is attacking!</string>
@@ -3241,7 +3241,7 @@
         <string _locid="27565">The Lost Spanish Gold</string>
         <string _locid="27566">Bolivar's Revolt</string>
         <string _locid="27567">Journey through the Andes</string>
-        <string _locid="27568">Last City of the Inca</string>
+        <string _locid="27568">Last City of the Tawantinsuyu</string>
         <string _locid="27569">Last Stand of the Boneguard</string>
         <string _locid="27574">Act I: Blood</string>
         <string _locid="27575">Answers</string>
@@ -3277,7 +3277,7 @@
         <string _locid="27605">Cooper's Stand</string>
         <string _locid="27606">In the Middle of War</string>
         <string _locid="27607">The Rebel Leader</string>
-        <string _locid="27608">Inca Pacamayo</string>
+        <string _locid="27608">Tawantinsuyu Pacamayo</string>
         <string _locid="27609">Water from the Fountain</string>
         <string _locid="27610">The Ossuary</string>
         <string _locid="27611">Payback</string>
@@ -3623,7 +3623,7 @@
         <string _locid="28983">Patagonia</string>
         <string _locid="28984" symbol="cStringRMSPatagoniadesc">Patagonia: continent with Trade Routes, but no Natives.</string>
         <string _locid="28985">Andes</string>
-        <string _locid="28986">Andes: The Inca can prove a powerful ally, but watch out for the warlike Huari.</string>
+        <string _locid="28986">Andes: The Tawantinsuyu can prove a powerful ally, but watch out for the warlike Aikanã.</string>
         <string _locid="28987" symbol="cStringHCFrenchCathedral">Notre Dame Cathedral</string>
         <string _locid="28989" symbol="cStringRussianCathedral">St. Basil's Cathedral</string>
         <string _locid="28991" symbol="cStringOttomanCathedral">Hagia Sophia</string>
@@ -3742,7 +3742,7 @@
         <string _locid="29385">Champion Tupi</string>
         <string _locid="29386">Champion Kalinago</string>
         <string _locid="29388">Champion Nʉmʉnʉʉ</string>
-        <string _locid="29389">Champion Inca</string>
+        <string _locid="29389">Champion Tawantinsuyu</string>
         <string _locid="29390">Champion Haudenosaunee</string>
         <string _locid="29391">Champion Maya</string>
         <string _locid="29392">Champion Aniyvwiyaʔi</string>
@@ -3947,7 +3947,7 @@
         <string _locid="29939">Kalinago Settlement</string>
         <string _locid="29940">Nʉmʉnʉʉ Settlement</string>
         <string _locid="29941">Néhinaw Settlement</string>
-        <string _locid="29942">Inca Settlement</string>
+        <string _locid="29942">Tawantinsuyu Settlement</string>
         <string _locid="29943">Haudenosaunee Settlement</string>
         <string _locid="29944">Lakȟóta Settlement</string>
         <string _locid="29945">Maya Settlement</string>
@@ -3961,7 +3961,7 @@
         <string _locid="29989">Socket Aniyvwiyaʔi</string>
         <string _locid="29990">Socket Nʉmʉnʉʉ</string>
         <string _locid="29991">Socket Néhinaw</string>
-        <string _locid="29993">Socket Inca</string>
+        <string _locid="29993">Socket Tawantinsuyu</string>
         <string _locid="29994">Socket Haudenosaunee</string>
         <string _locid="29995">Socket Lakȟóta</string>
         <string _locid="29996">Socket Maya</string>
@@ -4522,8 +4522,8 @@
         <string _locid="32421">Mysterious French woodsman.</string>
         <string _locid="32422">Beaumont</string>
         <string _locid="32423">SPC Beaumont</string>
-        <string _locid="32426">Inca warrior</string>
-        <string _locid="32427">Clever Inca warrior.</string>
+        <string _locid="32426">Tawantinsuyu warrior</string>
+        <string _locid="32427">Clever Tawantinsuyu warrior.</string>
         <string _locid="32428">Chilche</string>
         <string _locid="32429">SPC Chilche</string>
         <string _locid="32432">US Cavalry hero</string>
@@ -5094,8 +5094,8 @@
         <string _locid="33356">Nʉmʉnʉʉ Warrior Societies</string>
         <string _locid="33358">Néhinaw warrior attack and hitpoints increased.</string>
         <string _locid="33359">Néhinaw Warrior Societies</string>
-        <string _locid="33361">Inca warrior attack and hitpoints increased.</string>
-        <string _locid="33362">Incan Warrior Societies</string>
+        <string _locid="33361">Tawantinsuyu warrior attack and hitpoints increased.</string>
+        <string _locid="33362">Tawantinsuyu Warrior Societies</string>
         <string _locid="33367">Haudenosaunee warrior attack and hitpoints increased.</string>
         <string _locid="33368">Haudenosaunee Warrior Societies</string>
         <string _locid="33371">Lakȟóta warrior attack and hitpoints increased.</string>
@@ -5475,9 +5475,9 @@
         <string _locid="33952">Rock Wall</string>
         <string _locid="33953">PROP Rock Fence NE</string>
         <string _locid="33954">Warlike natives you can fight for XP</string>
-        <string _locid="33955">Precursors to the Inca, the Huari still control parts of the Andes.</string>
-        <string _locid="33956">Huari Stronghold</string>
-        <string _locid="33957">GRD Huari Stronghold</string>
+        <string _locid="33955">Precursors to the Tawantinsuyu, the Aikanã still control parts of the Andes.</string>
+        <string _locid="33956">Aikanã Stronghold</string>
+        <string _locid="33957">GRD Aikanã Stronghold</string>
         <string _locid="33959">Allows your Explorer to quickly train a small ambush party of Blowgun Warriors.</string>
         <string _locid="33960">Kalinago Ambush Party</string>
         <string _locid="33961">Native American light infantry</string>
@@ -5665,8 +5665,8 @@
         <string _locid="34199">Find a spot to take your Covered Wagon and place your Town Center. Where you place it may determine your strategy to defeat the Spanish. </string>
         <string _locid="34200">Capture six total Treasure ships.</string>
         <string _locid="34201">There isn't much Coin in the area. Each Treasure Ship captured will provide a trickle of Coin. </string>
-        <string _locid="34202">Free Inca prisoners.</string>
-        <string _locid="34203">Inca prisoners are being held by the Spanish. Free them and they may help you locate the Treasure ships.</string>
+        <string _locid="34202">Free Tawantinsuyu prisoners.</string>
+        <string _locid="34203">Tawantinsuyu prisoners are being held by the Spanish. Free them and they may help you locate the Treasure ships.</string>
         <string _locid="34204">Destroy any Spanish Forts.</string>
         <string _locid="34205">There are several Spanish Forts in the Bayou. You will get Experience for each one you destroy. They are fortified so artillery might be needed.</string>
         <string _locid="34206">Kill Delgado.</string>
@@ -5778,8 +5778,8 @@
         <string _locid="34385">According to your yat'Siminoli allies, Kanyenke may be able to find an old Fixed Gun in the forest along the southeast edge of the dried-up Lake of the Moon.</string>
         <string _locid="34386">Sacred temple</string>
         <string _locid="34387">Sacred temple of the Mēxihcah.</string>
-        <string _locid="34388">Inca Temple</string>
-        <string _locid="34389">SPC Inca Temple</string>
+        <string _locid="34388">Tawantinsuyu Temple</string>
+        <string _locid="34389">SPC Tawantinsuyu Temple</string>
         <string _locid="34404">6 Skirmishers</string>
         <string _locid="34405">The Marksman</string>
         <string _locid="34407">French</string>
@@ -5899,8 +5899,8 @@
         <string _locid="34664">SPC Damaged Props</string>
         <string _locid="34665">Defensive building</string>
         <string _locid="34666">Building that can be used to defend the frontier.</string>
-        <string _locid="34667">Inca Outpost</string>
-        <string _locid="34671">SPC Inca Outpost</string>
+        <string _locid="34667">Tawantinsuyu Outpost</string>
+        <string _locid="34671">SPC Tawantinsuyu Outpost</string>
         <string _locid="34672" gamecharacter="Soldier" soundfilename="GENR0001" portraitfilename="units\infantry_ranged\crossbow\crossbow_portrait">Morgan, the Ottomans have landed -- a thousand janissaries, led by Sahin the Falcon!</string>
         <string _locid="34673" gamecharacter="Morgan" soundfilename="MORG0001" portraitfilename="units\spc\morgan_black\morgan_black_igc_icon">Alain Magnan still commands the knights, and he says we must hold them at the beach. We'll make our stand here.</string>
         <string _locid="34674">Defensive building</string>
@@ -5963,9 +5963,9 @@
         <string _locid="34759">Destroy all the Great Bombards.</string>
         <string _locid="34760">Alain's Hussars are more than strong enough to destroy all the Great Bombards. You should support them with crossbow to take out the janissaries.</string>
         <string _locid="34761">Destroy the Boneguard Fort.</string>
-        <string _locid="34762">Gather eight total artillery units into the flagged area before the three Incan Temples are destroyed.</string>
-        <string _locid="34763">You cannot build an Artillery Foundry. You can send artillery from the Home City or escort artillery arriving on the road to the Inca city. Send a military escort to help them reach the city.</string>
-        <string _locid="34765">A road beginning from the south of the Inca city may be the best way to assault the Boneguard Fort.</string>
+        <string _locid="34762">Gather eight total artillery units into the flagged area before the three Tawantinsuyu Temples are destroyed.</string>
+        <string _locid="34763">You cannot build an Artillery Foundry. You can send artillery from the Home City or escort artillery arriving on the road to the Tawantinsuyu city. Send a military escort to help them reach the city.</string>
+        <string _locid="34765">A road beginning from the south of the Tawantinsuyu city may be the best way to assault the Boneguard Fort.</string>
         <string _locid="34766">Destroy the Russian Town Center.</string>
         <string _locid="34767">The Cannon you have accumulated are the best way to destroy any buildings.</string>
         <string _locid="34768">Artillery pieces: 0/8</string>
@@ -5994,7 +5994,7 @@
         <string _locid="34861" gamecharacter="Sahin" soundfilename="SAHI0001" portraitfilename="units\spc\sahin\sahin_igc_icon">It is already broken, Morgan -- will you break with it?</string>
         <string _locid="34864" gamecharacter="Native Prisoner" soundfilename="GENR5246">Please help!</string>
         <string _locid="34865" gamecharacter="Native Prisoner" soundfilename="GENR5247">You have the thanks of my tribe. Take these warriors to guard you on your journey.</string>
-        <string _locid="34867" gamecharacter="High Priest" soundfilename="CHIL5052">Our first cannon are about half-way to the Inca city.</string>
+        <string _locid="34867" gamecharacter="High Priest" soundfilename="CHIL5052">Our first cannon are about half-way to the Tawantinsuyu city.</string>
         <string _locid="34868">Treasure Ship Post</string>
         <string _locid="34869">SPC Treasure Ship Posts</string>
         <string _locid="34870">Kalmuck</string>
@@ -6223,7 +6223,7 @@
         <string _locid="35344" gamecharacter="John" soundfilename="JOHN0179" portraitfilename="units\spc\john_black\john_black_igc_icon">With the French and British at war, there's no one to defend the colonies from that army. </string>
         <string _locid="35345" gamecharacter="Seminole Chief" soundfilename="GENR0091" portraitfilename="units\natives\native_villager_icon_portrait">Beaumont seeks the water, so he will go there.</string>
         <string _locid="35346" gamecharacter="Seminole Chief" soundfilename="GENR0101">They returned to their homeland far to the south, carrying barrels of the Fountain's water.</string>
-        <string _locid="35348">Clever Inca warrior.</string>
+        <string _locid="35348">Clever Tawantinsuyu warrior.</string>
         <string _locid="35349">Test Unit</string>
         <string _locid="35351">Villagers gather all Wood faster.</string>
         <string _locid="35352">Sawmills</string>
@@ -6646,15 +6646,15 @@
         <string _locid="35931">TEAM Sawmills</string>
         <string _locid="35933">Warships attack increased.</string>
         <string _locid="35934">Naval Gunners</string>
-        <string _locid="35936" symbol="cStringRMSAmazonlongdesc">Teams are separated by the mighty Amazon River. Trade Routes and Natives may be separated... or maybe not. Tupi, Kalinago, or Inca live deep in the rain forests. Build a navy to control the river, and control the map -- but keep an eye out for enemy Outposts and cannon on the shores.</string>
-        <string _locid="35937" symbol="cStringRMSAndeslongdesc">A large Inca city dominates the Andes; control the city, and you will easily control the map. Neutral Huari Strongholds are scattered throughout the area, presenting challenges for unwary explorers. Three Trading Post sites. Seek out herds of Llamas for an early boost of food.</string>
+        <string _locid="35936" symbol="cStringRMSAmazonlongdesc">Teams are separated by the mighty Amazon River. Trade Routes and Natives may be separated... or maybe not. Tupi, Kalinago, or Tawantinsuyu live deep in the rain forests. Build a navy to control the river, and control the map -- but keep an eye out for enemy Outposts and cannon on the shores.</string>
+        <string _locid="35937" symbol="cStringRMSAndeslongdesc">A large Tawantinsuyu city dominates the Andes; control the city, and you will easily control the map. Neutral Aikanã Strongholds are scattered throughout the area, presenting challenges for unwary explorers. Three Trading Post sites. Seek out herds of Llamas for an early boost of food.</string>
         <string _locid="35939" symbol="cStringRMSCaribbeanlongdesc">The islands of the Caribbean support only a few animals, but the ocean offers a bounty of fish. Palm trees provide plenty of Wood for constructing ships.\n \nYou will share an island with your teammates. There will always be an additional island with a Trade Route. Kalinago settlements are scattered across all the islands.</string>
         <string _locid="35940" symbol="cStringRMSCarolinalongdesc">The southeast coast of North America has plenty of resources and extra Crates. The ease of naval transport and lack of cliffs means you are never too far from your enemy. A Trade Route runs along the coast with four sites for Trading Posts.\n \nThis is the home of the Aniyvwiyaʔi, who will always have two villages on the map. Sometimes you may encounter one or two yat'Siminoli villages as well.</string>
         <string _locid="35941" symbol="cStringRMSBayoulongdesc">A vast swamp where dry land is at a premium. You can only build on solid ground, but armies can travel across the wetlands, so beware of unexpected ambushes.\n \nAniyvwiyaʔi and yat'Siminoli villages occupy islands through the middle of the map.</string>
         <string _locid="35942" symbol="cStringRMSGreatLakeslongdesc">Fight around the outside of a large freshwater lake. Control of the single long Trade Route is crucial. Several Haudenosaunee or Lakȟóta villages ring the lake. Resources, including fish, are plentiful.\n \nBuild too close to the shore without controlling the water, and you risk having your town shelled by enemy ships late in the game. Sometimes the lake may be frozen over, presenting a different tactical challenge. </string>
         <string _locid="35943" symbol="cStringRMSGreatPlainslongdesc">Wide-open spaces, large herds of Bison to hunt, plentiful Mines, and as many as six Lakȟóta and Nʉmʉnʉʉ villages offer a wide variety of potential strategies. The Trade Route may have three or five Trading Post sites.\n \nControl the more dense forests near the edges of the map to supplement your late-game wood gathering, or rely on the scattered clumps of trees out on the plains.</string>
         <string _locid="35944" symbol="cStringRMSNewEnglandlongdesc">Each team will have an easily-defended Haudenosaunee or Aniyvwiyaʔi village; the fight will be for control of the four Trading Post sites along the single central Trade Route.\n \nLakes and low stone walls provide natural barriers and choke points. Search the isles off the coast for hidden Treasures.</string>
-        <string _locid="35946" symbol="cStringRMSPampaslongdesc">A long plain divided by a river with several crossing points. You and your allies are initially separated by the river, but the exact placement of your starting towns varies widely. There are always four Trading Post sites. Expect to find a number of Inca and Tupi villages.</string>
+        <string _locid="35946" symbol="cStringRMSPampaslongdesc">A long plain divided by a river with several crossing points. You and your allies are initially separated by the river, but the exact placement of your starting towns varies widely. There are always four Trading Post sites. Expect to find a number of Tawantinsuyu and Tupi villages.</string>
         <string _locid="35947" symbol="cStringRMSPatagonialongdesc">No Natives, but six Trading Posts. To ensure a steady supply of Wood, stay near the coast.\n \nA central lake offers tactical opportunities, and may restrict movement along the western side of the map. The lake is not present in Free for All games.</string>
         <string _locid="35948" symbol="cStringRMSRockieslongdesc">Your team occupies one mountain range and your opponents the other. The victors will be the ones that can control the central valley and the choke points. Forests and Treasures are more heavily concentrated in the center of the map.\n \nThe Lakȟóta and Nʉmʉnʉʉ have ventured up into the mountains, and may prove to be useful allies.</string>
         <string _locid="35949" symbol="cStringRMSSaguenaylongdesc">In this resource-heavy region, you will start with an extra random economic building in addition to your Town Center. Building Outposts near the local Néhinaw and Nuučaan̓ułʔatḥ villages may help control sections of the map.</string>
@@ -7528,7 +7528,7 @@
         <string _locid="36987" symbol="cStringLoadscreen19">Amelia follows the strange Frenchman Beaumont to his gold claim in the mountains, where a surprise - and an old friend - awaits.</string>
         <string _locid="36988" symbol="cStringLoadscreen20">Reunited with her granduncle Kanyenke and Major Cooper, Amelia is determined to pursue Beaumont -- and recover the Spanish gold her ancestors lost.</string>
         <string _locid="36989" symbol="cStringLoadscreen21">Learning that there may still be water from the Fountain of Youth hidden high in the Andes, Amelia and Kanyenke set sail for South America, where they find themselves caught up in the rebellions against Spain.</string>
-        <string _locid="36990" symbol="cStringLoadscreen22">With Bolivar's guides, Amelia and Kanyenke head into the mountains, seeking the lost Inca in Pacamayo Valley -- but the army of the Circle of Ossus is right behind them!</string>
+        <string _locid="36990" symbol="cStringLoadscreen22">With Bolivar's guides, Amelia and Kanyenke head into the mountains, seeking the lost Tawantinsuyu in Pacamayo Valley -- but the army of the Circle of Ossus is right behind them!</string>
         <string _locid="36991" symbol="cStringLoadscreen23">Having forced their way through the storm, Amelia and Kanyenke find Pacamayo Valley at last - but the Circle is close behind.</string>
         <string _locid="36992" symbol="cStringLoadscreen24">The Circle has assembled in the Ossuary, their stronghold in Cuba. Will Amelia and Kanyenke be able to stop Beaumont, or will the Circle win at last?</string>
         <string _locid="36993" symbol="cStringCanOnlyBuildOneOf" comment="1 - building unit, 2 - building">The %1s can only build one %2s.</string>
@@ -7896,8 +7896,8 @@
         <string _locid="37427">Choose New Cards</string>
         <string _locid="37428">Build a Deck</string>
         <string _locid="37429">Customize</string>
-        <string _locid="37430" gamecharacter="Amelia" soundfilename="AMEL5191">Our first cannon have reached the Inca city -- we've got to protect them as we fight our way forward.</string>
-        <string _locid="37431" gamecharacter="Amelia" soundfilename="AMEL5192">No one will be able to build an artillery foundry in these high mountains, but the Inca tell us they know a way cannon can be hauled here from the coast.</string>
+        <string _locid="37430" gamecharacter="Amelia" soundfilename="AMEL5191">Our first cannon have reached the Tawantinsuyu city -- we've got to protect them as we fight our way forward.</string>
+        <string _locid="37431" gamecharacter="Amelia" soundfilename="AMEL5192">No one will be able to build an artillery foundry in these high mountains, but the Tawantinsuyu tell us they know a way cannon can be hauled here from the coast.</string>
         <string _locid="37432" symbol="cStringChooseCards">Choose New Cards</string>
         <string _locid="37433" symbol="cStringBuildDeck">Build a Deck</string>
         <string _locid="37434" symbol="cStringCustomizeHomeCity">Customize</string>
@@ -13335,7 +13335,7 @@
         <string _locid="42917" symbol="cStringMaintainMayaModeName">Free Maya Warriors</string>
         <string _locid="42918" symbol="cStringMaintainLakotaModeName">Free Lakȟóta Warriors</string>
         <string _locid="42919" symbol="cStringMaintainIroquoisModeName">Free Haudenosaunee Warriors</string>
-        <string _locid="42920" symbol="cStringMaintainIncaModeName">Free Inca Warriors</string>
+        <string _locid="42920" symbol="cStringMaintainIncaModeName">Free Tawantinsuyu Warriors</string>
         <string _locid="42921" symbol="cStringMaintainCreeModeName">Free Néhinaw Warriors</string>
         <string _locid="42922" symbol="cStringMaintainComancheModeName">Free Nʉmʉnʉʉ Warriors</string>
         <string _locid="42923" symbol="cStringMaintainCherokeeModeName">Free Aniyvwiyaʔi Warriors</string>
