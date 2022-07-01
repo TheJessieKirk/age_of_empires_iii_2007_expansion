@@ -41,6 +41,16 @@ You should have received a copy of the GNU Lesser General Public License along w
 #### Ottomans
 * The Ottomans now use a more historically-accurate _Blue Turks' Flag_; three white crescent moons defacing a blue field. Based on "[_File:Blue Ottoman Flag.svg_](<https://upload.wikimedia.org/wikipedia/commons/d/d1/Blue_Ottoman_Flag.svg>)". Public domain.
 
+#### Minor Civilizations
+* Changed "Aztec" to "Mēxihcah"<sup>[36]</sup>.
+* Changed "Carib" to "Kalinago"<sup>[29]</sup>.
+* Changed "Comanche" to "Nʉmʉnʉʉ"<sup>[30]</sup>.
+* Changed "Cree" to "Néhinaw"<sup>[31]</sup>.
+* Changed "Huari" to "Aikanã"<sup>[35]</sup>.
+* Changed "Inca" to "Tawantinsuyu"<sup>[34]</sup>.
+* Chanced "Iroquois" to "Haudenosaunee"<sup>[32]</sup>.
+* Changed "Nootka" to "Nuučaan̓ułʔatḥ"<sup>[33]</sup>.
+
 ### 1.3 Random Names
 
 * The Knights of St. John now have the following random names for their galleys:
@@ -142,3 +152,11 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [26]: [Calico Jack (English Wikipedia)](<https://en.wikipedia.org/wiki/Calico_Jack>)
 * [27]: [Richard Noland (English Wikipedia)](<https://en.wikipedia.org/wiki/Richard_Noland>)
 * [28]: [Samuel Bellamy (English Wikipedia)](<https://en.wikipedia.org/wiki/Samuel_Bellamy>)
+* [29]: [Kalinago (English Wikipedia)](<https://en.wikipedia.org/wiki/Kalinago>)
+* [30]: [Comanche (English Wikipedia)](<https://en.wikipedia.org/wiki/Comanche>)
+* [31]: [Cree (English Wikipedia)](<https://en.wikipedia.org/wiki/Cree>)
+* [32]: [Iroquois (English Wikipedia)](<https://en.wikipedia.org/wiki/Iroquois>)
+* [33]: [Nuu-chah-nulth (English Wikipedia)](https://en.wikipedia.org/wiki/Nuu-chah-nulth>)
+* [34]: [Inca Empire (English Wikipedia)](https://en.wikipedia.org/wiki/Inca_Empire>)
+* [35]: [Aikanã people (English Wikipedia)](https://en.wikipedia.org/wiki/Aikan%C3%A3_people>)
+* [36]: [Aztecs (English Wikipedia)](https://en.wikipedia.org/wiki/Aztecs>)
