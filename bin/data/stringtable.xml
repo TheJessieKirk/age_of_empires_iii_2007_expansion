@@ -2712,7 +2712,7 @@
         <string _locid="26910" gamecharacter="Morgan" soundfilename="MORG0140" portraitfilename="units\spc\morgan_black\morgan_black_igc_icon">So, Sahin -- it seems your Spanish friends have left you here to die.</string>
         <string _locid="26911" gamecharacter="Sahin" soundfilename="SAHI0040" portraitfilename="units\spc\sahin\sahin_igc_icon">If you kill me, there will be no one to stop the Circle of Ossus.</string>
         <string _locid="26912" gamecharacter="Alain" soundfilename="ALAI0040" portraitfilename="units\spc\alain\alain_igc_portrait">Well done, Morgan. The treasure fleet is ours, and my men control the lake.</string>
-        <string _locid="26913" gamecharacter="Inca Warrior" soundfilename="CHIL0000" portraitfilename="units\spc\chilche_young\chilche_young_portrait">I will warn you as I warned the conquistador. The Lago Del Luna is an elder power. Do not trifle with it.</string>
+        <string _locid="26913" gamecharacter="Tawantinsuyu Warrior" soundfilename="CHIL0000" portraitfilename="units\spc\chilche_young\chilche_young_portrait">I will warn you as I warned the conquistador. The Lago Del Luna is an elder power. Do not trifle with it.</string>
         <string _locid="26914" gamecharacter="Alain" soundfilename="ALAI0045" portraitfilename="units\spc\alain\alain_igc_portrait">Morgan, why is that savage still alive?</string>
         <string _locid="26915" gamecharacter="Morgan" soundfilename="MORG0145" portraitfilename="units\spc\morgan_black\morgan_black_igc_icon">The Tawantinsuyu prisoners helped us against the Spanish. It makes no sense to kill them.</string>
         <string _locid="26916" gamecharacter="Alain" soundfilename="ALAI0050" portraitfilename="units\spc\alain\alain_igc_portrait">I am Knight Commander, and you will follow my orders. Execute the Turk and the others, then rendezvous with me at the Lake.</string>
@@ -2837,7 +2837,7 @@
         <string _locid="27052">Food source</string>
         <string _locid="27053">Medium ground bird. Harvest for Food.</string>
         <string _locid="27054">Turkey</string>
-        <string _locid="27056" gamecharacter="Old Coot" soundfilename="MORG0185" portraitfilename="units\spc\old_coot\old_coot_igc_icon">Amelia Black. The girl that owns Falcon Company. Is it true your grandmother was a Mohawk?</string>
+        <string _locid="27056" gamecharacter="Old Coot" soundfilename="MORG0185" portraitfilename="units\spc\old_coot\old_coot_igc_icon">Amelia Black. The girl that owns Falcon Company. Is it true your grandmother was a Kanienʼkehá꞉ka?</string>
         <string _locid="27057" gamecharacter="Amelia" soundfilename="AMEL0000" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Sorry, old man, but I don't have time to chat.</string>
         <string _locid="27058" gamecharacter="Old Coot" soundfilename="MORG0190" portraitfilename="units\spc\old_coot\old_coot_igc_icon">They say that Falcon's laying tracks all the way to the West Coast.</string>
         <string _locid="27059" gamecharacter="Amelia" soundfilename="AMEL0005" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">That's the plan, unless we get beat by our competitors. I've got to go, old timer.</string>
@@ -2893,9 +2893,9 @@
         <string _locid="27109" gamecharacter="Amelia" soundfilename="AMEL0100" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Cooper!</string>
         <string _locid="27110" gamecharacter="Amelia" soundfilename="AMEL0105" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Beaumont will pay for this.</string>
         <string _locid="27111" gamecharacter="Kanyenke" soundfilename="KANY0170" portraitfilename="units\spc\kanyenke_old\igc_kanyenke_old_portrait">The Circle's stronghold is in Havana, but I am not so sure that is where Beaumont went. The local yat'Siminoli have a legend ... but their chief can explain better than I can.</string>
-        <string _locid="27112" gamecharacter="Seminole Chief" soundfilename="GENR0090" portraitfilename="units\natives\native_villager_icon_portrait">In the time of the knight Morgan, the Tawantinsuyu took many barrels of the water to Pacamayo Valley.</string>
+        <string _locid="27112" gamecharacter="yat'Siminoli Chief" soundfilename="GENR0090" portraitfilename="units\natives\native_villager_icon_portrait">In the time of the knight Morgan, the Tawantinsuyu took many barrels of the water to Pacamayo Valley.</string>
         <string _locid="27113" gamecharacter="Amelia" soundfilename="AMEL0110" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Tawantinsuyu? The Tawantinsuyu are all dead.</string>
-        <string _locid="27114" gamecharacter="Seminole Chief" soundfilename="GENR0100" portraitfilename="units\natives\native_villager_icon_portrait">My father told me that many captives returned to their homeland when the Spanish fleet was sunk. </string>
+        <string _locid="27114" gamecharacter="yat'Siminoli Chief" soundfilename="GENR0100" portraitfilename="units\natives\native_villager_icon_portrait">My father told me that many captives returned to their homeland when the Spanish fleet was sunk. </string>
         <string _locid="27115" gamecharacter="Amelia" soundfilename="AMEL0115" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Then we must find their homeland before Beaumont does.</string>
         <string _locid="27120" gamecharacter="Bolivar" soundfilename="BOLI0000" portraitfilename="units\spc\bolivar\bolivar_igc_icon">You have helped bring freedom to my people. How can we repay you?</string>
         <string _locid="27121" gamecharacter="Amelia" soundfilename="AMEL0130" portraitfilename="units\spc\amelia_black\amelia_black_igc_icon">Can you spare a guide? We need to travel east to Pacamayo Valley.</string>
@@ -3074,11 +3074,11 @@
         <string _locid="27346" gamecharacter="John" soundfilename="JOHN5095">Anchor Washington's ship at the mouth of the bay for maximum defense against possible naval assault.</string>
         <string _locid="27347" gamecharacter="John" soundfilename="JOHN5100">We'll use land units to siege the Boneguard outposts around this great lake -- don't forget the cannon!</string>
         <string _locid="27348" gamecharacter="John" soundfilename="JOHN5105">If our coffers run low we may need to establish a trade route for funds.</string>
-        <string _locid="27349" gamecharacter="Lakota Chief" soundfilename="GENR5135">This Warwick and his Boneguard seek to kill all the chiefs on the plains. Earn the respect of the tribes before the last chief is killed, and Warwick will be driven from our lands.</string>
+        <string _locid="27349" gamecharacter="Lakȟóta Chief" soundfilename="GENR5135">This Warwick and his Boneguard seek to kill all the chiefs on the plains. Earn the respect of the tribes before the last chief is killed, and Warwick will be driven from our lands.</string>
         <string _locid="27361" gamecharacter="Native Warrior" soundfilename="GENR5180">The Boneguard are attacking a tribe. Stop them!</string>
         <string _locid="27362" gamecharacter="John" soundfilename="JOHN5120">This beast is enormous!</string>
         <string _locid="27366" gamecharacter="John" soundfilename="JOHN5140">We should build a trading post at the Lakȟóta village near where we first arrived.</string>
-        <string _locid="27367" gamecharacter="Lakota Chief" soundfilename="GENR5185">The sacred hilltop has been cleansed.</string>
+        <string _locid="27367" gamecharacter="Lakȟóta Chief" soundfilename="GENR5185">The sacred hilltop has been cleansed.</string>
         <string _locid="27375" gamecharacter="Kanyenke" soundfilename="KANY5045">We are going to need resources to build up and defend ourselves, but we have little food, wood, or coin.</string>
         <string _locid="27376" gamecharacter="John" soundfilename="JOHN5145">Warwick is getting wagonloads of resources. Let's relieve him of some of them.</string>
         <string _locid="27377" gamecharacter="John" soundfilename="JOHN5150">Warwick's base is much too well defended for us to assault now, but we can steal some of the supply wagons being escorted into his fort. </string>
@@ -4538,7 +4538,7 @@
         <string _locid="32445">Mercenary captain and experienced woodsman.</string>
         <string _locid="32446">John Black</string>
         <string _locid="32447">SPC John Black</string>
-        <string _locid="32450">Mohawk hero</string>
+        <string _locid="32450">Kanienʼkehá꞉ka hero</string>
         <string _locid="32451">Mercenary lieutenant and experienced woodsman.</string>
         <string _locid="32452">Kanyenke</string>
         <string _locid="32453">SPC Kanyenke</string>
@@ -4550,8 +4550,8 @@
         <string _locid="32463">Leader among the Knights of St. John on Malta.</string>
         <string _locid="32464">Morgan Black</string>
         <string _locid="32465">SPC Morgan</string>
-        <string _locid="32468">Mohawk hero</string>
-        <string _locid="32469">Kanyenke's sister; a Mohawk woman.</string>
+        <string _locid="32468">Kanienʼkehá꞉ka hero</string>
+        <string _locid="32469">Kanyenke's sister; a Kanienʼkehá꞉ka woman.</string>
         <string _locid="32470">Nonahkee</string>
         <string _locid="32471">SPC Nonahkee</string>
         <string _locid="32474">Ottoman hero</string>
@@ -4590,7 +4590,7 @@
         <string _locid="32522" gamecharacter="Kanyenke" soundfilename="KANY5044">The fourth tribal chief is gone. We must complete our mission before the last chief is killed.</string>
         <string _locid="32523" gamecharacter="Kanyenke" soundfilename="KANY4901">The fifth chief has fallen. We have failed.</string>
         <string _locid="32524" gamecharacter="Kanyenke" soundfilename="KANY4902">The Great White Buffalo is sacred. Rescue it from Warwick and return it to the Lakȟóta village.</string>
-        <string _locid="32525" gamecharacter="Lakota Chief" soundfilename="GENR5208">You have done it! You have won the respect of the people of the Great Plains.</string>
+        <string _locid="32525" gamecharacter="Lakȟóta Chief" soundfilename="GENR5208">You have done it! You have won the respect of the people of the Great Plains.</string>
         <string _locid="32526">Earn 10,000 Experience before the Circle kills all five Chiefs.</string>
         <string _locid="32527">Earn Experience to help the people of the Great Plains.</string>
         <string _locid="32528">Vega is a boogerhead!</string>
@@ -4626,7 +4626,7 @@
         <string _locid="32571">SPC Daughter (Lakȟóta Chief)</string>
         <string _locid="32575">Underbrush Pampas</string>
         <string _locid="32578" gamecharacter="John" soundfilename="JOHN5141">We must gain the respect of the people of the plains before all of their chiefs are killed by the Boneguard! </string>
-        <string _locid="32579" gamecharacter="Lakota Chief" soundfilename="GENR5206">The Lakȟóta people will join you! </string>
+        <string _locid="32579" gamecharacter="Lakȟóta Chief" soundfilename="GENR5206">The Lakȟóta people will join you! </string>
         <string _locid="32581" gamecharacter="Kanyenke" soundfilename="KANY5041">One of the tribal chiefs has been killed! We must hurry.</string>
         <string _locid="32588">Warwick</string>
         <string _locid="32589">Warwick Artillery</string>
@@ -5138,11 +5138,11 @@
         <string _locid="33423" gamecharacter="Morgan" soundfilename="MORG4914">The Spanish have destroyed two Mēxihcah temples -- we must not let the last one fall!</string>
         <string _locid="33424" gamecharacter="Morgan" soundfilename="MORG4915">The Spanish have destroyed the last Mēxihcah temple -- the village is doomed.</string>
         <string _locid="33425" gamecharacter="Morgan" soundfilename="MORG4916">The Spanish base is too strong to assault with the forces we have now.</string>
-        <string _locid="33426" gamecharacter="Aztec Chief" soundfilename="GENR5041">We welcome you in our battle against the Spanish.</string>
-        <string _locid="33427" gamecharacter="Aztec Chief" soundfilename="GENR5042">I will send a runner to Tenochtitlan to request an army of Mēxihcah warriors. We must protect the temples in my village until they arrive.</string>
-        <string _locid="33428" gamecharacter="Aztec Chief" soundfilename="GENR5043">My runner reports the great Mēxihcah army is on its way.</string>
-        <string _locid="33429" gamecharacter="Aztec Chief" soundfilename="GENR5044">The great Tenochtitlan Mēxihcah army will be here soon - we must protect our temples!</string>
-        <string _locid="33430" gamecharacter="Aztec Chief" soundfilename="GENR4900">The Tenochtitlan army is almost here -- protect the temples!</string>
+        <string _locid="33426" gamecharacter="Mēxihcah Chief" soundfilename="GENR5041">We welcome you in our battle against the Spanish.</string>
+        <string _locid="33427" gamecharacter="Mēxihcah Chief" soundfilename="GENR5042">I will send a runner to Tenochtitlan to request an army of Mēxihcah warriors. We must protect the temples in my village until they arrive.</string>
+        <string _locid="33428" gamecharacter="Mēxihcah Chief" soundfilename="GENR5043">My runner reports the great Mēxihcah army is on its way.</string>
+        <string _locid="33429" gamecharacter="Mēxihcah Chief" soundfilename="GENR5044">The great Tenochtitlan Mēxihcah army will be here soon - we must protect our temples!</string>
+        <string _locid="33430" gamecharacter="Mēxihcah Chief" soundfilename="GENR4900">The Tenochtitlan army is almost here -- protect the temples!</string>
         <string _locid="33431" gamecharacter="Morgan" soundfilename="MORG4917">The Mēxihcah army has arrived! Wipe the Spanish from this town!</string>
         <string _locid="33432" gamecharacter="Morgan" soundfilename="MORG4918">The Spanish are on the run. The village is saved.</string>
         <string _locid="33433">Kill the Spanish guards guarding the prisoners around the Mine.</string>
@@ -5626,7 +5626,7 @@
         <string _locid="34157">El Presidente</string>
         <string _locid="34158">The Engineer</string>
         <string _locid="34159">The Grand Vizier</string>
-        <string _locid="34160">The Mohawk Statesman</string>
+        <string _locid="34160">The Kanienʼkehá꞉ka Statesman</string>
         <string _locid="34161">The Gentleman Pirate</string>
         <string _locid="34162">The Tycoon</string>
         <string _locid="34163">The Viceroy</string>
@@ -5812,7 +5812,7 @@
         <string _locid="34455" symbol="cStringAdvanceAge3">Advance to the Fortress Age</string>
         <string _locid="34456" symbol="cStringAdvanceAge4">Advance to the Industrial Age</string>
         <string _locid="34457" symbol="cStringAdvanceAge5">Advance to the Imperial Age</string>
-        <string _locid="34466">Mohawk hero</string>
+        <string _locid="34466">Kanienʼkehá꞉ka hero</string>
         <string _locid="34467">An old warrior who still hunts the Circle.</string>
         <string _locid="34468">Kanyenke</string>
         <string _locid="34469">SPC Old Kanyenke</string>
@@ -5928,7 +5928,7 @@
         <string _locid="34709" soundfilename="AMEL4125">Was there something special about the Fountain's water? </string>
         <string _locid="34710" soundfilename="AMEL4130">All I know for sure is the Circle would return to find out.</string>
         <string _locid="34711" soundfilename="AMEL4200">Everyone always said Morgan's grandson John Black had a lot more enemies than he had friends.</string>
-        <string _locid="34712" soundfilename="AMEL4205">But one man, a Mohawk named Kanyenke, always stood by his side -- even if the two did have a friendly rivalry.</string>
+        <string _locid="34712" soundfilename="AMEL4205">But one man, a Kanienʼkehá꞉ka named Kanyenke, always stood by his side -- even if the two did have a friendly rivalry.</string>
         <string _locid="34713" soundfilename="AMEL4300">I don't know exactly what happened on the mountain that day. But my grandfather wasn't the type to go down without a fight.</string>
         <string _locid="34714" soundfilename="AMEL4305">John Black may have made a lot of enemies in his life, but he died a hero. He knocked the Circle back on their heels so hard it would take them decades to recover.</string>
         <string _locid="34715" soundfilename="AMEL4310">By spring, Kanyenke had returned to his village. Life went on for the Haudenosaunee, just as it had for years.</string>
@@ -6221,8 +6221,8 @@
         <string _locid="35340">Improves your British Explorer in combat, gives him a powerful Swashbuckler attack, and gives him a powerful canine companion.</string>
         <string _locid="35341">Captain</string>
         <string _locid="35344" gamecharacter="John" soundfilename="JOHN0179" portraitfilename="units\spc\john_black\john_black_igc_icon">With the French and British at war, there's no one to defend the colonies from that army. </string>
-        <string _locid="35345" gamecharacter="Seminole Chief" soundfilename="GENR0091" portraitfilename="units\natives\native_villager_icon_portrait">Beaumont seeks the water, so he will go there.</string>
-        <string _locid="35346" gamecharacter="Seminole Chief" soundfilename="GENR0101">They returned to their homeland far to the south, carrying barrels of the Fountain's water.</string>
+        <string _locid="35345" gamecharacter="yat'Siminoli Chief" soundfilename="GENR0091" portraitfilename="units\natives\native_villager_icon_portrait">Beaumont seeks the water, so he will go there.</string>
+        <string _locid="35346" gamecharacter="yat'Siminoli Chief" soundfilename="GENR0101">They returned to their homeland far to the south, carrying barrels of the Fountain's water.</string>
         <string _locid="35348">Clever Tawantinsuyu warrior.</string>
         <string _locid="35349">Test Unit</string>
         <string _locid="35351">Villagers gather all Wood faster.</string>
@@ -6971,9 +6971,9 @@
         <string _locid="36366">TEAM gets 4 Sheep.</string>
         <string _locid="36367">TEAM gets 2 free Surgeons.</string>
         <string _locid="36368">TEAM 2 Surgeons</string>
-        <string _locid="36371" gamecharacter="Seminole Chief" soundfilename="GENR2060">I have not seen this young warrior since he was very small. Since you have helped my people, I will help yours.</string>
-        <string _locid="36372" gamecharacter="Seminole Chief" soundfilename="GENR2065">South of here, men with large guns have taken a sacred artifact. Retrieve it and the Kalinago will not attack your village again.</string>
-        <string _locid="36373" gamecharacter="Seminole Chief" soundfilename="GENR2070">These warriors will help you fight.</string>
+        <string _locid="36371" gamecharacter="yat'Siminoli Chief" soundfilename="GENR2060">I have not seen this young warrior since he was very small. Since you have helped my people, I will help yours.</string>
+        <string _locid="36372" gamecharacter="yat'Siminoli Chief" soundfilename="GENR2065">South of here, men with large guns have taken a sacred artifact. Retrieve it and the Kalinago will not attack your village again.</string>
+        <string _locid="36373" gamecharacter="yat'Siminoli Chief" soundfilename="GENR2070">These warriors will help you fight.</string>
         <string _locid="36374">TEAM A Covered Wagon Shipment for the whole team.</string>
         <string _locid="36375">TEAM Conestoga Wagons</string>
         <string _locid="36377">TEAM Town Center attack and hitpoints increased.</string>
@@ -7330,7 +7330,7 @@
         <string _locid="36779" gamecharacter="Delgado" soundfilename="DELG2005">Ah, the knight Morgan and his pirate friend have arrived.</string>
         <string _locid="36780" gamecharacter="Delgado" soundfilename="DELG2000">They have taken one of my ships. That treasure was meant for Spain.</string>
         <string _locid="36781" gamecharacter="Lizzie" soundfilename="LIZZ2030">These treasure ships are full of gold. The more we control the faster the coin rolls in.</string>
-        <string _locid="36782" gamecharacter="Inca Prisoner" soundfilename="CHIL2000">We saw where the Spanish hid their treasure ships. We will show you.</string>
+        <string _locid="36782" gamecharacter="Tawantinsuyu Prisoner" soundfilename="CHIL2000">We saw where the Spanish hid their treasure ships. We will show you.</string>
         <string _locid="36783" gamecharacter="John" soundfilename="JOHN2000">Defend the colony! Do not let the town center fall.</string>
         <string _locid="36784">Cooper's regiment is on the way! Keeping the Fort walls well guarded will help. You are also able to select what resources you want delivered to the Fort at the Trade Post.</string>
         <string _locid="36785">There are several Mexican Town Centers out around the Fort. Use Cooper's Heavy Cannon to destroy the town centers at range.</string>
