@@ -92,10 +92,11 @@ You should have received a copy of the GNU Lesser General Public License along w
     * The unresearchable Champion Mēxihcah technology no longer appears.
     * You can now build walls.
 
-* In _A Pirate's Help?_:
-    * The Spanish church is now converted to you when you defeat the first Kalinago raid.
+* In _A Pirate's Help_:
+    * The Spanish church is now converted to your control when you defeat the first Kalinago raid.
     * You can now build a church, outposts and walls.
-    * You can now train lancers.
+    * You now can't research the Mercantalism technology (which was not required before as you didn't have a church).
+    * The trade route is already set to Level 1 (stagecoach), as Cuba is an established colony.
 
 * In _The Fountain of Youth_, you can now build outposts and walls.
 
