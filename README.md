@@ -102,6 +102,10 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 * In _The Fountain of Youth?_, you can now build outposts and walls.
 
+#### _Blood, Ice and Steal_ Act 2
+
+* In _Strange Alliances_, John Black's sexist remark to Stuart Black has been changed to "Stuart, protect the wounded."
+
 ### 1.3 Random Names
 
 * The Knights of St. John now have the following random names for their galleys:
