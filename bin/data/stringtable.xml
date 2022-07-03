@@ -4800,7 +4800,7 @@
         <string _locid="32875" gamecharacter="Nonahkee" soundfilename="NONA0012" portraitfilename="units\spc\nonahkee\nonahkee_igc_icon">The next day ... this attack.</string>
         <string _locid="32876" gamecharacter="Kanyenke" soundfilename="KANY5011">I fear more warriors are gathering at the war camps.</string>
         <string _locid="32877" gamecharacter="John" soundfilename="JOHN5031">Then maybe it's time we took the fight to them.</string>
-        <string _locid="32878" gamecharacter="John" soundfilename="JOHN5032">Stuart, you stay here with the other women.</string>
+        <string _locid="32878" gamecharacter="John" soundfilename="JOHN5032">Stuart, protect the wounded.</string>
         <string _locid="32879" gamecharacter="Stuart" soundfilename="STUA5011">Yes, I think my skills are best put to use here.</string>
         <string _locid="32880" gamecharacter="John" soundfilename="JOHN5033">The British are defeated! The base is ours!</string>
         <string _locid="32881" gamecharacter="Stuart" soundfilename="STUA5012">Oh my! British troops! Here?</string>
