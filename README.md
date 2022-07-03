@@ -59,7 +59,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 * Changed "Tuscarora" to "Skarù:ręˀ"<sup>[42]</sup>.
 * Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
 
-### 1.2Single Player Campaign
+### 1.2 Single Player Campaign
 
 #### _Blood, Ice and Steal_ Act 1
 * In _Breakout_:
