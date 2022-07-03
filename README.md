@@ -62,19 +62,40 @@ You should have received a copy of the GNU Lesser General Public License along w
 ### 1.2Single Player Campaign
 
 #### _Blood, Ice and Steal_ Act 1
-* In _Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_. Also, Morgan Black says "Good work" when all treasures have been gathered.
+* In _Breakout_:
+    * Alain Magnan's "knights" are now guard lancers instead of imperial hussars _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_.
+    * Morgan Black says "Good work" when all treasures have been gathered.
+    * There are Ottoman dyngies on the shore, as these were established in _The Falcon Lands on Malta_.
 
-* In _Into the Caves_, the secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it, and Morgan Black says "Good work" when you do.
+* In _Answers_, the hoop throwers have been replaced with crossbowmen _(I didn't want them to just disapear at the start of Into the Caves, nor did I want to make the secondary objective of building hoop throwers to easy __-Jess__)_.
 
-* In _PIRATES!_, the caravel that gets blown up at the start, and any caravels that would be sent from Malta, are now galleys.
+* In _Into the Caves_:
+    *  You now start with three additional crossbowmen and 3 additional spearmen, as they are established in _Answers_.
+    *  The secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it, and Morgan Black says "Good work" when you do.
 
 * In _Lizzie the Pirate_, all Maltese caravels are now galleys.
 
+* In _PIRATES!_:
+    * The caravel that gets blown up at the start, and any caravels that are sent from Malta, are now galleys.
+    * You now start with two additional highlanders, as they are established in _Lizze the Pirate_.
+
 * In _The New World_, the caravel is now a galley.
 
-* In _The Ottoman Fort_, the unresearchable Champion Kalinago, Champion Maya and Champion Mēxihcah technologies no longer appear. 
+* In _The Ottoman Fort_:
+    * The unresearchable Champion Kalinago, Champion Maya and Champion Mēxihcah technologies no longer appear. 
+    * You now start with an additional hoop throwers and two highlanders, as they are established in _The New World_.
+    * You start with two pikemen instead of three, to offset the advantage of having additional troop types somewhat.
+    * Starting units now move a very short distance from the shore to prevent overcrowding. 
 
-* In _Secrets of the New World_, the caravel is now a galley, the unresearchable Champion Mēxihcah technology no longer appears, and you can now build walls.
+* In _Secrets of the New World_:
+    * The caravel is now a galley.
+    * The unresearchable Champion Mēxihcah technology no longer appears.
+    * You can now build walls.
+
+* In _A Pirate's Help?_:
+    * The Spanish church is now converted to you when you defeat the first Kalinago raid.
+    * You can now build a church, outposts and walls.
+    * You can now train lancers.
 
 * In _The Fountain of Youth_, you can now build outposts and walls.
 
