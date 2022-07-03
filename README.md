@@ -19,7 +19,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ### 1.1 Civilisations
 
-### Knights of St. John
+#### Knights of St. John
 * The Knights of St. John now use a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on "[_Bandiera del Sovrano Militare Ordine di Malta.svg_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>)". Public domain.
 
 * Alain Magnan now has a retextured caparison and jupon to match the new flag design detailed above. 
