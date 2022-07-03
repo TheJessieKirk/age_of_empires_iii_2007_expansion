@@ -17,26 +17,16 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 ## 1 Changes
 
-### 1.1 Single Player Campaign
+### 1.1 Civilisations
 
-#### _Blood, Ice and Steal_ Act 1
+### Knights of St. John
 * The Knights of St. John now use a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on "[_Bandiera del Sovrano Militare Ordine di Malta.svg_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>)". Public domain.
 
 * Alain Magnan now has a retextured caparison and jupon to match the new flag design detailed above. 
 
 * _St. Elmo_ (Morgan's flagship) now has retextured sails to match the new flag design detailed above.
 
-* The Knights of St. John now have galleys instead of caravels, as the Order historically made great use of galleys.
-
-* In _Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_. Also, Morgan Black says "Good work" when all treasures have been gathered.
-
-* In _Into the Caves_, the secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it, and Morgan Black says "Good work" when you do.
-
-* In _PIRATES!_, the caravel that gets blown up at the start, and any caravels that would be sent from Malta, are now galleys to reflect changes above.
-
-* In _Secrets of the New World_ and _The Fountain of Youth_, players can now build walls and outposts.
-
-### 1.2 Civilisations
+* The Knights of St. John now have galleys instead of caravels, as the Order historically made great use of galleys.vvvvvvvvvvvvvvvvvvv
 
 #### Ottomans
 * The Ottomans now use a more historically-accurate _Blue Turks' Flag_; three white crescent moons defacing a blue field. Based on "[_File:Blue Ottoman Flag.svg_](<https://upload.wikimedia.org/wikipedia/commons/d/d1/Blue_Ottoman_Flag.svg>)". Public domain.
@@ -68,6 +58,25 @@ You should have received a copy of the GNU Lesser General Public License along w
 * Changed "Shaolin" to "Chan" and "Kung Fu"<sup>[53]</sup>.
 * Changed "Tuscarora" to "Skarù:ręˀ"<sup>[42]</sup>.
 * Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
+
+### 1.2Single Player Campaign
+
+#### _Blood, Ice and Steal_ Act 1
+* In _Breakout_, Alain Magnan's "knights" are now guard lancers instead of imperial hussars _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_. Also, Morgan Black says "Good work" when all treasures have been gathered.
+
+* In _Into the Caves_, the secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it, and Morgan Black says "Good work" when you do.
+
+* In _PIRATES!_, the caravel that gets blown up at the start, and any caravels that would be sent from Malta, are now galleys.
+
+* In _Lizzie the Pirate_, all Maltese caravels are now galleys.
+
+* In _The New World_, the caravel is now a galley.
+
+* In _The Ottoman Fort_, the unresearchable Champion Kalinago, Champion Maya and Champion Mēxihcah technologies no longer appear. 
+
+* In _Secrets of the New World_, the caravel is now a galley, the unresearchable Champion Mēxihcah technology no longer appears, and you can now build walls.
+
+* In _The Fountain of Youth_, you can now build outposts and walls.
 
 ### 1.3 Random Names
 
