@@ -63,7 +63,7 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 #### _Blood, Ice and Steal_ Act 1
 * In _Breakout_:
-    * Alain Magnan's "knights" are now guard lancers instead of imperial hussars _(I felt this a better reflection of the "knights" Morgan Black refers to, as well as the "heavy cavalry" Alain Magnan refers to __-Jess__)_.
+    * Alain Magnan's "knights" are now cossacks instead of hussars, as this is what he is accompanied by in _The Floria Coast_.
     * Morgan Black says "Good work" when all treasures have been gathered.
     * There are Ottoman dyngies on the shore, as these were established in _The Falcon Lands on Malta_.
 
