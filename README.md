@@ -240,6 +240,7 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
     * _Anne Galley_: A pirate ship commanded by Richard Noland c. 1717<sup>[27]</sup>
     * _Bennet_: A pirate sloop commanded by Benjamin Hornigold, used by him to attack ships sailing near New Providence in 1717<sup>[25]</sup>.
     * _Happy Return_: A pirate sloop commanded by Benjamin Hornigold, used by him to attack ships sailing near New Providence in the winter of 1713 and/or 1714<sup>[24]</sup>.
+    * _La Louise_: A French 22-gun merchant frigate captured by Olivier Levasseur c. 1717. It was sunk in a storm on 9th March 1718 near Cotinga Island, Brazil<sup>[101]</sup>.
     * _Kingston_: A Jamaican ship captured by Calico Jack and used by him sometime after the 24th November 1718<sup>[26]</sup>.
     * _Marianne_: A pirate sloop commanded by Paulsgrave Williams, used by him to attack ships sailing near New Providence in the winter of 1713 and/or 1714<sup>[24][27][28]</sup>.
     * _Sultana_: A pirate galley commanded by Black Sam c. 1717.<sup>[28]</sup>.
@@ -346,3 +347,4 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [98]: [South Falkland (English Wikipedia)](<https://en.wikipedia.org/wiki/South_Falkland>)
 * [99]: [Smith's Hundred (English Wikipedia)](<https://en.wikipedia.org/wiki/Smith%27s_Hundred>)
 * [100]: [Wolstenholme Towne (English Wikipedia)](<https://en.wikipedia.org/wiki/Wolstenholme_Towne>)
+* [101]: [Olivier Levasseur (English Wikipedia)](<https://en.wikipedia.org/wiki/Olivier_Levasseur>)
