@@ -126,6 +126,15 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 * In _Strange Alliances_, John Black's sexist remark to Stuart Black has been changed to "Stuart, protect the wounded."
 
+* In _The Rescue_:
+    * You can now research Champion Haudenosaunee.
+    * Added a small, revealed path to show where John Black's party marched onto the map from, rather than just appearing out of nowhere.
+    * Replaced the Haudenosaunee village's walls with Native ones to prevent the Bastion technology affecting them.
+    * Replaced outpost with a watch tower (actually a fort tower) to stop the player sending shipments to it.
+    * Replaced the default grass texture that was underneath the British mills with a New England one.
+    * Removed British surgeons and priests because they just stood there and did nothing.
+    * Added British casualties near the Haudenosaunee village to show the attack established in _Haudenosaunee Under Attack_.
+
 ### 1.3 Random Names
 
 * The Knights of St. John now have the following random names for their galleys:
