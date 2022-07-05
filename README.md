@@ -163,7 +163,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * John Black's Mercenary frigates are now named for the first enduring English colonies in British America:
     * _Bermuda_: The Colony of Bermuda, or Somers Isles, was established in 1609 and chartered in 1612<sup>[82]</sup>.
     * _Connecticut River_: The Connecticut River was established in 1636 and chartered in 1662<sup>[71]</sup>.
-    * _Delaware Bay_: The Lower Counties on the Delaware Bay was founded by the Swiss as New Sweden in 1638, which was captued by the Dutch in 1655, which was then captured by the English in 1664, and granted in 1682<sup>73</sup>.
+    * _Delaware Bay_: The Lower Counties on the Delaware Bay was founded by the Swiss as New Sweden in 1638, which was captured by the Dutch in 1655, which was then captured by the English in 1664, and granted in 1682<sup>73</sup>.
     * _Georgia_: The Province of Georgia was granted and settled in 1732<sup>[81]</sup>.
     * _Maryland_: The Province of Maryland was granted and settled in 1632<sup>[77]</sup>.
     * _New Hampshire_: The Province of New Hampshire was granted in 1637 and settled c. 1623<sup>[70]</sup>.
