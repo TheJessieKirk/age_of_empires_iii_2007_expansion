@@ -147,7 +147,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Cuper's Cove_: Cuper's Cove was a colony in Newfoundland, established in 1610. It was formally abandoned in 1621, but may have been continously inhabited since then<sup>[85]</sup>.
     * _Elizabeth_: Elizabeth was a settlement within Tsenacommacah named Kikotan, captured from another Native American tribe in 1597. It was then captured by the Engish in 1610 and named Elizabeth<sup>[86]</sup>.
     * _Ferryland_: Ferryland is a settlement in Newfoundland, established c. 1590 as Farilham or Forillon. It was chartered as Ferryland c. 1610<sup>[87]</sup>.
-    * _Henricus_: Henricus was a settlement in within Virginia Colony, established in 1611. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[88]</sup>.
+    * _Henricus_: Henricus was a settlement within Virginia Colony, established in 1611. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[88]</sup>.
     * _Jamestown_: The Jamestown was an English settlement in Virginia, established in 1607 as James Fort. It was abandoned in 1699<sup>[89]</sup>.
     * _New Britanolia_: New Britanolia, now Harbour Grace, is a English/French settlement in Newfoundland, established c. 1550 as Harbor Grace or Havre de Grâce. It was chartered by England c. 1618 as New Britanolia <sup>[90]</sup>.
     * _New Cambriol_: New Cambriol was a Welsh settlement in Newfoundland, granted in 1611. It was ambandoned between 1630 and 1637<sup>[91]</sup>.
