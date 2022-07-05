@@ -118,7 +118,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * You now can't research the Mercantalism technology (which was not required before as you didn't have a church).
     * The trade route is already set to Level 1 (stagecoach), as Cuba is an established colony.
 
-* In _The Floria Coast_, the unresearchable Champion Tawantinsuyu technology no longer appears.
+* In _The Florida Coast_, the unresearchable Champion Tawantinsuyu technology no longer appears.
 
 * In _The Fountain of Youth?_, you can now build outposts and walls.
 
