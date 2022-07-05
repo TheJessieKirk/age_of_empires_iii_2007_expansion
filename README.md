@@ -40,19 +40,26 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 #### Minor Civilizations
 * Changed "Apache" to "Indé"<sup>[55]</sup>.
+* Changed "Arapaho" to "Hinono'eino"<sup>[55]</sup>.
+* Changed "Arawak" to "Lokono"<sup>[56]</sup>.
 * Changed "Aztec" to "Mēxihcah"<sup>[36]</sup>.
+* Changed "Blackfoot" to "Siksiká"<sup>[31]</sup>.
 * Changed "Carib" to "Kalinago"<sup>[29]</sup>.
 * Changed "Cayuga" to "Gayogo̱hó꞉nǫʼ"<sup>[41]</sup>.
 * Changed "Cherokee" to "Aniyvwiyaʔi"<sup>[45]</sup>.
 * Changed "Cheyenne" to "Tsétsêhéstâhese"<sup>[48]</sup>.
 * Changed "Comanche" to "Nʉmʉnʉʉ"<sup>[30]</sup>.
 * Changed "Cree" to "Néhinaw"<sup>[31]</sup>.
+* Changed "Crow" to "Apsáalooke"<sup>[59]</sup>.
 * Changed "Dakota" to "Dakȟóta"<sup>[44]</sup>.
+* Changed "Haida" to "X̱aayda"<sup>[60]</sup>.
 * Changed "Huari" to "Aikanã"<sup>[35]</sup>.
 * Changed "Huron" to "Waⁿdát"<sup>[46]</sup>.
 * Changed "Inca" to "Tawantinsuyu"<sup>[34]</sup>.
 * Chanced "Iroquois" to "Haudenosaunee"<sup>[32]</sup>.
 * Changed "Jesuit" to "Societas Iesu"<sup>[54]</sup>.
+* Changed "Kickapoo" to "Kiikaapoa"<sup>[61]</sup>.
+* Changed "Kiowa to "Ka'igwu"<sup>[62]</sup>.
 * Chanced "Lakota" and "Sioux" to "Lakȟóta"<sup>[32][43]</sup>.
 * Chanced "Mapuche" to "Reche"<sup>[50]</sup>.
 * Changed "Mohawk" to "Kanienʼkehá꞉ka"<sup>[37]</sup>.
@@ -60,10 +67,16 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * Changed "Nootka" to "Nuučaan̓ułʔatḥ"<sup>[33]</sup>.
 * Changed "Oneida" to "Onʌyoteˀa·ká·"<sup>[40]</sup>.
 * Changed "Onondaga" to "Onöñda’gaga’"<sup>[39]</sup>.
+* Changed "Paiute" to "Numu"<sup>[63]</sup>.
+* Changed "Pawnee" to "Chaticks si Chaticks"<sup>[64]</sup>.
 * Changed "Seminole" to "yat'Siminoli"<sup>[46]</sup>.
 * Changed "Seneca" to "Onödowáʼga"<sup>[38]</sup>.
 * Changed "Shaolin" to "Chan" and "Kung Fu"<sup>[53]</sup>.
+* Changed "Shoshone" to "Newe"<sup>[65]</sup>.
 * Changed "Tuscarora" to "Skarù:ręˀ"<sup>[42]</sup>.
+* Changed "Ute" to "Núuchi-u"<sup>[66]</sup>.
+* Changed "Wichita" to "Kitikiti'sh"<sup>[67]</sup>.
+* Changed "Yanomamo" to "Yanõmami Thëpë"<sup>[68]</sup>.
 * Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
 
 ### 1.2 Single Player Campaign
@@ -241,3 +254,16 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [53]: [Shaolin Monastery (English Wikipedia)](<https://en.wikipedia.org/wiki/Shaolin_Monastery>)
 * [54]: [Society of Jesus (English Wikipedia)](<https://en.wikipedia.org/wiki/Society_of_Jesus>)
 * [55]: [Apache (English Wikipedia)](<https://en.wikipedia.org/wiki/Apache>)
+* [56]: [Arapaho (English Wikipedia)](<https://en.wikipedia.org/wiki/Arapaho>)
+* [57]: [Lokono (English Wikipedia)](<https://en.wikipedia.org/wiki/Lokono>)
+* [58]: [Siksika Nation (English Wikipedia)](<https://en.wikipedia.org/wiki/Siksika_Nation>)
+* [59]: [Crow people (English Wikipedia)](<https://en.wikipedia.org/wiki/Crow_people>)
+* [60]: [Haida people (English Wikipedia)](<https://en.wikipedia.org/wiki/Haida_people>)
+* [61]: [Kickapoo people (English Wikipedia)](<https://en.wikipedia.org/wiki/Kickapoo_people>)
+* [62]: [Kiowa (English Wikipedia)](<https://en.wikipedia.org/wiki/Kiowa>)
+* [63]: [Northern Paiute people (English Wikipedia)](<https://en.wikipedia.org/wiki/Northern_Paiute_people>)
+* [64]: [Pawnee people (English Wikipedia)](<https://en.wikipedia.org/wiki/Pawnee_people>)
+* [65]: [Shoshone people (English Wikipedia)](<https://en.wikipedia.org/wiki/Shoshone>)
+* [66]: [Ute people (English Wikipedia)](<https://en.wikipedia.org/wiki/Ute_people>)
+* [67]: [Wichita people (English Wikipedia)](<https://en.wikipedia.org/wiki/Wichita_people>)
+* [68]: [Yanomami (English Wikipedia)](<https://en.wikipedia.org/wiki/Yanomami>)
