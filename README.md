@@ -21,7 +21,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 ### 1.1 Civilisations
 
-### John Black's Mercenaries
+#### John Black's Mercenaries
 * Changed Indian Friendship technology to Native Friendship.
 
 * Fixed Native Friendship icon in _Age of Empires III_ version of the campaign.
