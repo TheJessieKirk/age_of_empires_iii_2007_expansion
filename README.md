@@ -190,7 +190,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Santa Maria (English: Saint Mary)_: a Maltese galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and abducting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
     * _Vittoria (English: Victory)_: a Maltese galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and abducting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
 
-* The Knights of St. John now have the following randoms names for their galleons:
+* The Knights of St. John now have the following random names for their galleons:
     * _Beneghem (Corruption of Berenghemi)_: a 66-gun Ottomon carrack _Sultana Berenghemi_ launched c. 1654, captured by the Knights of St. John in 1700<sup>[7][22]</sup> and decommissioned c. 1700<sup>[5]</sup>.
     * _Half Moon_: an Algerine carrack or ship-of-the-line that was captured by the Knights Hospitaller in 1713<sup>[5][22]</sup>.
     * _San Antonio di Padova (English: Saint Anthony of Padua)_: a Knights Hospitaller ship-of-the-line that was launched in 1727 and broken up in 1765<sup>[5]</sup>.
