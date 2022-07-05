@@ -202,7 +202,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
         * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1703<sup>[5]</sup>
         * a Knights Hospitaller carrack or ship-of-the-line that was launched in 1718 and broken up in 1753<sup>[5]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1720 and broken up c. 1765<sup>[5]</sup>
-        * a Knights Hospitaller ship , c. 1755<sup>[22]</sup>
+        * a Knights Hospitaller ship, c. 1755<sup>[22]</sup>
         * a Knights Hospitaller ship-of-the-line that was launched in 1768 and decommissioned c. 1784<sup>[5]</sup>.
         * a Knights Hospitaller ship-of-the-line that was captured by the French in Valetta before being launched by them and entering service as the _Athénien_. She was subsequently captured by the British and taken into service as the _HMS Athenienne_ c.1798<sup>[8]</sup>. _(I'll add more history if I add British ship names to this mod at a later date. __-Jess__)_
     * _San Raimondo (English: Saint Raymond)_: a 46-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
