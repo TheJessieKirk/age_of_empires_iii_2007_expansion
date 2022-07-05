@@ -145,8 +145,8 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Berkeley_: Berkeley Hundred was a settlement within Virginia Colony, granted in 1618 and founded in 1619. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[83]</sup>.
     * _Bristol's Hope_: Bristol's Hope was an outpost/"sister" colony of Cuper's Grove, Newfoundland, granted in 1617 and founded in 1618. It was formally abandoned c. 1631, but may have been continously inhabited since then <sup>[84]</sup>.
     * _Cuper's Cove_: Cuper's Cove was a colony in Newfoundland, established in 1610. It was formally abandoned in 1621, but may have been continously inhabited since then<sup>[85]</sup>.
-    * _Elizabeth_: Elizabeth was a settlement within Tsenacommacah named Kikotan, captured from another Native American tribe in 1597. It was then captured by the Engish in 1610 and named Elizabeth.<sup>[86]</sup>.
-    * _Ferryland_: Ferryland is a settlement in Newfoundland, established c. 1590 as Farilham or Forillon. It was chartered as Ferryland c. 1610.<sup>[87]</sup>.
+    * _Elizabeth_: Elizabeth was a settlement within Tsenacommacah named Kikotan, captured from another Native American tribe in 1597. It was then captured by the Engish in 1610 and named Elizabeth<sup>[86]</sup>.
+    * _Ferryland_: Ferryland is a settlement in Newfoundland, established c. 1590 as Farilham or Forillon. It was chartered as Ferryland c. 1610<sup>[87]</sup>.
     * _Henricus_: Henricus was a settlement in within Virginia Colony, established in 1611. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[88]</sup>.
     * _Jamestown_: The Jamestown was an English settlement in Virginia, established in 1607 as James Fort. It was abandoned in 1699<sup>[89]</sup>.
     * _New Britanolia_: New Britanolia, now Harbour Grace, is a English/French settlement in Newfoundland, established c. 1550 as Harbor Grace or Havre de Grâce. It was chartered by England c. 1618 as New Britanolia <sup>[90]</sup>.
