@@ -223,7 +223,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Fort Manoel_: a star fort build on Manoel Island, Malta by the Knights Hospitaller 1723–1733<sup>[12]</sup>.
     * _Fort Ricasoli_: a bastioned fort build in Grand Harbour, Malta by the Knights Hospitaller 1670–1698<sup>[13]</sup>.
     * _Fort Saint Agatha_: a large bastioned watchtower build in Mellieħa, Malta by the Knights Hospitaller c. 1647–1649<sup>[14]</sup>.
-    * _Fort Saint Angelo_: a bastioned fort build on the built in Grand Harbour, Malta by the Knights Hospitaller c. 1200–1691<sup>[15]</sup>.
+    * _Fort Saint Angelo_: a bastioned fort build in Grand Harbour, Malta by the Knights Hospitaller c. 1200–1691<sup>[15]</sup>.
     * _Fort Saint Elmo_: a star fort build in Valleta, Malta by the Knights Hospitaller 1552–c. 1570<sup>[16]</sup>.
     * _Fort Saint Michael_: a small fort build on Senglea, Malta by the Knights Hospitaller 1552–1581<sup>[17]</sup>.
     * _Fort Saint Thomas_: a large bastioned watchtower build in Marsaskala, Malta by the Knights Hospitaller in 1614<sup>[18]</sup>.
