@@ -154,7 +154,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Placentia_: Placentia is a settlement in Newfoundland, established c. 1590. It was formed as a French colony in 1655 and captured by the British in 1713<sup>[92]</sup>.
     * _Popham_: Popham was an Engish settlement in Virginia, granted in 1607. It was abandoned in 1608<sup>[93]</sup>.
     * _Renews_: Renews was an Engish settlement in Newfoundland, proposed in 1610 and established in 1617. It was formally abandoned in 1619 but continously occupied since then<sup>[94]</sup>.
-    * _Roanoke_: Roanoke was an Engish colony in Virginia, settled in 1585. It was abandoned in 1586 and re-established in 1587; however all the colonists disapeared at some point afterwards<sup>[95]</sup>.
+    * _Roanoke_: Roanoke was an Engish colony in Virginia, settled in 1585. It was abandoned in 1586 and re-established in 1587; however all the colonists disappeared at some point afterwards<sup>[95]</sup>.
     * _Saint John's_: Saint John's is a settlement in Newfoundland, established c. 1500s. It was chartered by England c. 1583 but the annexation was abandoned later that year. It has been continously inhabited since then<sup>[96][97]</sup>.
     * _South Falkland_: South Falkland was an English colony in Newfoundland, established 1623. It was abandoned c. 1630<sup>[98]</sup>.
     * _Southampton_: Smith's Hundred was an English settlement within Virginia Colony, established 1617. It was renamed Southampton Hundred in 1620 and was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[99]</sup>.
