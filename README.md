@@ -137,6 +137,18 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 ### 1.3 Random Names
 
+## The Circle of Ossus
+* The Circle of Ossus now have more random names for their caravels and galleons. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>) and _The Key of Solomon_, and every single name from these sources were used.  _(For a secret-order-of-European-scientists/exorcist feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
+
+## John Black's Mercenaries
+* John Black's Mercenary frigates are now named for the first enduring English colonies in British America:
+    * _Connecticut River_: The Connecticut River was established in 1636 and chartered 1662<sup>[71]</sup>.
+    * _Delaware Bay_: The Lower Counties on the Delaware Bay was founded by the Swiss as New Sweden in 1638, which was captued by the Dutch in 1655, which was then captured by the English in 1664, and granted in 1682<sup>73</sup>.
+    * _New Hampshire_: The Province of New Hampshire was granted in 1637 and settled c. 1623<sup>[70]</sup>.
+    * _Rhode Island_: The Colony of Rhode Island and Providence Plantations were settled c. 1622 and 1636 respectively, and chartered in 1663<sup>[72]</sup>.
+    * _Virginia_: The Colony of Virginia was chartered in 1606 and settled in 1607<sup>[69]</sup>.
+
+## Knights of St. John
 * The Knights of St. John now have the following random names for their galleys:
     * _Capitana (English: Captain)_; a Maltese galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
     * _San Claudio (English: Saint Claudius)_: a Maltese galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
@@ -193,8 +205,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Fort Tigné_: a polygonal fort build in Marsamxett Harbour, Malta by the Knights Hospitaller 1793–1795<sup>[21]</sup>.
 _(I know the Knights of Malta built forts on at least one of the Carribean island colonies they controlled but I can't find any information, so I went with the ones on Malta __-Jess__)_
 
-* The Circle of Ossus now have more random names for their caravels and galleons. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>) and _The Key of Solomon_. _(For a secret-order-of-European-scientists/exorcist feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
-
+### Misc.
 * Privateers now have the following additional random names:
     * _Adventure_:
         * A Jamaican sloop captured by Blackbeard in March 1718, and placed under the command of Israel Hands<sup>[23]</sup>.
@@ -276,3 +287,8 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [66]: [Ute people (English Wikipedia)](<https://en.wikipedia.org/wiki/Ute_people>)
 * [67]: [Wichita people (English Wikipedia)](<https://en.wikipedia.org/wiki/Wichita_people>)
 * [68]: [Yanomami (English Wikipedia)](<https://en.wikipedia.org/wiki/Yanomami>)
+* [69]: [Colony of Virginia (English Wikipedia)](<https://en.wikipedia.org/wiki/Colony_of_Virginia>)
+* [70]: [Province of New Hampshire (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_New_Hampshire>)
+* [71]: [Connecticut Colony (English Wikipedia)](<https://en.wikipedia.org/wiki/Connecticut_Colony>)
+* [72]: [Colony of Rhode Island and Providence Plantations (English Wikipedia)](<https://en.wikipedia.org/wiki/Colony_of_Rhode_Island_and_Providence_Plantations>)
+* [73]: [Delaware Colony (English Wikipedia)](<https://en.wikipedia.org/wiki/Delaware_Colony>)
