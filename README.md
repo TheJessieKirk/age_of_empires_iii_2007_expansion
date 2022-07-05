@@ -134,6 +134,18 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * Replaced the default grass texture that was underneath the British mills with a New England one.
     * Removed British surgeons and priests because they just stood there and did nothing.
     * Added British casualties near the Haudenosaunee village to show the attack established in _Haudenosaunee Under Attack_.
+    * The unbuildable dock no longer appears as an option.
+
+* In _The Next Day_, the British and French troops fight each other at dawn like they are supposed to, but the falconet had to be removed.
+
+* In _The Seven Years' War_:
+    * Added Nonahkee, as she is established in _The Next Day_.
+    * Replaced highlanders with jaegers, as they are established in _The Next Day_.
+    * Removed docks.
+
+* In _Colonel Washington_:
+    * Moved Nonahkee so she starts standing with the other heroes.
+    * You can now build walls and outposts.
 
 ### 1.3 Random Names
 
