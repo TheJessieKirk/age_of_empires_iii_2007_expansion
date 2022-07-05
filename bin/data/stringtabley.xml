@@ -2794,7 +2794,7 @@
         <string _locid="27001" gamecharacter="John" soundfilename="JOHN0110" portraitfilename="units\spc\john_black\john_black_igc_icon">He's taken my uncle.</string>
         <string _locid="27002" gamecharacter="Washington" soundfilename="WASH0015" portraitfilename="units\spc\george_washington\george_washington_igc_icon">Then I'm afraid your uncle is dead. But if you want to pursue Warwick, you'll have British support.</string>
         <string _locid="27003" gamecharacter="Kanyenke" soundfilename="KANY0050" portraitfilename="units\spc\kanyenke\kanyenke_igc_icon">Do you believe Warwick is part of this Circle you told me of?</string>
-        <string _locid="27004" gamecharacter="John" soundfilename="JOHN0115" portraitfilename="units\spc\john_black\john_black_igc_icon">Yes, and going after him will be dangerous. Nonahkee should stay here.</string>
+        <string _locid="27004" gamecharacter="John" soundfilename="JOHN0115" portraitfilename="units\spc\john_black\john_black_igc_icon">Yes, and going after him will be dangerous.</string>
         <string _locid="27005" gamecharacter="Kanyenke" soundfilename="KANY0055" portraitfilename="units\spc\kanyenke\kanyenke_igc_icon">You will find my sister makes her own choices.</string>
         <string _locid="27006" gamecharacter="John" soundfilename="JOHN0120" portraitfilename="units\spc\john_black\john_black_igc_icon">We'll track your traitor for you, Colonel Washington.</string>
         <string _locid="27007" gamecharacter="John" soundfilename="JOHN0125" portraitfilename="units\spc\john_black\john_black_igc_icon">Boneguard! I don't believe it.</string>
