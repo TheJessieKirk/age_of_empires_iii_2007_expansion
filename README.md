@@ -149,7 +149,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Ferryland_: Ferryland is a settlement in Newfoundland, established c. 1590 as Farilham or Forillon. It was chartered as Ferryland c. 1610<sup>[87]</sup>.
     * _Henricus_: Henricus was a settlement within Virginia Colony, established in 1611. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[88]</sup>.
     * _Jamestown_: The Jamestown was an English settlement in Virginia, established in 1607 as James Fort. It was abandoned in 1699<sup>[89]</sup>.
-    * _New Britanolia_: New Britanolia, now Harbour Grace, is a English/French settlement in Newfoundland, established c. 1550 as Harbor Grace or Havre de Grâce. It was chartered by England c. 1618 as New Britanolia <sup>[90]</sup>.
+    * _New Britanolia_: New Britanolia, now Harbour Grace, is a English/French settlement in Newfoundland, established c. 1550 as Harbor Grace or Havre de Grâce. It was chartered by England c. 1618 as New Britanolia<sup>[90]</sup>.
     * _New Cambriol_: New Cambriol was a Welsh settlement in Newfoundland, granted in 1611. It was ambandoned between 1630 and 1637<sup>[91]</sup>.
     * _Placentia_: Placentia is a settlement in Newfoundland, established c. 1590. It was formed as a French colony in 1655 and captured by the British in 1713<sup>[92]</sup>.
     * _Popham_: Popham was an Engish settlement in Virginia, granted in 1607. It was abandoned in 1608<sup>[93]</sup>.
