@@ -207,8 +207,8 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
         * a Knights Hospitaller ship-of-the-line that was captured by the French in Valetta before being launched by them and entering service as the _Athénien_. She was subsequently captured by the British and taken into service as the _HMS Athenienne_ c.1798<sup>[8]</sup>. _(I'll add more history if I add British ship names to this mod at a later date. __-Jess__)_
     * _San Raimondo (English: Saint Raymond)_: a 46-gun Knights Hospitaller ship-of-the-line that fought in the Battle of Matapan (1717)<sup>[10]</sup>.
     * _San Salvatore (English: Holy Saviour)_:
-        * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1760 and decommissioned in 1762.<sup>[5]</sup>
-        * a Turkish ship-of-the-line _Corona Ottomana_ that was captured by the Knights Hospitaller in 1760 after her slaves rebelled.<sup>[22]</sup> 
+        * a Knights Hospitaller carrack or ship-of-the-line that was launched c. 1760 and decommissioned in 1762<sup>[5]</sup>,
+        * a Turkish ship-of-the-line _Corona Ottomana_ that was captured by the Knights Hospitaller in 1760 after her slaves rebelled<sup>[22]</sup>.
     * _San Vicenzo (English: Saint Vincenzo)_:
         * a Knights Hospitaller ship-of-the-line that was launched in 1720<sup>[5]</sup>,
         * a Knights Hospitaller ship-of-the-line that was launched in 1755<sup>[5]</sup>.
