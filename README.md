@@ -141,8 +141,27 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * The Circle of Ossus now have more random names for their caravels and galleons. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>) and _The Key of Solomon_, and every single name from these sources were used.  _(For a secret-order-of-European-scientists/exorcist feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
 
 ## John Black's Mercenaries
+* John Black's Mercenary caravels are now named for smaller and/or non-enduring British, English and Welsh colonies in British America:
+    * _Berkeley_: Berkeley Hundred was a settlement within Virginia Colony, granted in 1618 and founded in 1619. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[83]</sup>.
+    * _Bristol's Hope_: Bristol's Hope was an outpost/"sister" colony of Cuper's Grove, Newfoundland, granted in 1617 and founded in 1618. It was formally abandoned c. 1631, but may have been continously inhabited since then <sup>[84]</sup>.
+    * _Cuper's Cove_: Cuper's Gove was a colony in Newfoundland, established in 1610. It was formally abandoned in 1621, but may have been continously inhabited since then <sup>[85]</sup>.
+    * _Elizabeth_: Elizabeth was a settlement within Tsenacommacah named Kikotan, captured from another Native American tribe in 1597. It was then captured by the Engish in 1610 and named Elizabeth.<sup>[86]</sup>.
+    * _Ferryland_: Ferryland is a settlement in Newfoundland, established c. 1590 as Farilham or Forillon. It was chartered as Ferryland c. 1610.<sup>[87]</sup>.
+    * _Henricus_: Henricus was a settlement in within Virginia Colony, established in 1611. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[88]</sup>.
+    * _Jamestown_: The Jamestown was an English settlement in Virginia, established in 1607 as James Fort. It was abandoned in 1699<sup>[89]</sup>.
+    * _New Britanolia_: New Britanolia, now Harbour Grace, is a English/French settlement in Newfoundland, established c. 1550 as Harbor Grace or Havre de Grâce. It was chartered by England c. 1618 as New Britanolia <sup>[90]</sup>.
+    * _New Cambriol_: New Cambriol was a Welsh settlement in Newfoundland, granted in 1611. It was ambandoned between 1630 and 1637<sup>[91]</sup>.
+    * _Placentia_: Placentia is a settlement in Newfoundland, established c. 1590. It was formed as a French colony in 1655 and captured by the British in 1713<sup>[92]</sup>.
+    * _Popham_: Popham was an Engish settlement in Virginia, granted in 1607. It was abandoned in 1608<sup>[93]</sup>.
+    * _Renews_: Renews was an Engish settlement in Newfoundland, proposed in 1610 and established in 1617. It was formally abandoned in 1619 but continously occupied since then<sup>[94]</sup>.
+    * _Roanoke_: Roanoke was an Engish colony in Virginia, settled in 1585. It was abandoned in 1586 and re-established in 1587; however all the colonists disapeared at some point afterwards<sup>[95]</sup>.
+    * _Saint John's_: Saint John's is a settlement in Newfoundland, established c. 1500s. It was chartered by England c. 1583 but the annexation was abandoned later that year. It has been continously inhabited since then<sup>[96][97]</sup>.
+    * _South Falkland_: South Falkland was an English colony in Newfoundland, established 1623. It was abandoned c. 1630<sup>[98]</sup>.
+    * _Southampton_: Smith's Hundred was an English settlement within Virginia Colony, established 1617. It was renamed Southampton Hundred in 1620 and was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[99]</sup>.
+    * _Wolstenholme_: Wolstenholme Town was an English settlement within Virginia Colony, established c. 1618. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[100]</sup>.
+
 * John Black's Mercenary frigates are now named for the first enduring English colonies in British America:
-    * _Bermuda_: The Colony of Bermuda, or Somers Isles, was established in 1609 and chartered in 1612 <sup>[82]</sup>.
+    * _Bermuda_: The Colony of Bermuda, or Somers Isles, was established in 1609 and chartered in 1612<sup>[82]</sup>.
     * _Connecticut River_: The Connecticut River was established in 1636 and chartered in 1662<sup>[71]</sup>.
     * _Delaware Bay_: The Lower Counties on the Delaware Bay was founded by the Swiss as New Sweden in 1638, which was captued by the Dutch in 1655, which was then captured by the English in 1664, and granted in 1682<sup>73</sup>.
     * _Georgia_: The Province of Georgia was granted and settled in 1732<sup>[81]</sup>.
@@ -309,3 +328,21 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [80]: [Province of South Carolina (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_South_Carolina>)
 * [81]: [Province of Georgia (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_Georgia>)
 * [82]: [History of Bermuda (English Wikipedia)](<https://en.wikipedia.org/wiki/History_of_Bermuda>)
+* [83]: [Berkeley Hundred (English Wikipedia)](<https://en.wikipedia.org/wiki/Berkeley_Hundred>)
+* [84]: [Division No. 1, Subdivision I, Newfoundland and Labrador (English Wikipedia)](<https://en.wikipedia.org/wiki/Division_No._1,_Subdivision_I,_Newfoundland_and_Labrador#Bristol's_Hope>)
+* [85]: [Cuper's Cove (English Wikipedia)](<https://en.wikipedia.org/wiki/Cuper%27s_Cove>)
+* [86]: [Kecoughtan, Virginia (English Wikipedia)](<https://en.wikipedia.org/wiki/Kecoughtan,_Virginia>)
+* [87]: [Ferryland (English Wikipedia)](<https://en.wikipedia.org/wiki/Ferryland>)
+* [88]: [Henricus (English Wikipedia)](<https://en.wikipedia.org/wiki/Henricus>)
+* [89]: [Jamestown, Virginia (English Wikipedia)](<https://en.wikipedia.org/wiki/Jamestown,_Virginia>)
+* [90]: [Harbour Grace (English Wikipedia)](<https://en.wikipedia.org/wiki/Harbour_Grace>)
+* [91]: [Cambriol (English Wikipedia)](<https://en.wikipedia.org/wiki/Cambriol>)
+* [92]: [Placentia, Newfoundland and Labrador (English Wikipedia)](<https://en.wikipedia.org/wiki/Placentia,_Newfoundland_and_Labrador>)
+* [93]: [Popham Colony (English Wikipedia)](<https://en.wikipedia.org/wiki/Popham_Colony>)
+* [94]: [Renews-Cappahayden (English Wikipedia)](<https://en.wikipedia.org/wiki/Renews-Cappahayden>)
+* [95]: [Roanoke Colony (English Wikipedia)](<https://en.wikipedia.org/wiki/Roanoke_Colony>)
+* [96]: [Humphrey Gilbert (English Wikipedia)](<https://en.wikipedia.org/wiki/Humphrey_Gilbert>)
+* [97]: [St. John's, Newfoundland and Labrador (English Wikipedia)](<https://en.wikipedia.org/wiki/St._John%27s,_Newfoundland_and_Labrador>)
+* [98]: [South Falkland (English Wikipedia)](<https://en.wikipedia.org/wiki/South_Falkland>)
+* [99]: [Smith's Hundred (English Wikipedia)](<https://en.wikipedia.org/wiki/Smith%27s_Hundred>)
+* [100]: [Wolstenholme Towne (English Wikipedia)](<https://en.wikipedia.org/wiki/Wolstenholme_Towne>)
