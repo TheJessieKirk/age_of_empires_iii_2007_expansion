@@ -137,10 +137,10 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 ### 1.3 Random Names
 
-## The Circle of Ossus
+#### The Circle of Ossus
 * The Circle of Ossus now have more random names for their caravels, galleons, frigates and monitors. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>), [The Key of Solomon](<https://en.wikipedia.org/wiki/Key_of_Solomon>) and the [Labours of Hercules](<https://en.wikipedia.org/wiki/Labours_of_Hercules>). Every single name from these sources was used.  _(For a secret-order-of-European-scientists/exorcist feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
 
-## John Black's Mercenaries
+#### John Black's Mercenaries
 * John Black's Mercenary caravels are now named for smaller and/or non-enduring British, English and Welsh colonies in British America:
     * _Berkeley_: Berkeley Hundred was a settlement within Virginia Colony, granted in 1618 and founded in 1619. It was abandoned in 1622 during the Second Anglo-Powhatan War (1622–1632)<sup>[83]</sup>.
     * _Bristol's Hope_: Bristol's Hope was an outpost/"sister" colony of Cuper's Grove, Newfoundland, granted in 1617 and founded in 1618. It was formally abandoned c. 1631, but may have been continously inhabited since then <sup>[84]</sup>.
@@ -175,7 +175,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _South Carolina_: The Province of Carolina was granted and settled in 1663<sup>[78]</sup>, and split into the Provinces of North Carolina<sup>[79]</sup> and South Carolina<sup>[80]</sup> in 1712<sup>[78]</sup>.
     * _Virginia_: The Colony of Virginia was chartered in 1606 and settled in 1607<sup>[69]</sup>.
 
-## Knights of St. John
+#### Knights of St. John
 * The Knights of St. John now have the following random names for their galleys:
     * _Capitana (English: Captain)_; a Maltese galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
     * _San Claudio (English: Saint Claudius)_: a Maltese galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
@@ -232,7 +232,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * _Fort Tigné_: a polygonal fort build in Marsamxett Harbour, Malta by the Knights Hospitaller 1793–1795<sup>[21]</sup>.
 _(I know the Knights of Malta built forts on at least one of the Carribean island colonies they controlled but I can't find any information, so I went with the ones on Malta __-Jess__)_
 
-### Misc.
+#### Misc.
 * Privateers now have the following additional random names:
     * _Adventure_:
         * A Jamaican sloop captured by Blackbeard in March 1718, and placed under the command of Israel Hands<sup>[23]</sup>.
