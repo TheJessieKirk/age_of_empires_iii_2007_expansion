@@ -8,16 +8,23 @@ This release is __100% unofficial__ and in no way endorsed by Ensemble Studios, 
 _[Age of Empires III](<https://www.ageofempires.com/games/aoeiii/>)_ is developed by Ensemble Studios, [Xbox Game Studios](<https://www.xbox.com/en-US/xbox-game-studios>), [Big Huge Games](<https://bighugegames.com/>), [Tantalus Media](<https://www.tantalus.com.au/>) and [Forgotten Empires](<https://www.forgottenempires.net/>). ® or ™, and/or © 2020–2022 of [Microsoft Corporation](<https://www.microsoft.com/en-us/>), or its affiliates.
 
 ### 0.1 License and Limitation of Liability
-
 Except where otherwise indicated in seperate LICENSE.txt files, this release is free software: you can redistribute it and/or modify it under the terms of the [GNU Lesser General Public License](<https://www.gnu.org/licenses/lgpl-3.0>) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This release is distributed in the hope that it will be useful, but __WITHOUT ANY WARRANTY__; without even the implied warranty of __MERCHANTABILITY__ or __FITNESS FOR A PARTICULAR PURPOSE__. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU Lesser General Public License along with this release. If not, see [https://www.gnu.org/licenses](<https://www.gnu.org/licenses/>).
 
+### 0.2 Requirements
+This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and _Age of Empires III: The Asian Dynasties_.
+
 ## 1 Changes
 
 ### 1.1 Civilisations
+
+### John Black's Mercenaries
+* Changed Indian Friendship technology to Native Friendship.
+
+* Fixed Native Friendship icon in Age of Empires III version of the campaign.
 
 #### Knights of St. John
 * The Knights of St. John now use a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on "[_Bandiera del Sovrano Militare Ordine di Malta.svg_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>)". Public domain.
