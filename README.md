@@ -142,10 +142,18 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 ## John Black's Mercenaries
 * John Black's Mercenary frigates are now named for the first enduring English colonies in British America:
-    * _Connecticut River_: The Connecticut River was established in 1636 and chartered 1662<sup>[71]</sup>.
+    * _Bermuda_: The Colony of Bermuda, or Somers Isles, was established in 1609 and chartered in 1612 <sup>[82]</sup>.
+    * _Connecticut River_: The Connecticut River was established in 1636 and chartered in 1662<sup>[71]</sup>.
     * _Delaware Bay_: The Lower Counties on the Delaware Bay was founded by the Swiss as New Sweden in 1638, which was captued by the Dutch in 1655, which was then captured by the English in 1664, and granted in 1682<sup>73</sup>.
+    * _Georgia_: The Province of Georgia was granted and settled in 1732<sup>[81]</sup>.
+    * _Maryland_: The Province of Maryland was granted and settled in 1632<sup>[77]</sup>.
     * _New Hampshire_: The Province of New Hampshire was granted in 1637 and settled c. 1623<sup>[70]</sup>.
+    * _New Jersey_: The Province of New Jersey was founded by the Dutch as New Netherland in 1614 and captured by the English in 1664<sup>[75]</sup>.
+    * _New York_: The Province of New York was founded by the Dutch as New Netherland in 1614 and captured by the English in 1664<sup>[74]</sup>.
+    * _North Carolina_: The Province of Carolina was granted and settled in 1663<sup>[78]</sup>, and split into the Provinces of North Carolina<sup>[79]</sup> and South Carolina<sup>[80]</sup> in 1712<sup>[78]</sup>.
+    * _Pennsylvania_: The Province of Pennsylvania was granted and settled in 1681<sup>[76]</sup>.
     * _Rhode Island_: The Colony of Rhode Island and Providence Plantations were settled c. 1622 and 1636 respectively, and chartered in 1663<sup>[72]</sup>.
+    * _South Carolina_: The Province of Carolina was granted and settled in 1663<sup>[78]</sup>, and split into the Provinces of North Carolina<sup>[79]</sup> and South Carolina<sup>[80]</sup> in 1712<sup>[78]</sup>.
     * _Virginia_: The Colony of Virginia was chartered in 1606 and settled in 1607<sup>[69]</sup>.
 
 ## Knights of St. John
@@ -292,3 +300,12 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [71]: [Connecticut Colony (English Wikipedia)](<https://en.wikipedia.org/wiki/Connecticut_Colony>)
 * [72]: [Colony of Rhode Island and Providence Plantations (English Wikipedia)](<https://en.wikipedia.org/wiki/Colony_of_Rhode_Island_and_Providence_Plantations>)
 * [73]: [Delaware Colony (English Wikipedia)](<https://en.wikipedia.org/wiki/Delaware_Colony>)
+* [74]: [Province of New York (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_New_York>)
+* [75]: [Province of New Jersey (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_New_Jersey>)
+* [76]: [Province of Pennsylvania (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_Pennsylvania>)
+* [77]: [Province of Maryland (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_Maryland>)
+* [78]: [Province of Carolina (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_Carolina>)
+* [79]: [Province of North Carolina (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_North_Carolina>)
+* [80]: [Province of South Carolina (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_South_Carolina>)
+* [81]: [Province of Georgia (English Wikipedia)](<https://en.wikipedia.org/wiki/Province_of_Georgia>)
+* [82]: [History of Bermuda (English Wikipedia)](<https://en.wikipedia.org/wiki/History_of_Bermuda>)
