@@ -24,7 +24,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 ### John Black's Mercenaries
 * Changed Indian Friendship technology to Native Friendship.
 
-* Fixed Native Friendship icon in Age of Empires III version of the campaign.
+* Fixed Native Friendship icon in _Age of Empires III_ version of the campaign.
 
 #### Knights of St. John
 * The Knights of St. John now use a more historically-accurate _Sovereign Military Order of Malta Flag of the Order's Works_; a white Maltese cross defacing a red field. Based on "[_Bandiera del Sovrano Militare Ordine di Malta.svg_](<https://commons.wikimedia.org/wiki/File:Bandiera_del_Sovrano_Militare_Ordine_di_Malta.svg>)". Public domain.
@@ -33,7 +33,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 * _St. Elmo_ (Morgan's flagship) now has retextured sails to match the new flag design detailed above.
 
-* The Knights of St. John now have galleys instead of caravels, as the Order historically made great use of galleys.vvvvvvvvvvvvvvvvvvv
+* The Knights of St. John now have galleys instead of caravels, as the Order historically made great use of galleys.
 
 #### Ottomans
 * The Ottomans now use a more historically-accurate _Blue Turks' Flag_; three white crescent moons defacing a blue field. Based on "[_File:Blue Ottoman Flag.svg_](<https://upload.wikimedia.org/wikipedia/commons/d/d1/Blue_Ottoman_Flag.svg>)". Public domain.
@@ -84,14 +84,14 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 #### _Blood, Ice and Steal_ Act 1
 * In _Breakout_:
     * Alain Magnan's "knights" are now cossacks instead of hussars, as this is what he is accompanied by in _The Floria Coast_.
-    * Morgan Black says "Good work" when all treasures have been gathered.
-    * There are Ottoman dyngies on the shore, as these were established in _The Falcon Lands on Malta_.
+    * Morgan Black says "good work" when all treasures have been gathered.
+    * There are Ottoman dingies on the shore, as these were established in _The Falcon Lands on Malta_.
 
-* In _Answers_, the hoop throwers have been replaced with crossbowmen _(I didn't want them to just disapear at the start of Into the Caves, nor did I want to make the secondary objective of building hoop throwers to easy __-Jess__)_.
+* In _Answers_, the hoop throwers have been replaced with crossbowmen _(I didn't want them to just disapear at the start of Into the Caves, nor did I want to make the secondary objective of building hoop throwers too easy __-Jess__)_.
 
 * In _Into the Caves_:
-    *  You now start with three additional crossbowmen and 3 additional spearmen, as they are established in _Answers_.
-    *  The secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it, and Morgan Black says "Good work" when you do.
+    *  You now start with 3 additional crossbowmen and 3 additional spearmen, as they are established in _Answers_.
+    *  The secondary objective "find a shipwreck and gather any supplies near it" is now fixed so you can complete it, and Morgan Black says "good work" when you do.
 
 * In _Lizzie the Pirate_, all Maltese caravels are now galleys.
 
@@ -103,8 +103,8 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 * In _The Ottoman Fort_:
     * The unresearchable Champion Kalinago, Champion Maya and Champion Mēxihcah technologies no longer appear. 
-    * You now start with an additional hoop throwers and two highlanders, as they are established in _The New World_.
-    * You start with two pikemen instead of three, to offset the advantage of having additional troop types somewhat.
+    * You now start with 2 additional hoop throwers and 2 highlanders, as they are established in _The New World_.
+    * You start with 2 pikemen instead of 3, to offset the advantage of having additional troop types somewhat.
     * Starting units now move a very short distance from the shore to prevent overcrowding. 
 
 * In _Secrets of the New World_:
@@ -129,18 +129,18 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 ### 1.3 Random Names
 
 * The Knights of St. John now have the following random names for their galleys:
-    * _Capitana (English: Captain)_; a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
-    * _San Claudio (English: Saint Claudius)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
-    * _San Filippo (English: Saint Philip)_: a Knights Hospitaller galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>. She was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
-    * _San Giovanni (English: Saint John)_: a Knights Hospitaller galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>, fought in the Battle of Lepanto (1571)<sup>[1]</sup> and saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
-    * _San Giuseppe (English: Saint Joseph)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
-    * _San Lorenzo (English: Saint Lawrence)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
-    * _San Michele (English: Saint Michael)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
-    * _San Pietro (English: Saint Peter)_: a Knights Hospitaller galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>. 
-    * _Santa Croce (English: Holy Cross)_: a Knights Hospitaller galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>. 
-    * _Santa Fè (English: Holy Faith)_: a Knights Hospitaller galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
-    * _Santa Maria (English: Saint Mary)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
-    * _Vittoria (English: Victory)_: a Knights Hospitaller galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
+    * _Capitana (English: Captain)_; a Maltese galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>.
+    * _San Claudio (English: Saint Claudius)_: a Maltese galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
+    * _San Filippo (English: Saint Philip)_: a Maltese galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>. She was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
+    * _San Giovanni (English: Saint John)_: a Maltese galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>, fought in the Battle of Lepanto (1571)<sup>[1]</sup> and saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
+    * _San Giuseppe (English: Saint Joseph)_: a Maltese galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
+    * _San Lorenzo (English: Saint Lawrence)_: a Maltese galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
+    * _San Michele (English: Saint Michael)_: a Maltese galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
+    * _San Pietro (English: Saint Peter)_: a Maltese galley that fought in the Battle of Lepanto (1571)<sup>[1]</sup>. 
+    * _Santa Croce (English: Holy Cross)_: a Maltese galley that transported the Order of St. John to Malta on 26th October 1530<sup>[2]</sup>. 
+    * _Santa Fè (English: Holy Faith)_: a Maltese galley that was capsized by a tornado that hit the Grand Harbour of Malta on 23rd September 1555<sup>[2][3]</sup>.
+    * _Santa Maria (English: Saint Mary)_: a Maltese galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
+    * _Vittoria (English: Victory)_: a Maltese galley that saw action on the 28th September 1644 when she and a squadron of galleys attacked a squadron of Ottomon ships transporting pilgrims to Alexandria, capturing an Ottomon galleon and adbucting Zafira, allegedly a wife of Sultan Ibrahim of the Ottomon Empire, and her young son Osman<sup>[9]</sup>.
 
 * The Knights of St. John now have the following randoms names for their galleons:
     * _Beneghem (Corruption of Berenghemi)_: a 66-gun Ottomon carrack _Sultana Berenghemi_ launched c. 1654, captured by the Knights of St. John in 1700<sup>[7][22]</sup> and decommissioned c. 1700<sup>[5]</sup>.
