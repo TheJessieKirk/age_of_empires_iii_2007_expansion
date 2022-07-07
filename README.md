@@ -21,6 +21,11 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 ### 1.1 Civilisations
 
+### Germans
+* Changed Germans to Prussians, Holy Romans and Germanic where appropriate.
+* Changed Black Riders to Schwarze Reiter.
+* Changed German Landsknecht to Holy Roman.
+
 #### John Black's Mercenaries
 * Changed Indian Friendship technology to Native Friendship.
 
