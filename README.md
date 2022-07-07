@@ -21,8 +21,13 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 ### 1.1 Civilisations
 
+### Germans
+* Changed "Germans" to "Prussians", "Holy Romans" and "Germanic" where appropriate<sup>[105][106][107]</sup>.
+* Changed "Black Riders" to "Schwarze Reiter"<sup>[103]</sup>.
+* Changed "Jaegers" to "Jäger"<sup>[104]</sup>.
+
 #### John Black's Mercenaries
-* Changed Indian Friendship technology to Native Friendship.
+* Changed "Indian Friendship" technology to "Native Friendship".
 
 * Fixed Native Friendship icon in _Age of Empires III_ version of the campaign.
 
@@ -38,11 +43,15 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 #### Ottomans
 * The Ottomans now use a more historically-accurate _Blue Turks' Flag_; three white crescent moons defacing a blue field. Based on "[_File:Blue Ottoman Flag.svg_](<https://upload.wikimedia.org/wikipedia/commons/d/d1/Blue_Ottoman_Flag.svg>)". Public domain.
 
+#### Portugal
+* "Cossadores" changed to "Caçadores"<sup>[109]</sup>.
+
 #### Minor Civilizations
 * Changed "Apache" to "Indé"<sup>[55]</sup>.
 * Changed "Arapaho" to "Hinono'eino"<sup>[55]</sup>.
 * Changed "Arawak" to "Lokono"<sup>[56]</sup>.
 * Changed "Aztec" to "Mēxihcah"<sup>[36]</sup>.
+* Changed Balkan "Stradiots" to "Stratioti"<sup>[108]</sup>.
 * Changed "Blackfoot" to "Siksiká"<sup>[31]</sup>.
 * Changed "Carib" to "Kalinago"<sup>[29]</sup>.
 * Changed "Cayuga" to "Gayogo̱hó꞉nǫʼ"<sup>[41]</sup>.
@@ -52,6 +61,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * Changed "Cree" to "Néhinaw"<sup>[31]</sup>.
 * Changed "Crow" to "Apsáalooke"<sup>[59]</sup>.
 * Changed "Dakota" to "Dakȟóta"<sup>[44]</sup>.
+* Changed Finnish "Hacapell" to "Hakkapeliitta"<sup>[102]</sup>.
 * Changed "Haida" to "X̱aayda"<sup>[60]</sup>.
 * Changed "Huari" to "Aikanã"<sup>[35]</sup>.
 * Changed "Huron" to "Waⁿdát"<sup>[46]</sup>.
@@ -360,3 +370,11 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [99]: [Smith's Hundred (English Wikipedia)](<https://en.wikipedia.org/wiki/Smith%27s_Hundred>)
 * [100]: [Wolstenholme Towne (English Wikipedia)](<https://en.wikipedia.org/wiki/Wolstenholme_Towne>)
 * [101]: [Olivier Levasseur (English Wikipedia)](<https://en.wikipedia.org/wiki/Olivier_Levasseur>)
+* [102]: [Hakkapeliitta (English Wikipedia)](<https://en.wikipedia.org/wiki/Hakkapeliitta>)
+* [103]: [Reiter (English Wikipedia)](<https://en.wikipedia.org/wiki/Reiter>)
+* [104]: [Jäger (English Wikipedia)](<https://en.wikipedia.org/wiki/J%C3%A4ger_(infantry)>)
+* [105]: [Prussia (English Wikipedia)](<https://en.wikipedia.org/wiki/Prussia>)
+* [106]: [Holy Roman Empire](<https://en.wikipedia.org/wiki/Holy_Roman_Empire>)
+* [107]: [Frederick the Great (English Wikipedia)](<https://en.wikipedia.org/wiki/Frederick_the_Great>)
+* [108]: [Stratioti (English Wikipedia)](<https://en.wikipedia.org/wiki/Stratioti>)
+* [109]: [Caçadores (English Wikipedia)](<https://en.wikipedia.org/wiki/Ca%C3%A7adores>)
