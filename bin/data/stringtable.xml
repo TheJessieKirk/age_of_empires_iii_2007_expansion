@@ -1500,7 +1500,7 @@
         <string _locid="22863" symbol="cStringCivNameDutch">Dutch</string>
         <string _locid="22864" symbol="cStringCivNameSpanish">Spanish</string>
         <string _locid="22865" symbol="cStringCivNamePortuguese">Portuguese</string>
-        <string _locid="22866" symbol="cStringCivNameGerman">Germans</string>
+        <string _locid="22866" symbol="cStringCivNameGerman">Prussians</string>
         <string _locid="22867" symbol="cStringCivNameRussian">Russians</string>
         <string _locid="22868" symbol="cStringCivNameOttoman">Ottomans</string>
         <string _locid="22872" symbol="cStringNativeNameAztec">Mēxihcah</string>
@@ -1629,7 +1629,7 @@
         <string _locid="23331">Flint Lock</string>
         <string _locid="23334">Musketeer, Janissary, Highlander and Grenadier hand attack increased.</string>
         <string _locid="23335">Socket Bayonet</string>
-        <string _locid="23340">Skirmishers armed with rifles (Skirmishers, Abus Guns, Cassadores, Jaegers, Strelets, Aniyvwiyaʔi, Néhinaw) do more damage to heavy infantry (Musketeers, Halberdiers, etc.)</string>
+        <string _locid="23340">Skirmishers armed with rifles (Skirmishers, Abus Guns, Caçadores, Jäger, Strelets, Aniyvwiyaʔi, Néhinaw) do more damage to heavy infantry (Musketeers, Halberdiers, etc.)</string>
         <string _locid="23341">Counter Infantry Rifling</string>
         <string _locid="23348">Artillery line of sight increased.</string>
         <string _locid="23349">Gunner's Quadrant</string>
@@ -1786,7 +1786,7 @@
         <string _locid="23827">A southern conifer such as longleaf pine. Harvest for Wood.</string>
         <string _locid="23828">Tree</string>
         <string _locid="23829">Tree - Carolina Grass</string>
-        <string _locid="23830">German Skirmisher attack and hitpoints greatly increased.</string>
+        <string _locid="23830">Prussian Skirmisher attack and hitpoints greatly increased.</string>
         <string _locid="23831">Prussian Needle Gun</string>
         <string _locid="23833">British Hussar attack and hitpoints greatly increased.</string>
         <string _locid="23834">Life Guard Hussars</string>
@@ -1817,9 +1817,9 @@
         <string _locid="23887">Ruyter attack and hitpoints greatly increased.</string>
         <string _locid="23888">Carabineers</string>
         <string _locid="23908">Light infantry with low hitpoints, but a strong attack. Good against infantry.</string>
-        <string _locid="23909">Veteran Cassador</string>
-        <string _locid="23910">Cassador attack and hitpoints increased.</string>
-        <string _locid="23911">Guard Cassadores</string>
+        <string _locid="23909">Veteran Caçadores</string>
+        <string _locid="23910">Caçadores attack and hitpoints increased.</string>
+        <string _locid="23911">Guard Caçadores</string>
         <string _locid="23914">Portuguese Dragoon attack and hitpoints greatly increased.</string>
         <string _locid="23915">Jinetes</string>
         <string _locid="23917">Ships 22 experienced Crossbowmen from your homeland, plus your normal Crossbowmen are improved.</string>
@@ -1965,7 +1965,7 @@
         <string _locid="24541">Heavy War Wagon</string>
         <string _locid="24542" symbol="cStringViewHomeCity">{xpProgressionString}</string>
         <string _locid="24544">Guard Cavalry Archer</string>
-        <string _locid="24634">Ships an army of Holy Roman Mercenaries: Landsknecht, Black Riders and Jaegers.</string>
+        <string _locid="24634">Ships an army of Holy Roman Mercenaries: Landsknecht, Schwarze Reiter and Jäger.</string>
         <string _locid="24635">Hire Holy Roman Army</string>
         <string _locid="24637">Mercenaries are cheaper.</string>
         <string _locid="24638">Mercenary Loyalty</string>
@@ -1998,7 +1998,7 @@
         <string _locid="24811">Rock Fence</string>
         <string _locid="24812">PROP Rock Fence</string>
         <string _locid="24818">Move Home City Flag</string>
-        <string _locid="24819">Flamboyant German heavy infantry mercenary.</string>
+        <string _locid="24819">Flamboyant Holy Roman heavy infantry mercenary.</string>
         <string _locid="24820">Landsknecht</string>
         <string _locid="24823">Elite Swiss mercenary armed with a pike. Good against cavalry.</string>
         <string _locid="24824">Swiss Pikeman</string>
@@ -2053,7 +2053,7 @@
         <string _locid="24989">NAT Tupi Archer</string>
         <string _locid="24990">NAT Kalinago Blowgunner</string>
         <string _locid="24992">NAT Tawantinsuyu Bolas Man</string>
-        <string _locid="24993">INF Cassador</string>
+        <string _locid="24993">INF Caçadores</string>
         <string _locid="24994">AR Heavy Cannon</string>
         <string _locid="24995">CAV Cavalry Archer</string>
         <string _locid="24996">NAT Nuučaan̓ułʔatḥ Clubman</string>
@@ -2107,10 +2107,10 @@
         <string _locid="25139">Bold cavalry mercenary from Egypt.</string>
         <string _locid="25140">Mameluke</string>
         <string _locid="25144">Light cavalry mercenary from the Balkans.</string>
-        <string _locid="25145">Stradiot</string>
-        <string _locid="25149">Heavily armed German mercenary cavalry armed with pistols.</string>
-        <string _locid="25150">Black Rider</string>
-        <string _locid="25151">CAV Black Rider</string>
+        <string _locid="25145">Stratioti</string>
+        <string _locid="25149">Heavily armed Germanic mercenary cavalry armed with pistols.</string>
+        <string _locid="25150">Schwarze Reiter</string>
+        <string _locid="25151">CAV Schwarze Reiter</string>
         <string _locid="25159">Chinese cavalry archer mercenary.</string>
         <string _locid="25160">Manchu</string>
         <string _locid="25164">Japanese samurai mercenary.</string>
@@ -2118,14 +2118,14 @@
         <string _locid="25166">INF Ronin</string>
         <string _locid="25169">CAV Mameluke</string>
         <string _locid="25170">CAV Manchu</string>
-        <string _locid="25171">CAV Stradiot</string>
+        <string _locid="25171">CAV Stratioti</string>
         <string _locid="25172">INF Swiss Pikeman</string>
         <string _locid="25173">Hessian light infantry mercenary. Good against infantry.</string>
-        <string _locid="25174">Jaeger</string>
-        <string _locid="25175">INF Jaeger</string>
+        <string _locid="25174">Jäger</string>
+        <string _locid="25175">INF Jäger</string>
         <string _locid="25178">Heavy cavalry mercenary from Finland.</string>
-        <string _locid="25179">Hackapell</string>
-        <string _locid="25180">CAV Hackapell</string>
+        <string _locid="25179">Hakkapeliitta</string>
+        <string _locid="25180">CAV Hakkapeliitta</string>
         <string _locid="25183" symbol="cStringTrEffectTurnToFaceUnit">Unit Face Unit</string>
         <string _locid="25184" symbol="cStringRMSSaguenaydesc">Saguenay: plenty of resources and good fishing.</string>
         <string _locid="25185" symbol="cStringRMSSaguenayname">Saguenay</string>
@@ -3798,8 +3798,8 @@
         <string _locid="29484">Multiple Rodeleros</string>
         <string _locid="29485">Grenadier</string>
         <string _locid="29486">Multiple Grenadiers</string>
-        <string _locid="29487">Cassador</string>
-        <string _locid="29488">Multiple Cassadores</string>
+        <string _locid="29487">Caçadores</string>
+        <string _locid="29488">Multiple Caçadores</string>
         <string _locid="29489">Doppelsoldner</string>
         <string _locid="29490">Multiple Doppelsoldners</string>
         <string _locid="29491">Fusilier</string>
@@ -4106,7 +4106,7 @@
         <string _locid="30636">Manor House</string>
         <string _locid="30660">Villagers gather Coin from Plantations at a faster rate.</string>
         <string _locid="30677">Elite villager</string>
-        <string _locid="30678">A German villager that is more expensive but gathers faster than a Settler.</string>
+        <string _locid="30678">A Prussian villager that is more expensive but gathers faster than a Settler.</string>
         <string _locid="30679">Settler Wagon</string>
         <string _locid="30856" symbol="cStringGCStatsLine1" comment="1 - player name, 2 - territories controlled">Territories controlled by the %1s:  %2d</string>
         <string _locid="30857" symbol="cStringGCStatsLine2">Unclaimed territories:  %d</string>
@@ -4191,8 +4191,8 @@
         <string _locid="31029">Imperial upgrade for Janissaries.</string>
         <string _locid="31030">Imperial Janissaries</string>
         <string _locid="31032">Imperial Janissary</string>
-        <string _locid="31033">Imperial upgrade for Cassadores.</string>
-        <string _locid="31034">Imperial Cassadores</string>
+        <string _locid="31033">Imperial upgrade for Caçadores.</string>
+        <string _locid="31034">Imperial Caçadores</string>
         <string _locid="31036">Imperial Cacadore</string>
         <string _locid="31040">Imperial Spahi</string>
         <string _locid="31044">Imperial Crossbowman</string>
@@ -4356,10 +4356,10 @@
         <string _locid="31655">Move Down</string>
         <string _locid="31656">Initially Visible</string>
         <string _locid="31657">Is Primary Objective</string>
-        <string _locid="31658">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hackapells.</string>
+        <string _locid="31658">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hakkapeliitta.</string>
         <string _locid="31659">Hire Highland Mercenary Army</string>
         <string _locid="31660">Mercenaries are elite troops that can be sent from the Home City for a Coin cost. Once a group of Mercenaries is hired, by any player in the game, those Mercenaries are unavailable for the rest of the game.</string>
-        <string _locid="31662">Ships a number of Mediterranean Mercenaries: Stradiots, Mamelukes and Corsairs.</string>
+        <string _locid="31662">Ships a number of Mediterranean Mercenaries: Stratioti, Mamelukes and Corsairs.</string>
         <string _locid="31663">Hire Mediterranean Mercenary Army</string>
         <string _locid="31664">Mercenaries are elite troops that can be sent from the Home City for a Coin cost. Once a group of Mercenaries is hired, by any player in the game, those Mercenaries are unavailable for the rest of the game.</string>
         <string _locid="31666">Ships an army of Asian Mercenaries: Manchu Horse Archers and Ronin Samurai.</string>
@@ -4992,13 +4992,13 @@
         <string _locid="33179">Create Herd</string>
         <string _locid="33180">Delete Herd</string>
         <string _locid="33186">Allows you to send the Master Farmer, who advances you to Colonial Age and improves your Mill gathering rate.</string>
-        <string _locid="33187">German</string>
+        <string _locid="33187">Prussian</string>
         <string _locid="33192">Allows you to send the Exiled Prince, who advances you to Industrial Age and refunds 500 Coin.</string>
-        <string _locid="33193">German</string>
+        <string _locid="33193">Prussian</string>
         <string _locid="33194">Allows you to send the Viceroy, who advances you to Industrial Age and increases soldier and building hitpoints.</string>
-        <string _locid="33195">German</string>
+        <string _locid="33195">Prussian</string>
         <string _locid="33196">Allows you to send the Engineer, who advances you to Industrial Age and increases artillery hitpoints.</string>
-        <string _locid="33197">German</string>
+        <string _locid="33197">Prussian</string>
         <string _locid="33198">Allows you to send the Engineer, who advances you to Industrial Age and increases artillery hitpoints.</string>
         <string _locid="33199">Ottoman</string>
         <string _locid="33200">Allows you to send the Grand Vizier, who advances you to Industrial Age and increases the hitpoints of unique Ottoman units.</string>
@@ -5730,7 +5730,7 @@
         <string _locid="34315">Portuguese</string>
         <string _locid="34316" gamecharacter="Lizzie" soundfilename="LIZZ0001" portraitfilename="units\spc\elizabeth_ramsey\elizabeth_ramsey_igc_icon">I am Elisabet Ramsey. Surrender your ships to me and I'll spare your lives!</string>
         <string _locid="34317" gamecharacter="Lizzie" soundfilename="LIZZ0006" portraitfilename="units\spc\elizabeth_ramsey\elizabeth_ramsey_igc_icon">Fire!</string>
-        <string _locid="34319">German</string>
+        <string _locid="34319">Prussian</string>
         <string _locid="34323" gamecharacter="Morgan" soundfilename="MORG4901">We need to find two more navigation charts.</string>
         <string _locid="34324" gamecharacter="Morgan" soundfilename="MORG4902">We have discovered another navigation chart. We only need one more.</string>
         <string _locid="34326" gamecharacter="Soldier" soundfilename="GENR2035">Pirate ships dead ahead captain!</string>
@@ -5783,7 +5783,7 @@
         <string _locid="34404">6 Skirmishers</string>
         <string _locid="34405">The Marksman</string>
         <string _locid="34407">French</string>
-        <string _locid="34409">German</string>
+        <string _locid="34409">Prussian</string>
         <string _locid="34411">Spanish</string>
         <string _locid="34413">Portuguese</string>
         <string _locid="34415">Portuguese</string>
@@ -6313,7 +6313,7 @@
         <string _locid="35509">The Cavalry Marshal</string>
         <string _locid="35510">4 Settlers and 3 Uhlans</string>
         <string _locid="35511">The Viceroy</string>
-        <string _locid="35516">Improves your German Explorer in combat, lets him build Trading Posts and Town Centers faster, and gives him a powerful canine companion.</string>
+        <string _locid="35516">Improves your Prussian Explorer in combat, lets him build Trading Posts and Town Centers faster, and gives him a powerful canine companion.</string>
         <string _locid="35517">Buergermeister</string>
         <string _locid="35522">Uhlan and War Wagon attack and hitpoints increased, +3 Uhlans</string>
         <string _locid="35523">Cavalry Combat</string>
@@ -6386,7 +6386,7 @@
         <string _locid="35633" soundfilename="AMEL4015">In those days, crossing the Atlantic was a thing only the bravest attempted. </string>
         <string _locid="35634">5 Crossbowmen</string>
         <string _locid="35635">The Philosopher Prince</string>
-        <string _locid="35636">6 Cassadores</string>
+        <string _locid="35636">6 Caçadores</string>
         <string _locid="35637">The Marksman</string>
         <string _locid="35638">2 Organ Guns</string>
         <string _locid="35639">The Engineer</string>
@@ -6605,8 +6605,8 @@
         <string _locid="35874">TEAM Barracks and Blockhouses hitpoints increased.</string>
         <string _locid="35875">TEAM Barracks Hitpoints</string>
         <string _locid="35876" symbol="cStringRMSTexaslongdesc">Texas is an open plain with scattered low cliffs. Two Trade Routes, each with two Trading Post sites, cut through the center of the map, separating the teams. There will always be at least two Nʉmʉnʉʉ settlements, and sometimes three. Expect attacks from every side.</string>
-        <string _locid="35879">Jaeger</string>
-        <string _locid="35880">IGC Jaeger</string>
+        <string _locid="35879">Jäger</string>
+        <string _locid="35880">IGC Jäger</string>
         <string _locid="35881">Follows an engine</string>
         <string _locid="35882">Wood Car</string>
         <string _locid="35883">Follows an engine</string>
@@ -6740,15 +6740,15 @@
         <string _locid="36068" symbol="cStringPlayersColonyReachedAge5">%s's colony has reached the IMPERIAL AGE!</string>
         <string _locid="36069">4 Hoop Throwers</string>
         <string _locid="36070">8 Hoop Throwers</string>
-        <string _locid="36071">7 Cassadores</string>
-        <string _locid="36072">10 Cassadores</string>
-        <string _locid="36073">8 Cassadores</string>
-        <string _locid="36074">12 Cassadores</string>
-        <string _locid="36075">TEAM All gunpowder infantry (Musketeers, Skirmishers, Janissaries, Cassadors) hitpoints increased.</string>
+        <string _locid="36071">7 Caçadores</string>
+        <string _locid="36072">10 Caçadores</string>
+        <string _locid="36073">8 Caçadores</string>
+        <string _locid="36074">12 Caçadores</string>
+        <string _locid="36075">TEAM All gunpowder infantry (Musketeers, Skirmishers, Janissaries, Caçadores) hitpoints increased.</string>
         <string _locid="36076">TEAM Gunpowder Infantry Hitpoints</string>
-        <string _locid="36077">Musketeer and Cassador attack increased.</string>
+        <string _locid="36077">Musketeer and Caçadores attack increased.</string>
         <string _locid="36078">Gunpowder Infantry Attack</string>
-        <string _locid="36079">Musketeer and Cassador attack and hitpoints increased.</string>
+        <string _locid="36079">Musketeer and Caçadores attack and hitpoints increased.</string>
         <string _locid="36080">Gunpowder Infantry Combat</string>
         <string _locid="36081">5 Dragoons</string>
         <string _locid="36082">8 Dragoons</string>
@@ -6874,7 +6874,7 @@
         <string _locid="36244"></string>
         <string _locid="36246">Post Industrial Spanish</string>
         <string _locid="36247"></string>
-        <string _locid="36249">Post Industrial German</string>
+        <string _locid="36249">Post Industrial Prussian</string>
         <string _locid="36250"></string>
         <string _locid="36252">Post Industrial Ottoman</string>
         <string _locid="36253"></string>
@@ -6925,7 +6925,7 @@
         <string _locid="36308"></string>
         <string _locid="36310">Post Imperial French</string>
         <string _locid="36311"></string>
-        <string _locid="36313">Post Imperial German</string>
+        <string _locid="36313">Post Imperial Prussian</string>
         <string _locid="36314"></string>
         <string _locid="36316">Post Imperial Ottoman</string>
         <string _locid="36317"></string>
@@ -6957,7 +6957,7 @@
         <string _locid="36350">TEAM War ships are cheaper.</string>
         <string _locid="36351">TEAM Cold Water Port</string>
         <string _locid="36353">TEAM Warships cheaper.</string>
-        <string _locid="36354">TEAM Skirmishers or Cassadors can be trained in the Colonial Age. (For Russian allies, it makes Strelets and Longbowmen train slightly faster.)</string>
+        <string _locid="36354">TEAM Skirmishers or Caçadores can be trained in the Colonial Age. (For Russian allies, it makes Strelets and Longbowmen train slightly faster.)</string>
         <string _locid="36355">TEAM Early Skirmishers</string>
         <string _locid="36357">TEAM allows Skirmishers in Colonial Age.</string>
         <string _locid="36358">TEAM ranged infantry damage increased.</string>
@@ -6980,7 +6980,7 @@
         <string _locid="36378">TEAM Teutonic Town Center</string>
         <string _locid="36379">TEAM Town Centers have more hitpoints and attack.</string>
         <string _locid="36380">TEAM: 1 Hot Air Balloon</string>
-        <string _locid="36381">TEAM: Germans send all allies a Hot Air Balloon.</string>
+        <string _locid="36381">TEAM: Prussians send all allies a Hot Air Balloon.</string>
         <string _locid="36382">TEAM Cavalry hitpoints increased 10%.</string>
         <string _locid="36383">TEAM Chests of 600 Coin</string>
         <string _locid="36385">Wood source</string>
@@ -7060,7 +7060,7 @@
         <string _locid="36470">Fencing School</string>
         <string _locid="36471">All cavalry train faster, +2 Uhlans.</string>
         <string _locid="36472">Riding School</string>
-        <string _locid="36473">Provides your Church with unique German improvements, +2 Uhlans.</string>
+        <string _locid="36473">Provides your Church with unique Prussian improvements, +2 Uhlans.</string>
         <string _locid="36474">Treaty of Westphalia</string>
         <string _locid="36475">Mills are cheaper and stronger.</string>
         <string _locid="36476">Advanced Mill</string>
@@ -7262,20 +7262,20 @@
         <string _locid="36700">SPC Map Objective Icon</string>
         <string _locid="36701">Ships a number of Scottish Highlander Mercenaries.</string>
         <string _locid="36702">Hire Scottish Highlanders</string>
-        <string _locid="36704">Ships a number of Hessian Jaeger Mercenaries.</string>
-        <string _locid="36705">Hire Hessian Jaegers</string>
-        <string _locid="36707">Ships a number of Balkan Stradiot Mercenaries.</string>
-        <string _locid="36708">Hire Balkan Stradiots</string>
+        <string _locid="36704">Ships a number of Hessian Jäger Mercenaries.</string>
+        <string _locid="36705">Hire Hessian Jäger</string>
+        <string _locid="36707">Ships a number of Balkan Stratioti Mercenaries.</string>
+        <string _locid="36708">Hire Balkan Stratioti</string>
         <string _locid="36710">Ships a number of Swiss Pikemen Mercenaries.</string>
         <string _locid="36711">Hire Swiss Pikemen</string>
         <string _locid="36712">Ships a number of Ronin Samurai Mercenaries.</string>
         <string _locid="36713">Passage to Nippon</string>
-        <string _locid="36714">Ships a number of German Black Rider Mercenaries.</string>
-        <string _locid="36715">Hire German Black Riders</string>
+        <string _locid="36714">Ships a number of Germanic Schwarze Reiter Mercenaries.</string>
+        <string _locid="36715">Hire Germanic Schwarze Reiter</string>
         <string _locid="36716">Ships a number of Landsknecht Mercenaries.</string>
         <string _locid="36717">Hire Landsknecht Mercenaries</string>
-        <string _locid="36718">Ships a number of Finnish Hackapell Mercenaries.</string>
-        <string _locid="36719">Hire Finnish Hackapells</string>
+        <string _locid="36718">Ships a number of Finnish Hakkapeliitta Mercenaries.</string>
+        <string _locid="36719">Hire Finnish Hakkapeliitta</string>
         <string _locid="36720">Ships a number of Manchurian Cavalry Archer Mercenaries.</string>
         <string _locid="36721">Hire Manchurian Cavalry Archers</string>
         <string _locid="36722">TEAM Ships 2 Privateer ships to the New World.</string>
@@ -7461,8 +7461,8 @@
         <string _locid="36917">13 Halberdiers</string>
         <string _locid="36918" gamecharacter="Warwick" soundfilename="WARW0026" portraitfilename="units\spc\warwick\igc_warwick_portrait">Heh heh!</string>
         <string _locid="36919">TEAM Discovery Age Market improvements are cheaper.</string>
-        <string _locid="36920">Ships a number of Hessian Jaeger Mercenaries.</string>
-        <string _locid="36921">Hire Hessian Jaeger Division</string>
+        <string _locid="36920">Ships a number of Hessian Jäger Mercenaries.</string>
+        <string _locid="36921">Hire Hessian Jäger Division</string>
         <string _locid="36922">The Grand Magistery</string>
         <string _locid="36923">The Knights' Garrison</string>
         <string _locid="36924">All cavalry attack and hitpoints increased.</string>
@@ -7883,7 +7883,7 @@
         <string _locid="37414">TEAM Portuguese send their allies Cords of 1000 Brazilwood.</string>
         <string _locid="37415">TEAM Ottomans send their allies Chests of 600 Coin.</string>
         <string _locid="37416">TEAM Ottomans send their allies Chests of 1000 Coin.</string>
-        <string _locid="37417">Ships 6 Cassadores +6 Dragoons.</string>
+        <string _locid="37417">Ships 6 Caçadores +6 Dragoons.</string>
         <string _locid="37418">Portuguese Expeditionary Force</string>
         <string _locid="37419">Each Dock will create 4 Fishing Boats.</string>
         <string _locid="37420">Portuguese White Fleet</string>
@@ -7981,7 +7981,7 @@
         <string _locid="37514" symbol="cStringChannelName">Channel Name</string>
         <string _locid="37515" symbol="cStringStaticChannel">Created By</string>
         <string _locid="37516" symbol="cStringUsers">Users</string>
-        <string _locid="37517">TEAM Germans send allies Covered Wagons.</string>
+        <string _locid="37517">TEAM Prussians send allies Covered Wagons.</string>
         <string _locid="37518">All cavalry are faster, +4 Uhlans.</string>
         <string _locid="37519">Spanish Riding School</string>
         <string _locid="37520">Polish Winged Hussars</string>
@@ -8196,8 +8196,8 @@
         <string _locid="37730">A blue and white themed version of French Dock's color scheme.</string>
         <string _locid="37731">Chevalier de Ternay Bureau de l'immigration</string>
         <string _locid="37732">A green version of the French Dock's color scheme.</string>
-        <string _locid="37733">The German New World Trade Center</string>
-        <string _locid="37734">The original version of the German New World Trade Center.</string>
+        <string _locid="37733">The Prussian New World Trade Center</string>
+        <string _locid="37734">The original version of the Prussian New World Trade Center.</string>
         <string _locid="37735">Nacelsten World Trade Center</string>
         <string _locid="37736">A red-themed version of the New World Trade Center's color scheme.</string>
         <string _locid="37737">Kube New World Goods</string>
@@ -8205,7 +8205,7 @@
         <string _locid="37739">Jake's Trading Emporium</string>
         <string _locid="37740">A brown and blue version of the New World Trade Center's color scheme.</string>
         <string _locid="37741">Expediters of Saxony</string>
-        <string _locid="37742">A black and white version of the German New World Trade Center's color scheme.</string>
+        <string _locid="37742">A black and white version of the Prussian New World Trade Center's color scheme.</string>
         <string _locid="37743">Thracian Caverns Trading Halls</string>
         <string _locid="37744">An upgraded version of the New World Trading Center.</string>
         <string _locid="37745">The Persian Market</string>
@@ -8217,61 +8217,61 @@
         <string _locid="37751">Dietermann New World Goods</string>
         <string _locid="37752">A black and white version of the New World Trade Center's structure and color scheme.</string>
         <string _locid="37753">The Royal Berlin Academy</string>
-        <string _locid="37754">The original version of the German Academy's color scheme.</string>
+        <string _locid="37754">The original version of the Prussian Academy's color scheme.</string>
         <string _locid="37755">Arcander University</string>
-        <string _locid="37756">A red-themed version of the German Academy's color scheme.</string>
+        <string _locid="37756">A red-themed version of the Prussian Academy's color scheme.</string>
         <string _locid="37757">Sallenbach Academy and Naval Institute</string>
-        <string _locid="37758">A blue and white-themed version of the German Academy's color scheme.</string>
+        <string _locid="37758">A blue and white-themed version of the Prussian Academy's color scheme.</string>
         <string _locid="37759">Der Bean Bruder Institute</string>
-        <string _locid="37760">A cream and gold version of the German Academy's color scheme.</string>
+        <string _locid="37760">A cream and gold version of the Prussian Academy's color scheme.</string>
         <string _locid="37761">Der Konig Institute</string>
-        <string _locid="37762">A black and white version of the German Academy's color scheme.</string>
+        <string _locid="37762">A black and white version of the Prussian Academy's color scheme.</string>
         <string _locid="37763">The Guildhall</string>
-        <string _locid="37764">An upgraded version of the original German Academy's structure and color.</string>
+        <string _locid="37764">An upgraded version of the original Prussian Academy's structure and color.</string>
         <string _locid="37765">Grosshund Academy of Natural Philosophy</string>
-        <string _locid="37766">A red-themed upgrade to German Academy's structure and color.</string>
+        <string _locid="37766">A red-themed upgrade to Prussian Academy's structure and color.</string>
         <string _locid="37767">Doktor Spankenstein's New World Academy</string>
-        <string _locid="37768">A blue and white-themed upgrade to German Academy's structure and color.</string>
+        <string _locid="37768">A blue and white-themed upgrade to Prussian Academy's structure and color.</string>
         <string _locid="37769">Prinz Eugene's Conservativium</string>
-        <string _locid="37770">A cream and gold upgrade to German Academy's structure and color.</string>
+        <string _locid="37770">A cream and gold upgrade to Prussian Academy's structure and color.</string>
         <string _locid="37771">Holy Roman Emperor's Martial Academy</string>
-        <string _locid="37772">A black and white upgrade to German Academy's structure and color.</string>
+        <string _locid="37772">A black and white upgrade to Prussian Academy's structure and color.</string>
         <string _locid="37773">The Kruttz Metal Werks</string>
-        <string _locid="37774">The original color scheme for the German Manufacturing Plant.</string>
+        <string _locid="37774">The original color scheme for the Prussian Manufacturing Plant.</string>
         <string _locid="37775">Holeshot's Flash and Fury</string>
-        <string _locid="37776">A red-themed version of the German Manufacturing Plant.</string>
+        <string _locid="37776">A red-themed version of the Prussian Manufacturing Plant.</string>
         <string _locid="37777">D. H. Kritterwerkz and Co.</string>
-        <string _locid="37778">An orange version of the German Manufacturing Plant.</string>
+        <string _locid="37778">An orange version of the Prussian Manufacturing Plant.</string>
         <string _locid="37779">Jaquays Bergbau-Versorgungsmaterial</string>
-        <string _locid="37780">A blue and white-themed version of the German Manufacturing Plant.</string>
+        <string _locid="37780">A blue and white-themed version of the Prussian Manufacturing Plant.</string>
         <string _locid="37781">Slusser Metallherstellung</string>
-        <string _locid="37782">A black and white version of the German Manufacturing Plant.</string>
+        <string _locid="37782">A black and white version of the Prussian Manufacturing Plant.</string>
         <string _locid="37783">Schnitzer Wilhelm's Workshop</string>
-        <string _locid="37784">An upgraded version of the original German Manufacturing Plant's structure.</string>
+        <string _locid="37784">An upgraded version of the original Prussian Manufacturing Plant's structure.</string>
         <string _locid="37785">Herr Kirsche Paint and Body Shop</string>
-        <string _locid="37786">A red-themed upgrade to the German Manufacturing Plant's structure and color.</string>
+        <string _locid="37786">A red-themed upgrade to the Prussian Manufacturing Plant's structure and color.</string>
         <string _locid="37787">Kohler Fabrik</string>
-        <string _locid="37788">An orange and green version of the German Manufacturing Plant's structure and color.</string>
+        <string _locid="37788">An orange and green version of the Prussian Manufacturing Plant's structure and color.</string>
         <string _locid="37789">Todesgarnele Fabrik</string>
-        <string _locid="37790">A blue and white-themed upgrade to the German Manufacturing Plant's structure and color.</string>
+        <string _locid="37790">A blue and white-themed upgrade to the Prussian Manufacturing Plant's structure and color.</string>
         <string _locid="37791">Schwarze Metallherstellung</string>
-        <string _locid="37792">A black and white version of the German Manufacturing Plant's structure and color.</string>
+        <string _locid="37792">A black and white version of the Prussian Manufacturing Plant's structure and color.</string>
         <string _locid="37793">Kolner Dom</string>
-        <string _locid="37794">Original version of the German Cathedral's color scheme.</string>
+        <string _locid="37794">Original version of the Prussian Cathedral's color scheme.</string>
         <string _locid="37795">St. Christine's Chapel</string>
-        <string _locid="37796">A red-themed version of the German Cathedral's color scheme.</string>
+        <string _locid="37796">A red-themed version of the Prussian Cathedral's color scheme.</string>
         <string _locid="37797">Cathedral of the Divine Ensemble</string>
-        <string _locid="37798">A blue and white themed version of the German Cathedral's color scheme.</string>
+        <string _locid="37798">A blue and white themed version of the Prussian Cathedral's color scheme.</string>
         <string _locid="37799">All Paul's Cathedral</string>
-        <string _locid="37800">A green and gold version of the German Cathedral's color scheme honoring men named Paul.</string>
+        <string _locid="37800">A green and gold version of the Prussian Cathedral's color scheme honoring men named Paul.</string>
         <string _locid="37801">St. Charlie's Cathedral</string>
-        <string _locid="37802">A black and white version of the German Cathedral's color scheme.</string>
+        <string _locid="37802">A black and white version of the Prussian Cathedral's color scheme.</string>
         <string _locid="37803">Verbinator's House of Change</string>
-        <string _locid="37804">Original version of the German Dock's color scheme.</string>
+        <string _locid="37804">Original version of the Prussian Dock's color scheme.</string>
         <string _locid="37805">Cloverdose Expediting Emporium</string>
-        <string _locid="37806">A red-themed version of the German Dock's color scheme.</string>
+        <string _locid="37806">A red-themed version of the Prussian Dock's color scheme.</string>
         <string _locid="37807">Wings of Icarus Shipping</string>
-        <string _locid="37808">A blue and white themed version of German Dock's color scheme.</string>
+        <string _locid="37808">A blue and white themed version of Prussian Dock's color scheme.</string>
         <string _locid="37809">Hehman's Environmental Miracularium</string>
         <string _locid="37810">A green and gold version of the Dock's color scheme.</string>
         <string _locid="37811">Santos New World Transport</string>
@@ -8512,7 +8512,7 @@
         <string _locid="38046">Butcher: No, the meat's supposed to be that colour.</string>
         <string _locid="38047">Minstrel: Want to hear a song?</string>
         <string _locid="38048">Minstrel: Envoy! Envoy!</string>
-        <string _locid="38049">Minstrel: Black Riders! Stay away from my girlfriend!</string>
+        <string _locid="38049">Minstrel: Schwarze Reiter! Stay away from my girlfriend!</string>
         <string _locid="38050">Minstrel: God, save the gracious queen, er king.</string>
         <string _locid="38051">Minstrel: Oh I wish I were a nine-inch kielbasa.</string>
         <string _locid="38052">Minstrel: Me supa happy.</string>
@@ -8750,7 +8750,7 @@
         <string _locid="38286" symbol="cStringHCNoteTitle3">Experience</string>
         <string _locid="38287" symbol="cStringGatherPointMustBeVisible">You cannot set a gather point in the unexplored map area.</string>
         <string _locid="38288">Tercio Pikeman</string>
-        <string _locid="38289">Rugged German colonial Houses provide much more population per building, +2 Uhlans.</string>
+        <string _locid="38289">Rugged Prussian colonial Houses provide much more population per building, +2 Uhlans.</string>
         <string _locid="38290">Palatine Settlements</string>
         <string _locid="38291">Estate</string>
         <string _locid="38296">Ranged cavalry attack and range increased.</string>
@@ -9028,8 +9028,8 @@
         <string _locid="38571">As we should have expected, the British are stout opponents. Luckily you have some British on your side as well.</string>
         <string _locid="38572">I have fought tougher Dutch than these before. These just seem to cave right in when we attack.</string>
         <string _locid="38573">It is exceedingly irritating that the Dutch are so stubborn.</string>
-        <string _locid="38574">The Germans cannot stand up to my fine lobsterbacks.</string>
-        <string _locid="38575">What can we do about the Germans?</string>
+        <string _locid="38574">The Prussians cannot stand up to my fine lobsterbacks.</string>
+        <string _locid="38575">What can we do about the Prussians?</string>
         <string _locid="38578">I believe the Portuguese have been put paid to.</string>
         <string _locid="38579">The Portuguese are a real problem. Do you have any suggestions for how to deal with them?</string>
         <string _locid="38580">Well at least the Spanish are practically down for the count.</string>
@@ -9037,7 +9037,7 @@
         <string _locid="38582">Emergency! The enemy is hitting me hard! </string>
         <string _locid="38583">Who knew the Dutch would prove so strong?</string>
         <string _locid="38584">We might lose, but the Dutch are as weak as we.</string>
-        <string _locid="38585">The German army is old-fashioned and out of date. Let us destroy them before we ourselves are destroyed.</string>
+        <string _locid="38585">The Prussian army is old-fashioned and out of date. Let us destroy them before we ourselves are destroyed.</string>
         <string _locid="38586">I did what I could, but it was not enough to enable us to win.</string>
         <string _locid="38587">Your weaknesses have brought about my downfall.</string>
         <string _locid="38589">The Turks are the most vulnerable enemy we have. Let us see if they can be destroyed before we are.</string>
@@ -9228,9 +9228,9 @@
         <string _locid="38775">The French may have been fearsome at one time, but after this battle I'd suggest they just stay in the kitchen.</string>
         <string _locid="38776">The French used to be dangerous. At this point I'd only call them frightful.</string>
         <string _locid="38777">Some dominating military power the French have turned out to be. Their croissants would probably put up more of a fight.</string>
-        <string _locid="38778">Our German opponent has all but lost.</string>
-        <string _locid="38779">Our German foe has nearly been defeated. They should hang their heads in shame.</string>
-        <string _locid="38780">Since I was not leading their armies, it doesn't surprise me to see our German enemy is nearly defeated.</string>
+        <string _locid="38778">Our Prussian opponent has all but lost.</string>
+        <string _locid="38779">Our Prussian foe has nearly been defeated. They should hang their heads in shame.</string>
+        <string _locid="38780">Since I was not leading their armies, it doesn't surprise me to see our Prussian enemy is nearly defeated.</string>
         <string _locid="38781">The Ottoman foe is almost defeated.</string>
         <string _locid="38782">The Ottomans are almost destroyed. I hope they have some camels left to ride home on.</string>
         <string _locid="38783">It looks like the Ottomans have run out of tricks. I wonder if they will try to sell some of their cannon at a yard sale?</string>
@@ -9256,8 +9256,8 @@
         <string _locid="38803">Whoever is commanding the French knows what he or she is doing.</string>
         <string _locid="38804">The French are fighting as fiercely as my own troops. We must be wary of him.</string>
         <string _locid="38805">I do not want to believe it, but I must accept the fact: the French are a potent force in this conflict.</string>
-        <string _locid="38806">The Germans are never to be trifled with, but this opponent is exceptional.</string>
-        <string _locid="38807">The enemy Germans are fighting like they were commanded by me. I don't like it.</string>
+        <string _locid="38806">The Prussians are never to be trifled with, but this opponent is exceptional.</string>
+        <string _locid="38807">The enemy Prussians are fighting like they were commanded by me. I don't like it.</string>
         <string _locid="38808">If we do not defeat the Ottomans quickly we may find them knocking at our own doors.</string>
         <string _locid="38809">Our Ottoman foe is potent. We'll have to deal with him very carefully.</string>
         <string _locid="38810">Our Portuguese opponent is mighty. We'll have to apply all of my strategic brilliance to defeat them.</string>
@@ -9333,7 +9333,7 @@
         <string _locid="38880">This is an strategic place for a military base. I shall build one.</string>
         <string _locid="38881">A town center will be constructed here by my settlers.</string>
         <string _locid="38882">Note that I am pursing the construction of a trading post at this native village.</string>
-        <string _locid="38883">I know of a trading site that would be improved with a German flag over it.</string>
+        <string _locid="38883">I know of a trading site that would be improved with a Prussian flag over it.</string>
         <string _locid="38884">A regiment of my forces have been assigned to defend this building.</string>
         <string _locid="38885">Some of my forces will protect this location.</string>
         <string _locid="38886">These natives and their village are under my protection.</string>
@@ -9367,7 +9367,7 @@
         <string _locid="38914">Consider this: we are losing, but among our opponents, the weakest is the British.</string>
         <string _locid="38915">I perceive we may lose if we don't counter-attack soon. I suggest the Dutch, who are clearly weaker.</string>
         <string _locid="38916">Although we fade, we must strike at their weakness, the French.</string>
-        <string _locid="38917">As I am not leading them, our weakest foe is German. I suggest we strike at them before we are defeated ourselves.</string>
+        <string _locid="38917">As I am not leading them, our weakest foe is Prussian. I suggest we strike at them before we are defeated ourselves.</string>
         <string _locid="38918">The war is going in their favor. Shall we strike their weakness, the Portuguese?</string>
         <string _locid="38919">If we don't attack the Russians soon we may be defeated.</string>
         <string _locid="38920">I will not yield defeat willingly, but if we do not attack the Spanish soon I may be forced to.</string>
@@ -9409,7 +9409,7 @@
         <string _locid="38956">As the superior strategician, you'll appreciate that any treasure I gain helps us both.</string>
         <string _locid="38957">You are not exploiting the advantages of the New World effectively; gather more treasures.</string>
         <string _locid="38958">Native warriors are welcome additions to my army.</string>
-        <string _locid="38959">Another settler has elected to serve under the German flag.</string>
+        <string _locid="38959">Another settler has elected to serve under the Prussian flag.</string>
         <string _locid="38960">I can use wood. Even wood will have a small role to play in our eventual win.</string>
         <string _locid="38961">Thanks to my efforts, we have another native ally.</string>
         <string _locid="38962">I have claimed a trading site. I encourage you to increase your own contribution to our alliance.</string>
@@ -9493,7 +9493,7 @@
         <string _locid="39040">I tire of inept opposition. Bring your best or just have your resignation delivered now.</string>
         <string _locid="39041">Greetings. Prepare to be destroyed.</string>
         <string _locid="39042">I am Frederick the Great. I cannot imagine why you dare to challenge me.</string>
-        <string _locid="39043">This New World looks like it will make a good new Germany, don't you think?</string>
+        <string _locid="39043">This New World looks like it will make a good new Prussia, don't you think?</string>
         <string _locid="39044">I can only hope you will not collapse before my assault as easily as my last foe.</string>
         <string _locid="39045">Note to my opponent: this land belongs to me.</string>
         <string _locid="39046">Welcome to the New World. My New World.</string>
@@ -9553,7 +9553,7 @@
         <string _locid="39100">I am not surprised I took that treasure, but I am surprised you thought you might beat me to it.</string>
         <string _locid="39101">Another treasure for me, another beating for you.</string>
         <string _locid="39102">Would you like three guesses as to whose army is here? Ah, but you'll be too busy dying to play games.</string>
-        <string _locid="39103">You will be overjoyed to hear that my exceptionally well trained German army has arrived to fight you.</string>
+        <string _locid="39103">You will be overjoyed to hear that my exceptionally well trained Prussian army has arrived to fight you.</string>
         <string _locid="39104">I look forward to this battle, but my soldiers hunger for it.</string>
         <string _locid="39105">My troops have arrived. I pity yours.</string>
         <string _locid="39106">I have not heard from you in awhile. I can only imagine you are spending your time knitting caps.</string>
@@ -9576,7 +9576,7 @@
         <string _locid="39125">I feel sorry for any natives you have fooled into joining you.</string>
         <string _locid="39126">Why don't you just send your new settler back to the old world, where it's safe.</string>
         <string _locid="39127">That wood you just found could be used to build a nice raft. Maybe you could try to escape my New World on it.</string>
-        <string _locid="39128">Ah, walls. Like the crunchy outer coating to a delightful German chocolate.</string>
+        <string _locid="39128">Ah, walls. Like the crunchy outer coating to a delightful Prussian chocolate.</string>
         <string _locid="39129">Would it interest you to learn I have allied with natives of this New World? Perhaps not, you are still learning how to boil water.</string>
         <string _locid="39130">I have the first trading post. You, however, have ... well, nothing significant at all.</string>
         <string _locid="39131">Another treasure on the New World is mine.</string>
@@ -9641,14 +9641,14 @@
         <string _locid="39194">It seems we have nearly forced the British back to their puny island.</string>
         <string _locid="39195">The Dutch are nearly defeated. Perhaps we should send them some sympathy tulips. </string>
         <string _locid="39196">I cannot say I am sad to see the French go.</string>
-        <string _locid="39197">Our alliance has proved stronger than the German nation.</string>
+        <string _locid="39197">Our alliance has proved stronger than the Prussian nation.</string>
         <string _locid="39199">It looks as if we have defeated the insurgent Portuguese rebellion.</string>
         <string _locid="39200">Superb. Our alliance has outlasted the Russian forces.</string>
         <string _locid="39201">The Spanish simply did not have the political foresight to last out this war.</string>
         <string _locid="39202">England is proving to be a formidable adversary.</string>
         <string _locid="39203">The Dutch are growing quite powerful, we must choose our actions carefully.</string>
         <string _locid="39204">The French frighten me with their mighty empire.</string>
-        <string _locid="39205">The German Reich must be stopped before they become too dangerous.</string>
+        <string _locid="39205">The Prussian Reich must be stopped before they become too dangerous.</string>
         <string _locid="39207">We have let the Portuguese dissenters build their empire unchecked. Now, I fear they will wage a ruthless civil war.</string>
         <string _locid="39208">My political connections inform me that we should be wary of the Russians.</string>
         <string _locid="39209">How could we have let the Spanish forces grow to such proportions?</string>
@@ -9765,8 +9765,8 @@
         <string _locid="39322">Perhaps if we attack the British we can turn this war around.</string>
         <string _locid="39323">Their alliance is proving to be stronger than expected, however my spies inform me the Dutch are the weakest. Let us strike them!</string>
         <string _locid="39324">We may have lost the war, but I believe we can still win a battle versus the French.</string>
-        <string _locid="39325">Let us take down the Germans before our empire falls.</string>
-        <string _locid="39326">The Germans can at least be taken out of this fight by immediate action on our part.</string>
+        <string _locid="39325">Let us take down the Prussians before our empire falls.</string>
+        <string _locid="39326">The Prussians can at least be taken out of this fight by immediate action on our part.</string>
         <string _locid="39327">It may prove impossible for us to defeat the enemy entirely, but I believe we can crush the rebel Portuguese forces.</string>
         <string _locid="39328">Our future is dim my friend, but not all is lost. Russia is vulnerable to attack.</string>
         <string _locid="39329">This war has not been favorable for us. Maybe if we hit the Spanish we can turn things around.</string>
@@ -10002,7 +10002,7 @@
         <string _locid="39561">The Dutch are close to defeat.</string>
         <string _locid="39562">Keep up the pressure, pet. The Dutch will soon fall.</string>
         <string _locid="39563">The French have almost fallen to our combined might.</string>
-        <string _locid="39564">The Germans are no match for us. </string>
+        <string _locid="39564">The Prussians are no match for us. </string>
         <string _locid="39565">Do not stop. The Ottomans are in retreat.</string>
         <string _locid="39566">The cowards! Kneel before Isabella!</string>
         <string _locid="39567">Stay on them. The Russian dogs will lick my boot heels yet.</string>
@@ -10010,7 +10010,7 @@
         <string _locid="39569">Hiding across the channel has made the British strong.</string>
         <string _locid="39570">The Dutch are strong. We must be cautious.</string>
         <string _locid="39571">Where have the French gained such strength?</string>
-        <string _locid="39572">Beware the Germans. They seem particularly strong.</string>
+        <string _locid="39572">Beware the Prussians. They seem particularly strong.</string>
         <string _locid="39573">Could the Ottomans really be this strong?</string>
         <string _locid="39574">The Portuguese have made great strides. Their army is powerful.</string>
         <string _locid="39575">The Russians are a stubborn lot. We will have to redouble our efforts against them.</string>
@@ -10192,7 +10192,7 @@
         <string _locid="39751">How can these weak British be doing so well?</string>
         <string _locid="39752">Despite the weakness of the Dutch, we are losing.</string>
         <string _locid="39753">How can this be? The French dogs are weak, but we are still losing.</string>
-        <string _locid="39754">Despite Germany's weakness, we are being routed. </string>
+        <string _locid="39754">Despite Prussia's weakness, we are being routed. </string>
         <string _locid="39755">How do we expect to win when we can't even handle a weak Portuguese force?</string>
         <string _locid="39756">The Russians fall before our forces, but we still can't push the advantage.</string>
         <string _locid="39757">This renegade group of Spanish is no match for the crown, but I fear we have lost.</string>
@@ -10701,8 +10701,8 @@
         <string _locid="40264">My men will die rather than let this post fall to the foe.</string>
         <string _locid="40265">The French are helpless before us.</string>
         <string _locid="40266">The French are a dangerous foe. We must be ready for them.</string>
-        <string _locid="40267">We Russians have long hated the Germans. It feels good to see them doing down before us.</string>
-        <string _locid="40268">We Russians have long hated the Germans. It is like drinking poison to see them doing so well.</string>
+        <string _locid="40267">We Russians have long hated the Prussians. It feels good to see them doing down before us.</string>
+        <string _locid="40268">We Russians have long hated the Prussians. It is like drinking poison to see them doing so well.</string>
         <string _locid="40269">We have almost wiped out the Ottomans. If only getting a warm water port for Holy Mother Russia would be so easy back in Europe.</string>
         <string _locid="40270">We Russians have been fighting the Turks for centuries. Who knows better than us how difficult they are to beat?</string>
         <string _locid="40271">A few more hammerblows and the Portuguese will be out of this game.</string>
@@ -10722,7 +10722,7 @@
         <string _locid="40285">The French seem everywhere at once. What can I do against such skill?</string>
         <string _locid="40286">We may not win, but let us strike back! The French are our foe's weak spot. Strike! </string>
         <string _locid="40287">My men will garrison this town.</string>
-        <string _locid="40288">The Germans. Always invading Russia. Well, Russia may lose this war, but first, let us invade the Germans for a change!</string>
+        <string _locid="40288">The Prussians. Always invading Russia. Well, Russia may lose this war, but first, let us invade the Prussians for a change!</string>
         <string _locid="40289">Blunderer! Knave! Not just your empire, but my own has been destroyed by your clumsiness!</string>
         <string _locid="40290">Resign at once you poltroon! I am better off without your bungling! </string>
         <string _locid="40291">The hated Turks! There are too many of them! At least we can go down fighting.</string>
@@ -10873,7 +10873,7 @@
         <string _locid="40438">The British are poor and weak, they should not be a threat for much longer.</string>
         <string _locid="40439">Rebels!! Their challenge to my Dutch rule shall be over soon.</string>
         <string _locid="40440">I believe the French will be nothing but a memory soon.</string>
-        <string _locid="40441">I would have never thought the Germans would resign so easily but I think they will be forced to soon.</string>
+        <string _locid="40441">I would have never thought the Prussians would resign so easily but I think they will be forced to soon.</string>
         <string _locid="40442">The Ottomans are a worthy adversary but I think their days are numbered.</string>
         <string _locid="40443">I sense the Portuguese will not last much longer.</string>
         <string _locid="40444">I fear these nearby trees more than I fear those Russians.</string>
@@ -10881,7 +10881,7 @@
         <string _locid="40446">The British are a force to be reckoned with, I nominate you to do the reckoning.</string>
         <string _locid="40447">As usual the Dutch are wealthy and near unbeatable.</string>
         <string _locid="40448">We should make for the French or they might just ride right over us.</string>
-        <string _locid="40449">The German army is a well oiled machine, it would be wise to fear them.</string>
+        <string _locid="40449">The Prussian army is a well oiled machine, it would be wise to fear them.</string>
         <string _locid="40450">As it stands right now the Ottomans may overpower us.</string>
         <string _locid="40451">I do not want to believe it but the Portuguese are a worthy opponent here in the New World.</string>
         <string _locid="40452">It seems the Russian forces are as fierce as their winters.</string>
@@ -10998,7 +10998,7 @@
         <string _locid="40563">All is not lost. The British are barely holding on.</string>
         <string _locid="40564">The situation is not in our favor but the Dutch are conformable.</string>
         <string _locid="40565">We need to turn the tide of this contest but I sense the French are no real threat to us.</string>
-        <string _locid="40566">It seems the Germans are lost and sputtering out of control.. Through them we might be able to change our future. </string>
+        <string _locid="40566">It seems the Prussians are lost and sputtering out of control.. Through them we might be able to change our future. </string>
         <string _locid="40567">The enemy seems too strong but I think the Portuguese are their weak link.</string>
         <string _locid="40568">We may be behind right now but the Russians shouldn't last much longer.</string>
         <string _locid="40569">We're not doing so well but the Spanish are doing even worse.</string>
@@ -11364,8 +11364,8 @@
         <string _locid="40934">The wealth and power of the Dutch are giving them disproportionate strength.</string>
         <string _locid="40935">Tres bien! We now know who is best suited to rule the French nation! </string>
         <string _locid="40936">The enemy French are nearly as strong as mine. This could be a problem, my friend.</string>
-        <string _locid="40937">Germany was my battlefield and playground for many a year. History repeats itself.</string>
-        <string _locid="40938">These Germans seem strangely effective in combat. Too effective.</string>
+        <string _locid="40937">Prussia was my battlefield and playground for many a year. History repeats itself.</string>
+        <string _locid="40938">These Prussians seem strangely effective in combat. Too effective.</string>
         <string _locid="40939">One Turk can beat three Frenchmen. But ten Frenchmen are a match for ten Turks. And one hundred Frenchmen can defeat any number of Turks.</string>
         <string _locid="40940">The Ottomans have always been a powerful enemy. One-for-one they may be the strongest soldiers in Europe!</string>
         <string _locid="40941">So much for the vaunted Portuguese. I had wondered what they would be like to fight. Mere pushovers.</string>
@@ -11384,7 +11384,7 @@
         <string _locid="40954">My advice is for us to try to take out the Dutch player. Annihilate him, and we could turn this war around.</string>
         <string _locid="40955">The French are, as always, redoubtable. In fact, I think they have beaten me soundly.</string>
         <string _locid="40956">I no longer have confidence in our ultimate victory. But for now, the enemy French are vulnerable to a counterattack.</string>
-        <string _locid="40957">I do not like our prospects. But I think the Germans are the enemy's weak point.</string>
+        <string _locid="40957">I do not like our prospects. But I think the Prussians are the enemy's weak point.</string>
         <string _locid="40958">You have betrayed our cause. I would have won if you had not dragged me down with your floundering! </string>
         <string _locid="40959">So your ineptitude has brought me to this pass. Now it looks as though we might lose.</string>
         <string _locid="40960">The Ottomans are so numerous and so wealthy that I see nothing we can do to turn the tide.</string>
@@ -11604,7 +11604,7 @@
         <string _locid="41179">The British are very weak.</string>
         <string _locid="41180">The Dutch will resign soon.</string>
         <string _locid="41181">The French will surrender. They often do.</string>
-        <string _locid="41182">I have fought Germans many times, so I know they will soon resign.</string>
+        <string _locid="41182">I have fought Prussians many times, so I know they will soon resign.</string>
         <string _locid="41183">There is only room for one Ottoman colony. And it will be mine.</string>
         <string _locid="41184">We will drive them back to Portugal!</string>
         <string _locid="41185">These Russians will not be a threat much longer.</string>
@@ -11612,7 +11612,7 @@
         <string _locid="41187">The British army is quite strong.</string>
         <string _locid="41188">I do not know how they do it, but the Dutch are a big threat.</string>
         <string _locid="41189">France often has a huge army and I fear this time is no exception.</string>
-        <string _locid="41190">I have fought Germans many times. They can be quite dangerous.</string>
+        <string _locid="41190">I have fought Prussians many times. They can be quite dangerous.</string>
         <string _locid="41191">It appears I have a rival for control of the Ottoman Empire.</string>
         <string _locid="41192">Keep your eye on the Portuguese. They are our biggest threat.</string>
         <string _locid="41193">Russians like to attack early. Be prepared.</string>
@@ -11783,7 +11783,7 @@
         <string _locid="41358">The British are cunning and their armies are well-equipped. It does not look good for us.</string>
         <string _locid="41359">The Dutch know more of warfare than I expected. The outlook is grim.</string>
         <string _locid="41360">The French are as dangerous as I feared. We fight a losing fight.</string>
-        <string _locid="41361">The Germans are a relentless enemy. We are losing ground.</string>
+        <string _locid="41361">The Prussians are a relentless enemy. We are losing ground.</string>
         <string _locid="41362">It is not surprising that one of my countrymen is a match for both of us. </string>
         <string _locid="41363">The Portuguese are endlessly resourceful. This is a dark day.</string>
         <string _locid="41364">Is there nothing we can do to turn the Russian tide?</string>
@@ -11791,7 +11791,7 @@
         <string _locid="41366">My children's grandchildren will be shamed by losing to the British.</string>
         <string _locid="41367">Despite their inferior troops, the Dutch continue to defeat us.</string>
         <string _locid="41368">It is humiliating that we are losing to the French.</string>
-        <string _locid="41369">If we lose to the Germans, I will never be considered fit to lead in battle again.</string>
+        <string _locid="41369">If we lose to the Prussians, I will never be considered fit to lead in battle again.</string>
         <string _locid="41370">I cannot stand to lose to this traitorous Ottoman commander.</string>
         <string _locid="41371">I cannot believe you allowed the Portuguese to beat us.</string>
         <string _locid="41372">The Russians swarm like ants ... and we let them.</string>
@@ -12366,8 +12366,8 @@
         <string _locid="41948" symbol="cStringPlayerSummaryClose">Close the dialog without tributing resources and return to the game.</string>
         <string _locid="41949" symbol="cStringPlayerSummaryAddResources">Add additional %s for tribute to %s.</string>
         <string _locid="41950" symbol="cStringPlayerSummaryShipments">View the Home City and Shipments of %s.</string>
-        <string _locid="41951">Guard Cassador</string>
-        <string _locid="41952">Imperial Cassadors</string>
+        <string _locid="41951">Guard Caçadores</string>
+        <string _locid="41952">Imperial Caçadores</string>
         <string _locid="41953">Native Villager</string>
         <string _locid="41954">IGC Native Villager</string>
         <string _locid="41955">Well it looked like a straight line.</string>
@@ -12620,19 +12620,19 @@
         <string _locid="42202">Ships a Factory Wagon to the New World, allowing you to construct a powerful Factory to produce resources or heavy artillery, +4 Uhlans.</string>
         <string _locid="42203">Robber Barons</string>
         <string _locid="42204">Robber Barons Shipment has arrived.</string>
-        <string _locid="42205">Ships a number of German Black Rider Mercenaries. Instead of Uhlans, you get extra Riders.</string>
-        <string _locid="42206">Hire German Black Riders</string>
+        <string _locid="42205">Ships a number of Germanic Schwarze Reiter Mercenaries. Instead of Uhlans, you get extra Riders.</string>
+        <string _locid="42206">Hire Germanic Schwarze Reiter</string>
         <string _locid="42207">Ships a number of Landsknecht mercenaries. Instead of Uhlans, you get extra Landsknecht.</string>
         <string _locid="42208">Hire Landsknecht Mercenaries</string>
-        <string _locid="42209">Ships a number of Hessian Jaeger Mercenaries. Instead of Uhlans, you get extra Jaegers.</string>
-        <string _locid="42210">Hire Hessian Jaegers</string>
-        <string _locid="42211">Ships a number of Finnish Hackapell Mercenaries. Instead of Uhlans, you get extra Hackapells.</string>
-        <string _locid="42212">Hire Finnish Hackapells</string>
-        <string _locid="42213">Ships an army of Holy Roman Mercenaries: Landsknecht, Black Riders and Jaegers. Instead of Uhlans, you get extra mercenaries.</string>
+        <string _locid="42209">Ships a number of Hessian Jäger Mercenaries. Instead of Uhlans, you get extra Jäger.</string>
+        <string _locid="42210">Hire Hessian Jäger</string>
+        <string _locid="42211">Ships a number of Finnish Hakkapeliitta Mercenaries. Instead of Uhlans, you get extra Hakkapeliitta.</string>
+        <string _locid="42212">Hire Finnish Hakkapeliitta</string>
+        <string _locid="42213">Ships an army of Holy Roman Mercenaries: Landsknecht, Schwarze Reiter and Jäger. Instead of Uhlans, you get extra mercenaries.</string>
         <string _locid="42214">Hire Holy Roman Army</string>
-        <string _locid="42215">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hackapells. Instead of Uhlans you get extra mercenaries.</string>
+        <string _locid="42215">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hakkapeliitta. Instead of Uhlans you get extra mercenaries.</string>
         <string _locid="42216">Hire Highland Mercenary Army</string>
-        <string _locid="42217">Ships a number of Mediterranean Mercenaries: Stradiots, Mamelukes and Corsairs. Instead of Uhlans, you get extra Mercenaries.</string>
+        <string _locid="42217">Ships a number of Mediterranean Mercenaries: Stratioti, Mamelukes and Corsairs. Instead of Uhlans, you get extra Mercenaries.</string>
         <string _locid="42218">Hire Mediterranean Mercenary Army</string>
         <string _locid="42219"></string>
         <string _locid="42220" symbol="cStringUpdateSuccess">Age3 has been successfully updated.</string>
@@ -12770,8 +12770,8 @@
         <string _locid="42352" symbol="cStringChooseADeck">Choose the Deck to play with for this game.</string>
         <string _locid="42353" symbol="cStringHCViewOthersDeck">View the Home City Decks.</string>
         <string _locid="42354" symbol="cStringHCViewOthersTechs">View the Home City inventory.</string>
-        <string _locid="42355">Veteran Cassador</string>
-        <string _locid="42356">Imperial Cassador</string>
+        <string _locid="42355">Veteran Caçadores</string>
+        <string _locid="42356">Imperial Caçadores</string>
         <string _locid="42357">TEAM Portuguese send their allies Cords of 1000 Brasilwood.</string>
         <string _locid="42358">TEAM Portuguese send their allies Cords of 1000 Brazilwood.</string>
         <string _locid="42359" symbol="cStringCustomMapsCheckboxText">Custom Maps</string>
@@ -12812,7 +12812,7 @@
         <string _locid="42394">Elite Blackwood</string>
         <string _locid="42395">Tomahawk</string>
         <string _locid="42396">TEAM Settler Wagons</string>
-        <string _locid="42397">TEAM Germans send the team 1 Settler Wagon.</string>
+        <string _locid="42397">TEAM Prussians send the team 1 Settler Wagon.</string>
         <string _locid="42398">TEAM improved cavlary hitpoints and line of sight.</string>
         <string _locid="42399">TEAM gunpowder infantry hitpoints increased.</string>
         <string _locid="42400">Veteran Spahi</string>
@@ -13434,7 +13434,7 @@
         <string _locid="43017" symbol="cStringFailedGetHCs">Failed to retrieve Home Cities: %s</string>
         <string _locid="43018">Load user-made grouping</string>
         <string _locid="43019" symbol="cStringAutoGatherName">Auto Gather</string>
-        <string _locid="43020">TEAM Germans send the team 2 Settler Wagons.</string>
+        <string _locid="43020">TEAM Prussians send the team 2 Settler Wagons.</string>
         <string _locid="43021">Rubble Cabin</string>
         <string _locid="43022" symbol="cStringMPAILevelDesc">Level: Average Home City Level of Human Players.</string>
         <string _locid="43023" symbol="cStringNoSuchChannel">Channel %s does not exist. Please select the create button to create a channel.</string>

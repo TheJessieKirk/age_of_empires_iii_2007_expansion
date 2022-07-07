@@ -1629,7 +1629,7 @@
         <string _locid="23331">Flint Lock</string>
         <string _locid="23334">Musketeer, Fusilier, Janissary, Highlander and Grenadier hand attack increased.</string>
         <string _locid="23335">Socket Bayonet</string>
-        <string _locid="23340">Skirmishers armed with rifles (Skirmishers, Abus Guns, Cassadores, Jaegers, Strelets, Aniyvwiyaʔi, Néhinaw) do more damage to heavy infantry (Musketeers, Halberdiers, etc.)</string>
+        <string _locid="23340">Skirmishers armed with rifles (Skirmishers, Abus Guns, Caçadores, Jäger, Strelets, Aniyvwiyaʔi, Néhinaw) do more damage to heavy infantry (Musketeers, Halberdiers, etc.)</string>
         <string _locid="23341">Counter Infantry Rifling</string>
         <string _locid="23348">Artillery line of sight increased.</string>
         <string _locid="23349">Gunner's Quadrant</string>
@@ -1817,9 +1817,9 @@
         <string _locid="23887">Ruyter attack and hitpoints greatly increased.</string>
         <string _locid="23888">Carabineers</string>
         <string _locid="23908">Skirmisher with low hitpoints, but a strong attack. Good against infantry.</string>
-        <string _locid="23909">Veteran Cassador</string>
-        <string _locid="23910">Cassador attack and hitpoints increased.</string>
-        <string _locid="23911">Guard Cassadores</string>
+        <string _locid="23909">Veteran Caçadores</string>
+        <string _locid="23910">Caçadores attack and hitpoints increased.</string>
+        <string _locid="23911">Guard Caçadores</string>
         <string _locid="23914">Portuguese Dragoon attack and hitpoints greatly increased.</string>
         <string _locid="23915">Jinetes</string>
         <string _locid="23917">Ships 22 experienced Crossbowmen from your homeland, plus your normal Crossbowmen are improved.</string>
@@ -1965,7 +1965,7 @@
         <string _locid="24541">Heavy War Wagon</string>
         <string _locid="24542" symbol="cStringViewHomeCity">{xpProgressionString}</string>
         <string _locid="24544">Guard Cavalry Archer</string>
-        <string _locid="24634">Ships an army of Holy Roman Mercenaries: Landsknecht, Black Riders and Jaegers.</string>
+        <string _locid="24634">Ships an army of Holy Roman Mercenaries: Landsknecht, Schwarze Reiter and Jäger.</string>
         <string _locid="24635">Hire Holy Roman Army</string>
         <string _locid="24637">Mercenaries are cheaper.</string>
         <string _locid="24638">Mercenary Loyalty</string>
@@ -2053,7 +2053,7 @@
         <string _locid="24989">NAT Tupi Archer</string>
         <string _locid="24990">NAT Kalinago Blowgunner</string>
         <string _locid="24992">NAT Tawantinsuyu Bolas Man</string>
-        <string _locid="24993">INF Cassador</string>
+        <string _locid="24993">INF Caçadores</string>
         <string _locid="24994">AR Heavy Cannon</string>
         <string _locid="24995">CAV Cavalry Archer</string>
         <string _locid="24996">NAT Nuučaan̓ułʔatḥ Clubman</string>
@@ -2107,10 +2107,10 @@
         <string _locid="25139">Bold cavalry mercenary from Egypt.</string>
         <string _locid="25140">Mameluke</string>
         <string _locid="25144">Light cavalry mercenary from the Balkans.</string>
-        <string _locid="25145">Stradiot</string>
+        <string _locid="25145">Stratioti</string>
         <string _locid="25149">Heavily armed German mercenary cavalry armed with pistols.</string>
-        <string _locid="25150">Black Rider</string>
-        <string _locid="25151">CAV Black Rider</string>
+        <string _locid="25150">Schwarze Reiter</string>
+        <string _locid="25151">CAV Schwarze Reiter</string>
         <string _locid="25159">Chinese cavalry archer mercenary.</string>
         <string _locid="25160">Manchu</string>
         <string _locid="25164">Japanese samurai mercenary.</string>
@@ -2118,14 +2118,14 @@
         <string _locid="25166">INF Ronin</string>
         <string _locid="25169">CAV Mameluke</string>
         <string _locid="25170">CAV Manchu</string>
-        <string _locid="25171">CAV Stradiot</string>
+        <string _locid="25171">CAV Stratioti</string>
         <string _locid="25172">INF Swiss Pikeman</string>
         <string _locid="25173">Hessian skirmisher mercenary. Good against infantry.</string>
-        <string _locid="25174">Jaeger</string>
-        <string _locid="25175">INF Jaeger</string>
+        <string _locid="25174">Jäger</string>
+        <string _locid="25175">INF Jäger</string>
         <string _locid="25178">Heavy cavalry mercenary from Finland.</string>
-        <string _locid="25179">Hackapell</string>
-        <string _locid="25180">CAV Hackapell</string>
+        <string _locid="25179">Hakkapeliitta</string>
+        <string _locid="25180">CAV Hakkapeliitta</string>
         <string _locid="25183" symbol="cStringTrEffectTurnToFaceUnit">Unit Face Unit</string>
         <string _locid="25184" symbol="cStringRMSSaguenaydesc">Saguenay: plenty of resources and good fishing.</string>
         <string _locid="25185" symbol="cStringRMSSaguenayname">Saguenay</string>
@@ -3798,8 +3798,8 @@
         <string _locid="29484">Multiple Rodeleros</string>
         <string _locid="29485">Grenadier</string>
         <string _locid="29486">Multiple Grenadiers</string>
-        <string _locid="29487">Cassador</string>
-        <string _locid="29488">Multiple Cassadores</string>
+        <string _locid="29487">Caçadores</string>
+        <string _locid="29488">Multiple Caçadores</string>
         <string _locid="29489">Doppelsoldner</string>
         <string _locid="29490">Multiple Doppelsoldners</string>
         <string _locid="29491">Fusilier</string>
@@ -4191,8 +4191,8 @@
         <string _locid="31029">Imperial upgrade for Janissaries.</string>
         <string _locid="31030">Imperial Janissaries</string>
         <string _locid="31032">Imperial Janissary</string>
-        <string _locid="31033">Imperial upgrade for Cassadores.</string>
-        <string _locid="31034">Imperial Cassadores</string>
+        <string _locid="31033">Imperial upgrade for Caçadores.</string>
+        <string _locid="31034">Imperial Caçadores</string>
         <string _locid="31036">Imperial Cacadore</string>
         <string _locid="31040">Imperial Spahi</string>
         <string _locid="31044">Imperial Crossbowman</string>
@@ -4356,10 +4356,10 @@
         <string _locid="31655">Move Down</string>
         <string _locid="31656">Initially Visible</string>
         <string _locid="31657">Is Primary Objective</string>
-        <string _locid="31658">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hackapells.</string>
+        <string _locid="31658">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hakkapeliitta.</string>
         <string _locid="31659">Hire Highland Mercenary Army</string>
         <string _locid="31660">Mercenaries are elite troops that can be sent from the Home City for a Coin cost. Once a group of Mercenaries is hired, by any player in the game, those Mercenaries are unavailable for the rest of the game.</string>
-        <string _locid="31662">Ships a number of Mediterranean Mercenaries: Stradiots, Mamelukes and Corsairs.</string>
+        <string _locid="31662">Ships a number of Mediterranean Mercenaries: Stratioti, Mamelukes and Corsairs.</string>
         <string _locid="31663">Hire Mediterranean Mercenary Army</string>
         <string _locid="31664">Mercenaries are elite troops that can be sent from the Home City for a Coin cost. Once a group of Mercenaries is hired, by any player in the game, those Mercenaries are unavailable for the rest of the game.</string>
         <string _locid="31666">Ships an army of Asian Mercenaries: Manchu Horse Archers and Ronin Samurai.</string>
@@ -6386,7 +6386,7 @@
         <string _locid="35633" soundfilename="AMEL4015">In those days, crossing the Atlantic was a thing only the bravest attempted. </string>
         <string _locid="35634">5 Crossbowmen</string>
         <string _locid="35635">The Philosopher Prince</string>
-        <string _locid="35636">6 Cassadores</string>
+        <string _locid="35636">6 Caçadores</string>
         <string _locid="35637">The Marksman</string>
         <string _locid="35638">2 Organ Guns</string>
         <string _locid="35639">The Engineer</string>
@@ -6605,8 +6605,8 @@
         <string _locid="35874">TEAM Barracks, Blockhouses, Nobles' Hut, and War Hut hitpoints increased.</string>
         <string _locid="35875">TEAM Barracks Hitpoints</string>
         <string _locid="35876" symbol="cStringRMSTexaslongdesc">Texas is an open plain with scattered low cliffs. Two Trade Routes, each with two Trading Post sites, cut through the center of the map, separating the teams. There will always be at least two Nʉmʉnʉʉ or Indé settlements, and sometimes three. Expect attacks from every side.</string>
-        <string _locid="35879">Jaeger</string>
-        <string _locid="35880">IGC Jaeger</string>
+        <string _locid="35879">Jäger</string>
+        <string _locid="35880">IGC Jäger</string>
         <string _locid="35881">Follows an engine</string>
         <string _locid="35882">Wood Car</string>
         <string _locid="35883">Follows an engine</string>
@@ -6740,15 +6740,15 @@
         <string _locid="36068" symbol="cStringPlayersColonyReachedAge5">%s's colony has reached the IMPERIAL AGE!</string>
         <string _locid="36069">4 Hoop Throwers</string>
         <string _locid="36070">8 Hoop Throwers</string>
-        <string _locid="36071">7 Cassadores</string>
-        <string _locid="36072">10 Cassadores</string>
-        <string _locid="36073">8 Cassadores</string>
-        <string _locid="36074">12 Cassadores</string>
-        <string _locid="36075">TEAM All gunpowder infantry (Musketeers, Cassadors, Skirmishers, Janissaries, etc.) hitpoints increased.</string>
+        <string _locid="36071">7 Caçadores</string>
+        <string _locid="36072">10 Caçadores</string>
+        <string _locid="36073">8 Caçadores</string>
+        <string _locid="36074">12 Caçadores</string>
+        <string _locid="36075">TEAM All gunpowder infantry (Musketeers, Caçadores, Skirmishers, Janissaries, etc.) hitpoints increased.</string>
         <string _locid="36076">TEAM Gunpowder Infantry Hitpoints</string>
-        <string _locid="36077">Musketeer and Cassador attack increased.</string>
+        <string _locid="36077">Musketeer and Caçadores attack increased.</string>
         <string _locid="36078">Gunpowder Infantry Attack</string>
-        <string _locid="36079">Musketeer and Cassador attack and hitpoints increased.</string>
+        <string _locid="36079">Musketeer and Caçadores attack and hitpoints increased.</string>
         <string _locid="36080">Gunpowder Infantry Combat</string>
         <string _locid="36081">5 Dragoons</string>
         <string _locid="36082">8 Dragoons</string>
@@ -6957,7 +6957,7 @@
         <string _locid="36350">TEAM War ships are cheaper.</string>
         <string _locid="36351">TEAM Cold Water Port</string>
         <string _locid="36353">TEAM Warships cheaper.</string>
-        <string _locid="36354">TEAM Skirmishers, Cassadors, Wakina Rifles, and Forest Prowlers can be trained in the Colonial Age. (For Russian, British, and Mēxihcah allies, it makes Strelets, Longbowmen, and Macehualtins train slightly faster.)</string>
+        <string _locid="36354">TEAM Skirmishers, Caçadores, Wakina Rifles, and Forest Prowlers can be trained in the Colonial Age. (For Russian, British, and Mēxihcah allies, it makes Strelets, Longbowmen, and Macehualtins train slightly faster.)</string>
         <string _locid="36355">TEAM Early Skirmishers</string>
         <string _locid="36357">TEAM allows Skirmishers in Colonial Age.</string>
         <string _locid="36358">TEAM ranged infantry damage increased.</string>
@@ -7262,20 +7262,20 @@
         <string _locid="36700">SPC Map Objective Icon</string>
         <string _locid="36701">Ships a number of Scottish Highlander Mercenaries.</string>
         <string _locid="36702">Hire Scottish Highlanders</string>
-        <string _locid="36704">Ships a number of Hessian Jaeger Mercenaries.</string>
-        <string _locid="36705">Hire Hessian Jaegers</string>
-        <string _locid="36707">Ships a number of Balkan Stradiot Mercenaries.</string>
-        <string _locid="36708">Hire Balkan Stradiots</string>
+        <string _locid="36704">Ships a number of Hessian Jäger Mercenaries.</string>
+        <string _locid="36705">Hire Hessian Jäger</string>
+        <string _locid="36707">Ships a number of Balkan Stratioti Mercenaries.</string>
+        <string _locid="36708">Hire Balkan Stratioti</string>
         <string _locid="36710">Ships a number of Swiss Pikemen Mercenaries.</string>
         <string _locid="36711">Hire Swiss Pikemen</string>
         <string _locid="36712">Ships a number of Ronin Samurai Mercenaries.</string>
         <string _locid="36713">Passage to Nippon</string>
-        <string _locid="36714">Ships a number of German Black Rider Mercenaries.</string>
-        <string _locid="36715">Hire German Black Riders</string>
+        <string _locid="36714">Ships a number of German Schwarze Reiter Mercenaries.</string>
+        <string _locid="36715">Hire German Schwarze Reiter</string>
         <string _locid="36716">Ships a number of Landsknecht Mercenaries.</string>
         <string _locid="36717">Hire Landsknecht Mercenaries</string>
-        <string _locid="36718">Ships a number of Finnish Hackapell Mercenaries.</string>
-        <string _locid="36719">Hire Finnish Hackapells</string>
+        <string _locid="36718">Ships a number of Finnish Hakkapeliitta Mercenaries.</string>
+        <string _locid="36719">Hire Finnish Hakkapeliitta</string>
         <string _locid="36720">Ships a number of Manchurian Cavalry Archer Mercenaries.</string>
         <string _locid="36721">Hire Manchurian Cavalry Archers</string>
         <string _locid="36722">TEAM Ships 2 Privateer ships to the New World.</string>
@@ -7461,8 +7461,8 @@
         <string _locid="36917">13 Halberdiers</string>
         <string _locid="36918" gamecharacter="Warwick" soundfilename="WARW0026" portraitfilename="units\spc\warwick\igc_warwick_portrait">Heh heh!</string>
         <string _locid="36919">TEAM Discovery Age Market improvements are cheaper.</string>
-        <string _locid="36920">Ships a number of Hessian Jaeger Mercenaries.</string>
-        <string _locid="36921">Hire Hessian Jaeger Division</string>
+        <string _locid="36920">Ships a number of Hessian Jäger Mercenaries.</string>
+        <string _locid="36921">Hire Hessian Jäger Division</string>
         <string _locid="36922">The Grand Magistery</string>
         <string _locid="36923">The Knights' Garrison</string>
         <string _locid="36924">All cavalry attack and hitpoints increased.</string>
@@ -7883,7 +7883,7 @@
         <string _locid="37414">TEAM Portuguese send their allies Cords of 1000 Brazilwood.</string>
         <string _locid="37415">TEAM Ottomans send their allies Chests of 600 Coin.</string>
         <string _locid="37416">TEAM Ottomans send their allies Chests of 1000 Coin.</string>
-        <string _locid="37417">Ships 6 Cassadores and 6 Dragoons.</string>
+        <string _locid="37417">Ships 6 Caçadores and 6 Dragoons.</string>
         <string _locid="37418">Portuguese Expeditionary Force</string>
         <string _locid="37419">Each Dock will create 4 Fishing Boats.</string>
         <string _locid="37420">Portuguese White Fleet</string>
@@ -8512,7 +8512,7 @@
         <string _locid="38046">Butcher: No, the meat's supposed to be that colour.</string>
         <string _locid="38047">Minstrel: Want to hear a song?</string>
         <string _locid="38048">Minstrel: Envoy! Envoy!</string>
-        <string _locid="38049">Minstrel: Black Riders! Stay away from my girlfriend!</string>
+        <string _locid="38049">Minstrel: Schwarze Reiter! Stay away from my girlfriend!</string>
         <string _locid="38050">Minstrel: God, save the gracious queen, er king.</string>
         <string _locid="38051">Minstrel: Oh I wish I were a nine-inch kielbasa.</string>
         <string _locid="38052">Minstrel: Me supa happy.</string>
@@ -12366,8 +12366,8 @@
         <string _locid="41948" symbol="cStringPlayerSummaryClose">Close the dialog without tributing resources and return to the game.</string>
         <string _locid="41949" symbol="cStringPlayerSummaryAddResources">Add additional %s for tribute to %s.</string>
         <string _locid="41950" symbol="cStringPlayerSummaryShipments">View the Home City and Shipments of %s.</string>
-        <string _locid="41951">Guard Cassador</string>
-        <string _locid="41952">Imperial Cassadors</string>
+        <string _locid="41951">Guard Caçadores</string>
+        <string _locid="41952">Imperial Caçadores</string>
         <string _locid="41953">Native Villager</string>
         <string _locid="41954">IGC Native Villager</string>
         <string _locid="41955">Well it looked like a straight line.</string>
@@ -12620,19 +12620,19 @@
         <string _locid="42202">Ships a Factory Wagon to the New World, allowing you to construct a powerful Factory to produce resources or heavy artillery, +4 Uhlans.</string>
         <string _locid="42203">Robber Barons</string>
         <string _locid="42204">Robber Barons Shipment has arrived.</string>
-        <string _locid="42205">Ships a number of German Black Rider Mercenaries. Instead of Uhlans, you get extra Riders.</string>
-        <string _locid="42206">Hire German Black Riders</string>
+        <string _locid="42205">Ships a number of German Schwarze Reiter Mercenaries. Instead of Uhlans, you get extra Riders.</string>
+        <string _locid="42206">Hire German Schwarze Reiter</string>
         <string _locid="42207">Ships a number of Landsknecht mercenaries. Instead of Uhlans, you get extra Landsknecht.</string>
         <string _locid="42208">Hire Landsknecht Mercenaries</string>
-        <string _locid="42209">Ships a number of Hessian Jaeger Mercenaries. Instead of Uhlans, you get extra Jaegers.</string>
-        <string _locid="42210">Hire Hessian Jaegers</string>
-        <string _locid="42211">Ships a number of Finnish Hackapell Mercenaries. Instead of Uhlans, you get extra Hackapells.</string>
-        <string _locid="42212">Hire Finnish Hackapells</string>
-        <string _locid="42213">Ships an army of Holy Roman Mercenaries: Landsknecht, Black Riders and Jaegers. Instead of Uhlans, you get extra mercenaries.</string>
+        <string _locid="42209">Ships a number of Hessian Jäger Mercenaries. Instead of Uhlans, you get extra Jäger.</string>
+        <string _locid="42210">Hire Hessian Jäger</string>
+        <string _locid="42211">Ships a number of Finnish Hakkapeliitta Mercenaries. Instead of Uhlans, you get extra Hakkapeliitta.</string>
+        <string _locid="42212">Hire Finnish Hakkapeliitta</string>
+        <string _locid="42213">Ships an army of Holy Roman Mercenaries: Landsknecht, Schwarze Reiter and Jäger. Instead of Uhlans, you get extra mercenaries.</string>
         <string _locid="42214">Hire Holy Roman Army</string>
-        <string _locid="42215">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hackapells. Instead of Uhlans you get extra mercenaries.</string>
+        <string _locid="42215">Ships an army of Highland Mercenaries: Highlanders, Swiss Pikemen and Hakkapeliitta. Instead of Uhlans you get extra mercenaries.</string>
         <string _locid="42216">Hire Highland Mercenary Army</string>
-        <string _locid="42217">Ships a number of Mediterranean Mercenaries: Stradiots, Mamelukes and Corsairs. Instead of Uhlans, you get extra Mercenaries.</string>
+        <string _locid="42217">Ships a number of Mediterranean Mercenaries: Stratioti, Mamelukes and Corsairs. Instead of Uhlans, you get extra Mercenaries.</string>
         <string _locid="42218">Hire Mediterranean Mercenary Army</string>
         <string _locid="42219"></string>
         <string _locid="42220" symbol="cStringUpdateSuccess">Age3 has been successfully updated.</string>
@@ -12770,8 +12770,8 @@
         <string _locid="42352" symbol="cStringChooseADeck">Choose the Deck to play with for this game.</string>
         <string _locid="42353" symbol="cStringHCViewOthersDeck">View the Home City Decks.</string>
         <string _locid="42354" symbol="cStringHCViewOthersTechs">View the Home City inventory.</string>
-        <string _locid="42355">Veteran Cassador</string>
-        <string _locid="42356">Imperial Cassador</string>
+        <string _locid="42355">Veteran Caçadores</string>
+        <string _locid="42356">Imperial Caçadores</string>
         <string _locid="42357">TEAM Portuguese send their allies Cords of 1000 Brasilwood.</string>
         <string _locid="42358">TEAM Portuguese send their allies Cords of 1000 Brazilwood.</string>
         <string _locid="42359" symbol="cStringCustomMapsCheckboxText">Custom Maps</string>
@@ -16510,11 +16510,11 @@
         <string _locid="46105">Saloon Fusilier</string>
         <string _locid="46106">Saloon Mameluke</string>
         <string _locid="46107">Saloon Manchu</string>
-        <string _locid="46108">Saloon Hackapell</string>
+        <string _locid="46108">Saloon Hakkapeliitta</string>
         <string _locid="46109">Saloon Highlander</string>
         <string _locid="46110">Saloon Landsknecht</string>
-        <string _locid="46111">Saloon Stradiot</string>
-        <string _locid="46112">Saloon Jaeger</string>
+        <string _locid="46111">Saloon Stratioti</string>
+        <string _locid="46112">Saloon Jäger</string>
         <string _locid="46113">Saloon Ronin</string>
         <string _locid="46114">Saloon Ninja</string>
         <string _locid="46115">Colonials</string>
@@ -16544,7 +16544,7 @@
         <string _locid="46139">Saloon Swiss Pikeman</string>
         <string _locid="46140">Saloon Elmeti</string>
         <string _locid="46141">Saloon Barbary Corsair</string>
-        <string _locid="46142">Saloon Black Rider</string>
+        <string _locid="46142">Saloon Schwarze Reiter</string>
         <string _locid="46143">Villager</string>
         <string _locid="46144">Siege Workshop</string>
         <string _locid="46145">Villager</string>
@@ -17282,7 +17282,7 @@
         <string _locid="46880">Whale Oil</string>
         <string _locid="46881">Exotic Hardwoods Shipment has arrived.</string>
         <string _locid="46882">Whale Oil Shipment has arrived.</string>
-        <string _locid="46883">7 Cassadores</string>
+        <string _locid="46883">7 Caçadores</string>
         <string _locid="46884">15 Spies</string>
         <string _locid="46885">5 Spies +2 Uhlans</string>
         <string _locid="46886">Rangefinding</string>
@@ -17467,7 +17467,7 @@
         <string _locid="47065">Ships a number of Swedish Fusilier Mercenaries.</string>
         <string _locid="47066">Hire Fusilier Corps</string>
         <string _locid="47067">TEAM Hire Hessians</string>
-        <string _locid="47068">TEAM Sends a band of Hessian Jaeger mercenaries.</string>
+        <string _locid="47068">TEAM Sends a band of Hessian Jäger mercenaries.</string>
         <string _locid="47069">Sublime Porte</string>
         <string _locid="47070">Satrapies shipment has arrived.</string>
         <string _locid="47071">Sublime Porte Shipment has arrived.</string>
