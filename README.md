@@ -21,7 +21,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 
 ### 1.1 Civilisations
 
-### Germans
+#### Germans
 * Changed "Germans" to "Prussians", "Holy Romans" and "Germanic" where appropriate<sup>[105][106][107]</sup>.
 * Changed "Black Riders" to "Schwarze Reiter"<sup>[103]</sup>.
 * Changed "Jaegers" to "Jäger"<sup>[104]</sup>.
