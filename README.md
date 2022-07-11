@@ -157,7 +157,10 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * Moved Nonahkee so she starts standing with the other heroes.
     * You can now build walls and outposts.
 
-### 1.3 Random Names
+### 1.3 Music
+* Removed pop at the end of Get Ye Sum.
+
+### 1.4 Random Names
 
 #### The Circle of Ossus
 * The Circle of Ossus now have more random names for their caravels, galleons, frigates and monitors. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>), [The Key of Solomon](<https://en.wikipedia.org/wiki/Key_of_Solomon>) and the [Labours of Hercules](<https://en.wikipedia.org/wiki/Labours_of_Hercules>). Every single name from these sources was used.  _(For a secret-order-of-European-scientists/exorcist feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
