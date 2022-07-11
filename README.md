@@ -158,7 +158,8 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * You can now build walls and outposts.
 
 ### 1.3 Music
-* Removed pop at the end of Get Ye Sum.
+* Removed pop at the end of _Get Ye Sum_.
+* Extended _Bubble Chum_, _Camels, Straws and Backs_, _Revolootin_ and _Ruinion_.
 
 ### 1.4 Random Names
 
