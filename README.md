@@ -269,7 +269,8 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
     * _La Louise_: A French 22-gun merchant frigate captured by Olivier Levasseur c. 1717. It was sunk in a storm on 9th March 1718 near Cotinga Island, Brazil<sup>[101]</sup>.
     * _Kingston_: A Jamaican ship captured by Calico Jack and used by him sometime after the 24th November 1718<sup>[26]</sup>.
     * _Marianne_: A pirate sloop commanded by Paulsgrave Williams, used by him to attack ships sailing near New Providence in the winter of 1713 and/or 1714<sup>[24][27][28]</sup>.
-    * _Sultana_: A pirate galley commanded by Black Sam c. 1717.<sup>[28]</sup>.
+    * _Phoenix_: A 100 crew pirate ship commanded by Alexandre Bras-de-Fer, becalmed off Bocas del Dragón, Spanish Main before being caught in a storm and exploding after lightning struck her powder magazines, c. 1600<sup>[110].</sup>.
+    * _Sultana_: A pirate galley commanded by Black Sam c. 1717<sup>[28]</sup>.
     * _Whydah Gally,_: A pirate slaver commanded by Black Sam c. 1717. It was sunk by a storm on 26th April 1717<sup>[27][28]</sup>.
 
 ## 2 Sources
@@ -382,3 +383,4 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [107]: [Frederick the Great (English Wikipedia)](<https://en.wikipedia.org/wiki/Frederick_the_Great>)
 * [108]: [Stratioti (English Wikipedia)](<https://en.wikipedia.org/wiki/Stratioti>)
 * [109]: [Caçadores (English Wikipedia)](<https://en.wikipedia.org/wiki/Ca%C3%A7adores>)
+* [110]: [Alexandre Bras-de-Fer (English Wikipedia)](<https://en.wikipedia.org/wiki/Alexandre_Bras-de-Fer>)
