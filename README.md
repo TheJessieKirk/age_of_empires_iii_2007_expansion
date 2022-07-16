@@ -261,17 +261,28 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 #### Misc.
 * Privateers now have the following additional random names:
     * _Adventure_:
-        * A Jamaican sloop captured by Blackbeard in March 1718, and placed under the command of Israel Hands<sup>[23]</sup>.
-        * A sloop captured by Blackbeard which he was given official title to in June 1718<sup>[23]</sup>.
+        * A Jamaican sloop commandered by Blackbeard in March 1718, and placed under the command of Israel Hands<sup>[23]</sup>.
+        * A sloop commandeered by Blackbeard which he was given official title to in June 1718<sup>[23]</sup>.
     * _Anne Galley_: A pirate ship commanded by Richard Noland c. 1717<sup>[27]</sup>
     * _Bennet_: A pirate sloop commanded by Benjamin Hornigold, used by him to attack ships sailing near New Providence in 1717<sup>[25]</sup>.
+    * _Good Fortune_: A French brig commandeered by Bartholemew Roberts somewhere near Labrador, Newfoundland, and fitted with 26 guns in July 1720. Renamed Royal Fortune in September 1720. She then captured British vessels at St. Christopher's, West Indies, then docked at Saint Barthélemy, West Indies. She then captured 15 British and French ships off Saint Lucia 25th October 1721. She was renamed _Good Fortune_ after a new vessel was captured and given the name c. 1721. Pirate Thomas Anstis then comandeered her and took her to the Carribean<sup>[113]</sup>.
     * _Happy Return_: A pirate sloop commanded by Benjamin Hornigold, used by him to attack ships sailing near New Providence in the winter of 1713 and/or 1714<sup>[24]</sup>.
-    * _La Louise_: A French 22-gun merchant frigate captured by Olivier Levasseur c. 1717. It was sunk in a storm on 9th March 1718 near Cotinga Island, Brazil<sup>[101]</sup>.
-    * _Kingston_: A Jamaican ship captured by Calico Jack and used by him sometime after the 24th November 1718<sup>[26]</sup>.
+    * _La Louise_: A French 22-gun merchant frigate commandeered by Olivier Levasseur c. 1717. It was sunk in a storm on 9th March 1718 near Cotinga Island, Brazil<sup>[101]</sup>.
+    * _Little Rover_: A French sloop commandeered by Barthomew Roberts, Cape Verde and placed under the command of James Skyrme c. 1720<sup>[113]</sup>.
+    * _Kingston_: A Jamaican ship commandeered by Calico Jack sometime after the 24th November 1718<sup>[26]</sup>.
     * _Marianne_: A pirate sloop commanded by Paulsgrave Williams, used by him to attack ships sailing near New Providence in the winter of 1713 and/or 1714<sup>[24][27][28]</sup>.
     * _Phoenix_: A 100 crew pirate ship commanded by Alexandre Bras-de-Fer, becalmed off Bocas del Dragón, Spanish Main before being caught in a storm and exploding after lightning struck her powder magazines, c. 1600<sup>[110].</sup>.
+    * _Royal Fortune_:
+        * See _Good Fortune_ above.
+        * A 52-gun French warship commandeered by Bartholemew Roberts c. 1721 and renamed _Royal Fortune_. She was taken to Cape Verde, Guinea and then abandoned due to leaks<sup>[113]</sup>.
+        * A pirate ship commanded by Bartholemew Roberts renamed from _Sea King_ c. June 1721. She sailed to Sierra Leone. She captured two ships off Point Cestos, Liberia 8th August 1721. She was then renamed _Sea King_ again after a new vessel was captured and given the name<sup>[113]</sup>.
+        * A Dutch frigate _Onslow_ commandeered by Bartholemew Roberts c. August 1721 and renamed _Royal Fortune_. She then captured vessels at Whydah, Benin in January 1722. Captured on 10th February 1722 by _HMS Swallow_ at Cape Lopez, Gabon, when Barthomew Roberts was killed<sup>[113]</sup>.
+    * _Royal James_: A pirate sloop commanded by Hovell Davis c. 1719. Abandoned due to worm damage off Annamaboa, Gold Coast<sup>[113]</sup>.
+    * _Royal Rover_: A pirate sloop commanded by Howell Davis c. 1719, then by Bartholemew Roberts after Davis was killed in Príncipe, Guiana. She captured a fleet of 42 Portuguese ships Todos os Santos' Bay, Brazil in July 1719. Walter Kennedy than commandeered Royal Rover from Roberts off Devil's Island, Guiana.<sup>[113]</sup>.
     * _Sultana_: A pirate galley commanded by Black Sam c. 1717<sup>[28]</sup>.
+    * _Tigre du Bengale (English: Bengal Tiger)_: A French privateer ship aboard which Ambroise Louis Garneray served c. 1800<sup>[111]</sup>.
     * _Whydah Gally,_: A pirate slaver commanded by Black Sam c. 1717. It was sunk by a storm on 26th April 1717<sup>[27][28]</sup>.
+    * _William,_: A pirate ship commandeered by Calico Jack Rackham, Anne Bonny and Mary Read, c. 1720. Captured by a British Privateer, October 1720<sup>[112]</sup>.
 
 ## 2 Sources
 * [1]: [Battle of Lepanto order of battle (English Wikipedia)](<https://en.wikipedia.org/wiki/Battle_of_Lepanto_order_of_battle>)
@@ -384,3 +395,6 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [108]: [Stratioti (English Wikipedia)](<https://en.wikipedia.org/wiki/Stratioti>)
 * [109]: [Caçadores (English Wikipedia)](<https://en.wikipedia.org/wiki/Ca%C3%A7adores>)
 * [110]: [Alexandre Bras-de-Fer (English Wikipedia)](<https://en.wikipedia.org/wiki/Alexandre_Bras-de-Fer>)
+* [111]: [Ambroise Louis Garneray (English Wikipedia)](<https://en.wikipedia.org/wiki/Ambroise_Louis_Garneray>)
+* [112]: [Anne Bonny (English Wikipedia)](<https://en.wikipedia.org/wiki/Anne_Bonny>)
+* [113]: [Bartholomew Roberts (English Wikipedia)](<https://en.wikipedia.org/wiki/Bartholomew_Roberts>)
