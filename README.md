@@ -83,6 +83,7 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * Changed "Seneca" to "Onödowáʼga"<sup>[38]</sup>.
 * Changed "Shaolin" to "Chan" and "Kung Fu"<sup>[53]</sup>.
 * Changed "Shoshone" to "Newe"<sup>[65]</sup>.
+* Changed "Tupi" to "Tupinambá"<sup>[116]</sup>.
 * Changed "Tuscarora" to "Skarù:ręˀ"<sup>[42]</sup>.
 * Changed "Ute" to "Núuchi-u"<sup>[66]</sup>.
 * Changed "Wichita" to "Kitikiti'sh"<sup>[67]</sup>.
@@ -406,3 +407,4 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [113]: [Bartholomew Roberts (English Wikipedia)](<https://en.wikipedia.org/wiki/Bartholomew_Roberts>)
 * [114]: [Charles Harris (pirate) (English Wikipedia)](<https://en.wikipedia.org/wiki/Charles_Harris_(pirate)>)
 * [115]: [Charles Vane (English Wikipedia)](<https://en.wikipedia.org/wiki/Charles_Vane>)
+* [116]: [Tupinambá people (English Wikipedia)](<https://en.m.wikipedia.org/wiki/Tupinamb%C3%A1_people>)
