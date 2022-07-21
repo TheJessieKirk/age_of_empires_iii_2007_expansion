@@ -1506,7 +1506,7 @@
         <string _locid="22872" symbol="cStringCivNameAztec">Mēxihcah</string>
         <string _locid="22873" symbol="cStringNativeNameMaya">Maya</string>
         <string _locid="22874" symbol="cStringNativeNameInca">Tawantinsuyu</string>
-        <string _locid="22875" symbol="cStringNativeNameTupi">Tupi</string>
+        <string _locid="22875" symbol="cStringNativeNameTupi">Tupinambá</string>
         <string _locid="22876" symbol="cStringNativeNameCarib">Kalinago</string>
         <string _locid="22877" symbol="cStringNativeNameSeminole">yat'Siminoli</string>
         <string _locid="22878" symbol="cStringNativeNameCherokee">Aniyvwiyaʔi</string>
@@ -1916,7 +1916,7 @@
         <string _locid="24194">Lakȟóta horseman armed with an axe.</string>
         <string _locid="24195">Lakȟóta Axe Rider</string>
         <string _locid="24196">Long-range, accurate native archer. Good against infantry.</string>
-        <string _locid="24197">Tupi Blackwood Archer</string>
+        <string _locid="24197">Tupinambá Blackwood Archer</string>
         <string _locid="24198">Kalinago warrior attack and hitpoints increased.</string>
         <string _locid="24201">Champion Blowgun Warrior</string>
         <string _locid="24202">Aniyvwiyaʔi warrior attack and hitpoints increased.</string>
@@ -1929,7 +1929,7 @@
         <string _locid="24221">Champion Holcan Spearman</string>
         <string _locid="24226">Lakȟóta warrior attack and hitpoints increased.</string>
         <string _locid="24229">Champion Axe Rider</string>
-        <string _locid="24230">Tupi warrior attack and hitpoints increased.</string>
+        <string _locid="24230">Tupinambá warrior attack and hitpoints increased.</string>
         <string _locid="24233">Champion Blackwood Archer</string>
         <string _locid="24239">Enables your archers to do more damage to villagers.</string>
         <string _locid="24240">Kalinago Garifuna Drums</string>
@@ -1946,8 +1946,8 @@
         <string _locid="24262">Maya Cotton Armor</string>
         <string _locid="24263">Nuučaan̓ułʔatḥ bark cloth increases villager hitpoints.</string>
         <string _locid="24264">Nuučaan̓ułʔatḥ Bark Clothing</string>
-        <string _locid="24267">Tupi technique for envenoming arrowheads. Archer attack increased.</string>
-        <string _locid="24268">Tupi Poison Arrow Frogs</string>
+        <string _locid="24267">Tupinambá technique for envenoming arrowheads. Archer attack increased.</string>
+        <string _locid="24268">Tupinambá Poison Arrow Frogs</string>
         <string _locid="24283" symbol="cStringCommandPanelTactics">Tactics</string>
         <string _locid="24303">Boats gather Food from Fish and Coin from Whales faster.</string>
         <string _locid="24304">Gill Nets</string>
@@ -2050,7 +2050,7 @@
         <string _locid="24982">Defeat this guardian to collect its Treasure.</string>
         <string _locid="24983">Polar Bear</string>
         <string _locid="24988">NAT Lakȟóta Axe Rider</string>
-        <string _locid="24989">NAT Tupi Archer</string>
+        <string _locid="24989">NAT Tupinambá Archer</string>
         <string _locid="24990">NAT Kalinago Blowgunner</string>
         <string _locid="24992">NAT Tawantinsuyu Bolas Man</string>
         <string _locid="24993">INF Caçadores</string>
@@ -2136,9 +2136,9 @@
         <string _locid="25246">NAT Woodland Aniyvwiyaʔi</string>
         <string _locid="25248">"These are our lands, but we will permit you to build a Trading Post here to forge an alliance between our people."</string>
         <string _locid="25249">Native Building</string>
-        <string _locid="25250">NAT Rainforest Tupi</string>
-        <string _locid="25252">Tupi Animal Lore enables you to train Tame Cougars from your Town Center.</string>
-        <string _locid="25253">Tupi Animal Lore</string>
+        <string _locid="25250">NAT Rainforest Tupinambá</string>
+        <string _locid="25252">Tupinambá Animal Lore enables you to train Tame Cougars from your Town Center.</string>
+        <string _locid="25253">Tupinambá Animal Lore</string>
         <string _locid="25261">Aniyvwiyaʔi weaving techniques improve dry storage. Dock, Market, Mill, and Plantation improvements no longer cost Wood.</string>
         <string _locid="25262">Aniyvwiyaʔi Basket Weaving</string>
         <string _locid="25267">Explorer's Camp</string>
@@ -3739,7 +3739,7 @@
         <string _locid="29379">Stagecoach</string>
         <string _locid="29383">Champion Lakȟóta</string>
         <string _locid="29384">Champion Mēxihcah</string>
-        <string _locid="29385">Champion Tupi</string>
+        <string _locid="29385">Champion Tupinambá</string>
         <string _locid="29386">Champion Kalinago</string>
         <string _locid="29388">Champion Nʉmʉnʉʉ</string>
         <string _locid="29389">Champion Tawantinsuyu</string>
@@ -3954,7 +3954,7 @@
         <string _locid="29946">Nuučaan̓ułʔatḥ Settlement</string>
         <string _locid="29947">yat'Siminoli Settlement</string>
         <string _locid="29948">Aniyvwiyaʔi Settlement</string>
-        <string _locid="29953">Tupi Settlement</string>
+        <string _locid="29953">Tupinambá Settlement</string>
         <string _locid="29954">Mēxihcah Settlement</string>
         <string _locid="29987">Socket Mēxihcah</string>
         <string _locid="29988">Socket Kalinago</string>
@@ -3968,7 +3968,7 @@
         <string _locid="29997">Socket Nuučaan̓ułʔatḥ</string>
         <string _locid="29998">Socket yat'Siminoli</string>
         <string _locid="29999">Socket Trade Route</string>
-        <string _locid="30000">Socket Tupi</string>
+        <string _locid="30000">Socket Tupinambá</string>
         <string _locid="30030" gamecharacter="John" soundfilename="JOHN0176" portraitfilename="units\spc\john_black\john_black_igc_icon">They're headed east, and Warwick has marked the way for them.</string>
         <string _locid="30033">Socket</string>
         <string _locid="30034">Socket Great Lakes Fort</string>
@@ -4318,8 +4318,8 @@
         <string _locid="31485">Sequoyah's Aniyvwiyaʔi Syllabary</string>
         <string _locid="31486">Mastering the Nʉmʉnʉʉ trade language means all your research items cost less Coin.</string>
         <string _locid="31487">Nʉmʉnʉʉ Trade Language</string>
-        <string _locid="31497">Tupi slash-and-burn techniques lets you clear land quickly and cheaply. All your buildings cost less Wood.</string>
-        <string _locid="31498">Tupi Forest Burning</string>
+        <string _locid="31497">Tupinambá slash-and-burn techniques lets you clear land quickly and cheaply. All your buildings cost less Wood.</string>
+        <string _locid="31498">Tupinambá Forest Burning</string>
         <string _locid="31499" symbol="cStringCommandPanelAbilities">Abilities</string>
         <string _locid="31502">Power Range Indicator</string>
         <string _locid="31512" symbol="cStringSpiesYou">Your spies have been sent out to watch enemy positions.</string>
@@ -5106,8 +5106,8 @@
         <string _locid="33378">Nuučaan̓ułʔatḥ Warrior Societies</string>
         <string _locid="33380">yat'Siminoli warrior attack and hitpoints increased.</string>
         <string _locid="33381">yat'Siminoli Warrior Societies</string>
-        <string _locid="33383">Tupi warrior attack and hitpoints increased.</string>
-        <string _locid="33384">Tupi Warrior Societies</string>
+        <string _locid="33383">Tupinambá warrior attack and hitpoints increased.</string>
+        <string _locid="33384">Tupinambá Warrior Societies</string>
         <string _locid="33386" symbol="cStringESOLeaveCurrentGame">Do you wish to leave the game you are currently in?</string>
         <string _locid="33387">Morgan Black</string>
         <string _locid="33388">Lizzie's Pirates</string>
@@ -6646,7 +6646,7 @@
         <string _locid="35931">TEAM Sawmills</string>
         <string _locid="35933">Warships attack increased.</string>
         <string _locid="35934">Naval Gunners</string>
-        <string _locid="35936" symbol="cStringRMSAmazonlongdesc">Teams are separated by the mighty Amazon River. Trade Routes and Natives may be separated... or maybe not. Tupi or Be'ena'a live deep in the rain forests. Build a navy to control the river, and control the map -- but keep an eye out for enemy Outposts and cannon on the shores.</string>
+        <string _locid="35936" symbol="cStringRMSAmazonlongdesc">Teams are separated by the mighty Amazon River. Trade Routes and Natives may be separated... or maybe not. Tupinambá or Be'ena'a live deep in the rain forests. Build a navy to control the river, and control the map -- but keep an eye out for enemy Outposts and cannon on the shores.</string>
         <string _locid="35937" symbol="cStringRMSAndeslongdesc">A large Tawantinsuyu city dominates the Andes; control the city, and you will easily control the map. Neutral Aikanã Strongholds are scattered throughout the area, presenting challenges for unwary explorers. Three Trading Post sites. Seek out herds of Llamas for an early boost of food.</string>
         <string _locid="35939" symbol="cStringRMSCaribbeanlongdesc">The islands of the Caribbean support only a few animals, but the ocean offers a bounty of fish. Palm trees provide plenty of Wood for constructing ships.\n \nYou will share an island with your teammates. There will always be an additional island with a Trade Route. Kalinago settlements are scattered across all the islands.</string>
         <string _locid="35940" symbol="cStringRMSCarolinalongdesc">The southeast coast of North America has plenty of resources and extra Crates. The ease of naval transport and lack of cliffs means you are never too far from your enemy. A Trade Route runs along the coast with four sites for Trading Posts.\n \nThis is the home of the Aniyvwiyaʔi, who will always have two villages on the map. Sometimes you may encounter one or two yat'Siminoli villages as well.</string>
@@ -6654,7 +6654,7 @@
         <string _locid="35942" symbol="cStringRMSGreatLakeslongdesc">Fight around the outside of a large freshwater lake. Control of the single long Trade Route is crucial. Waⁿdát, Tsétsêhéstâhese, or Néhinaw villages ring the lake. Resources, including fish, are plentiful.\n \nBuild too close to the shore without controlling the water, and you risk having your town shelled by enemy ships late in the game. Sometimes the lake may be frozen over, presenting a different tactical challenge. </string>
         <string _locid="35943" symbol="cStringRMSGreatPlainslongdesc">Wide-open spaces, large herds of Bison to hunt, plentiful Mines, and as many as six Tsétsêhéstâhese and Nʉmʉnʉʉ villages offer a wide variety of potential strategies. The Trade Route will have three Trading Post sites.\n \nControl the more dense forests near the edges of the map to supplement your late-game wood gathering, or rely on the scattered clumps of trees out on the plains.</string>
         <string _locid="35944" symbol="cStringRMSNewEnglandlongdesc">Each team will have an easily-defended Waⁿdát or Aniyvwiyaʔi village; the fight will be for control of the four Trading Post sites along the single central Trade Route.\n \nLakes and low stone walls provide natural barriers and choke points. Search the isles off the coast for hidden Treasures.</string>
-        <string _locid="35946" symbol="cStringRMSPampaslongdesc">Pampas is a long plain divided by a river with several crossing points. You and your allies are initially separated by the river, but the exact placement of your starting towns varies widely. There are always four Trading Post sites. Expect to find a number of Tawantinsuyu and Tupi villages.</string>
+        <string _locid="35946" symbol="cStringRMSPampaslongdesc">Pampas is a long plain divided by a river with several crossing points. You and your allies are initially separated by the river, but the exact placement of your starting towns varies widely. There are always four Trading Post sites. Expect to find a number of Tawantinsuyu and Tupinambá villages.</string>
         <string _locid="35947" symbol="cStringRMSPatagonialongdesc">No Natives, but six Trading Posts. To ensure a steady supply of Wood, stay near the coast.\n \nA central lake offers tactical opportunities, and may restrict movement along the western side of the map. The lake is not present in Free for All games.</string>
         <string _locid="35948" symbol="cStringRMSRockieslongdesc">Your team occupies one mountain range and your opponents the other. The victors will be the ones that can control the central valley and the choke points. Forests and Treasures are more heavily concentrated in the center of the map.\n \nThe Tsétsêhéstâhese and Nʉmʉnʉʉ have ventured up into the mountains, and may prove to be useful allies.</string>
         <string _locid="35949" symbol="cStringRMSSaguenaylongdesc">In this resource-heavy region, you will start with an extra random economic building in addition to your Town Center. Building Outposts near the local Néhinaw and Waⁿdát villages may help control sections of the map.</string>
@@ -13329,7 +13329,7 @@
         <string _locid="42911">An upgraded green version of the French Dock.</string>
         <string _locid="42912" symbol="cStringESOUpArrow">/\</string>
         <string _locid="42913" symbol="cStringESODownArrow">\/</string>
-        <string _locid="42914" symbol="cStringMaintainTupiModeName">Free Tupi Warriors</string>
+        <string _locid="42914" symbol="cStringMaintainTupiModeName">Free Tupinambá Warriors</string>
         <string _locid="42915" symbol="cStringMaintainSeminoleModeName">Free yat'Siminoli Warriors</string>
         <string _locid="42916" symbol="cStringMaintainNootkaModeName">Free Nuučaan̓ułʔatḥ Warriors</string>
         <string _locid="42917" symbol="cStringMaintainMayaModeName">Free Maya Warriors</string>
@@ -16367,7 +16367,7 @@
         <string _locid="45960">Washington</string>
         <string _locid="45961">Outlaws rally to your cause.</string>
         <string _locid="45962">Hidalgo</string>
-        <string _locid="45963">Grants Tupi warriors. All Natives are Legendary.</string>
+        <string _locid="45963">Grants Tupinambá warriors. All Natives are Legendary.</string>
         <string _locid="45964">Bonifacio</string>
         <string _locid="45965">All units gain slightly more hitpoints.</string>
         <string _locid="45966">Bolivar</string>
@@ -17391,7 +17391,7 @@
         <string _locid="46989">Blood Brothers Shipment has arrived.</string>
         <string _locid="46990">20 Waⁿdát Allies</string>
         <string _locid="46991">30 Nuučaan̓ułʔatḥ Allies</string>
-        <string _locid="46992">30 Tupi Allies</string>
+        <string _locid="46992">30 Tupinambá Allies</string>
         <string _locid="46993">30 Kalinago Allies</string>
         <string _locid="46994">Sends Mayan warriors and also upgrades them to Elite.</string>
         <string _locid="46995">30 Mayan Allies</string>
@@ -17521,7 +17521,7 @@
         <string _locid="47119" gamecharacter="Chayton" soundfilename="XCHAY9079">We've pushed the railroad as far west as we can. We've got to make peace with the Lakȟóta.</string>
         <string _locid="47120">Orinoco</string>
         <string _locid="47121">Orinoco: a tropical river map with crossings.</string>
-        <string _locid="47122">Orinoco is a tropical region just north of the Amazon jungle. The teams are separated by the mighty Orinoco River, which empties into the Caribbean Sea to the north. Up to four different Native tribes can live in this area, including the Tupi, Be'ena'a, Kalinago, and Maya.</string>
+        <string _locid="47122">Orinoco is a tropical region just north of the Amazon jungle. The teams are separated by the mighty Orinoco River, which empties into the Caribbean Sea to the north. Up to four different Native tribes can live in this area, including the Tupinambá, Be'ena'a, Kalinago, and Maya.</string>
         <string _locid="47123">Enables certain European Arsenal improvements in your Longhouses.</string>
         <string _locid="47124">New Ways</string>
         <string _locid="47125">Old Ways shipment has arrived.</string>
@@ -18877,8 +18877,8 @@
         <string _locid="48478">NAT MERC Néhinaw Tracker</string>
         <string _locid="48479">Native American archer</string>
         <string _locid="48480">Long-range, accurate native archer. Good against infantry.</string>
-        <string _locid="48481">Tupi Blackwood Archer</string>
-        <string _locid="48482">NAT MERC Tupi Archer</string>
+        <string _locid="48481">Tupinambá Blackwood Archer</string>
+        <string _locid="48482">NAT MERC Tupinambá Archer</string>
         <string _locid="48483">Native American hand infantry</string>
         <string _locid="48484">Nuučaan̓ułʔatḥ warrior armed with a wooden club.</string>
         <string _locid="48485">Nuučaan̓ułʔatḥ Clubman</string>
