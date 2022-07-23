@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<mapinfo details = "Florida: swampland with limited space for settlements." imagepath = "ui\random_map\everglades" displayName = "Florida" cannotReplace = ""
+		loadDetails="A vast swamp where dry land is at a premium. You can only build on solid ground, but armies can travel across the wetlands, so beware of unexpected ambushes.\n \nAniyvwiyaʔi and yat'Siminoli villages occupy islands through the middle of the map." loadBackground="ui\random_map\everglades\everglades_map">
+   <loadss>ui\random_map\everglades\everglades_ss_01</loadss>
+   <loadss>ui\random_map\everglades\everglades_ss_02</loadss>
+   <loadss>ui\random_map\everglades\everglades_ss_03</loadss>
+</mapinfo>

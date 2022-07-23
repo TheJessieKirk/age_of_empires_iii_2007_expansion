@@ -215,7 +215,7 @@
         <string _locid="18783" symbol="cStringCursorGather3Help">Right-click to gather Food from %s.</string>
         <string _locid="18784" symbol="cStringCursorGatherSubtype1Help">Right-click to forage Food from %s.</string>
         <string _locid="18785" symbol="cStringCursorGatherSubtype2Help">Right-click to fish from %s.</string>
-        <string _locid="18786" symbol="cStringRMSBayou">Bayou: swampland with limited space for settlements.</string>
+        <string _locid="18786" symbol="cStringRMSBayou">Florida: swampland with limited space for settlements.</string>
         <string _locid="18803" symbol="cStringSoundInitFailTitle">Warning: Failed to initialize sound hardware.</string>
         <string _locid="18804" symbol="cStringSoundInitFailMessage1">The game will proceed with sound disabled.</string>
         <string _locid="18808" symbol="cStringSoundInitFailMessage2">If you think you have received this message in error, try rebooting your computer and running the game again.</string>
@@ -238,7 +238,7 @@
         <string _locid="18899" symbol="cStringResourceNameWood">Wood</string>
         <string _locid="18900" symbol="cStringResourceNameFood">Food</string>
         <string _locid="18909" symbol="cStringCostFormat2">Cost: %s</string>
-        <string _locid="18912" symbol="cStringRMSBayouname">Bayou</string>
+        <string _locid="18912" symbol="cStringRMSBayouname">Florida</string>
         <string _locid="18914" symbol="cStringRMSCarolina">Carolina</string>
         <string _locid="18962" symbol="cStringHelpStringUnitFormatTerse" comment="1 - culture name, 2 - hotkey text, 3 - cost">%1s%2s. %3s</string>
         <string _locid="18963" symbol="cStringHelpPopulationFormat">Max Army Size = %d. Click to send tribute to your allies.</string>
@@ -3871,7 +3871,7 @@
         <string _locid="29669">Wood source</string>
         <string _locid="29670">A swampy tree such as tupelo or cypress. Harvest for Wood.</string>
         <string _locid="29671">Tree</string>
-        <string _locid="29672">Tree - Bayou</string>
+        <string _locid="29672">Tree - Florida</string>
         <string _locid="29675">Flock of Buzzards</string>
         <string _locid="29679" symbol="cStringNuggetGumTrees" comment="1 - amount, 2 - resource">A stand of gum trees worth %1d %2s. </string>
         <string _locid="29680" symbol="cStringNuggetGumTreesActivate" comment="1 - player, 2 - amount, 3 - resource">%1s has discovered gum trees worth %2d %3s.</string>
@@ -5487,8 +5487,8 @@
         <string _locid="33971" symbol="cStringLostNetworkConnectivity">You have lost network connectivity. Please check your Internet connection and restart the game.</string>
         <string _locid="33972" symbol="cStringNetworkDisabled">Network Disabled</string>
         <string _locid="33973" symbol="cStringmercaddIncCountFld">Count Increment:</string>
-        <string _locid="33974">Marsh Plants Bayou</string>
-        <string _locid="33975">PROP Marsh Plants Bayou</string>
+        <string _locid="33974">Marsh Plants Florida</string>
+        <string _locid="33975">PROP Marsh Plants Florida</string>
         <string _locid="33976">Intensive Mēxihcah battle training gives your Heroes more hitpoints and attack.</string>
         <string _locid="33977">Mēxihcah Initiation</string>
         <string _locid="33978" symbol="cStringMercenaryEditorErrorMsg1">This mercenary unit has already been added to the list. Duplicates are not allowed.</string>
@@ -5501,13 +5501,13 @@
         <string _locid="33985">Navigation Charts Found: 1/3</string>
         <string _locid="33986">Navigation Charts Found: 2/3</string>
         <string _locid="33987">Navigation Charts Found: 3/3</string>
-        <string _locid="33988">Plants Bayou</string>
-        <string _locid="33989">PROP Plants Bayou</string>
+        <string _locid="33988">Plants Florida</string>
+        <string _locid="33989">PROP Plants Florida</string>
         <string _locid="33990" symbol="cStringMercenaryEditorErrorMsg3">Mercenary unit type has not been specified.</string>
         <string _locid="33991">Wood source</string>
         <string _locid="33992">A swampy tree such as tupelo or cypress. Harvest for Wood.</string>
         <string _locid="33993">Tree</string>
-        <string _locid="33994">Tree - Bayou Marsh</string>
+        <string _locid="33994">Tree - Florida Marsh</string>
         <string _locid="33996">Summoned</string>
         <string _locid="33998">The Old Coot</string>
         <string _locid="33999">Native warriors are less expensive.</string>
@@ -5668,7 +5668,7 @@
         <string _locid="34202">Free Tawantinsuyu prisoners.</string>
         <string _locid="34203">Tawantinsuyu prisoners are being held by the Spanish. Free them and they may help you locate the Treasure ships.</string>
         <string _locid="34204">Destroy any Spanish Forts.</string>
-        <string _locid="34205">There are several Spanish Forts in the Bayou. You will get Experience for each one you destroy. They are fortified so artillery might be needed.</string>
+        <string _locid="34205">There are several Spanish Forts in Florida. You will get Experience for each one you destroy. They are fortified so artillery might be needed.</string>
         <string _locid="34206">Kill Delgado.</string>
         <string _locid="34207">Find and kill Delgado, the Spanish leader.</string>
         <string _locid="34208" gamecharacter="Morgan" soundfilename="MORG5241">We've captured a treasure ship!</string>
