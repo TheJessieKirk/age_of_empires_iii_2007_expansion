@@ -1,6 +1,8 @@
 // AMAZONIA
 
 include "mercenaries.xs";
+include "ypAsianInclude.xs";
+include "ypKOTHInclude.xs";
 
 // Main entry point for random map script
 void main(void) {
@@ -17,9 +19,9 @@ void main(void) {
     subCiv0 = rmGetCivID("Tupi");
     rmEchoInfo("subCiv0 is Tupi" + subCiv0);
     if (subCiv0 >= 0)
-      rmSetSubCiv(0, "Tupi");
-    subCiv1 = rmGetCivID("Tupi");
-    rmEchoInfo("subCiv1 is Tupi" + subCiv1);
+      rmSetSubCiv(0, "Jesuit");
+    subCiv1 = rmGetCivID("Jesuit");
+    rmEchoInfo("subCiv1 is Jesuit" + subCiv1);
     if (subCiv1 >= 0)
       rmSetSubCiv(1, "Tupi");
     subCiv2 = rmGetCivID("Tupi");
@@ -453,6 +455,15 @@ void main(void) {
     rmSetObjectDefMaxDistance(playerMarketID, 18.0);
     rmAddObjectDefConstraint(playerMarketID, playerEdgeConstraint);
     rmAddObjectDefConstraint(playerMarketID, mediumShortAvoidImpassableLand);
+
+    int playerAsianMarketID = rmCreateObjectDef("player asian market");
+		rmAddObjectDefItem(playerAsianMarketID , "ypTradeMarketAsian", 1, 0);
+		rmAddObjectDefConstraint(playerAsianMarketID , avoidTradeRoute);
+		rmSetObjectDefMinDistance(playerAsianMarketID , 10.0);
+		rmSetObjectDefMaxDistance(playerAsianMarketID , 18.0);
+		rmAddObjectDefConstraint(playerAsianMarketID , playerEdgeConstraint);
+		rmAddObjectDefConstraint(playerAsianMarketID , mediumShortAvoidImpassableLand);
+
   }
   rmSetObjectDefMinDistance(TCID, 0.0);
   rmSetObjectDefMaxDistance(TCID, TCfloat);
@@ -501,7 +512,17 @@ void main(void) {
     rmPlaceObjectDefAtLoc(TCID, i, rmPlayerLocXFraction(i), rmPlayerLocZFraction(i));
     vector TCLoc = rmGetUnitPosition(rmGetUnitPlacedOfPlayer(TCID, i));
     if (rmGetNomadStart() == false) {
-      rmPlaceObjectDefAtLoc(playerMarketID, i, rmXMetersToFraction(xsVectorGetX(TCLoc)), rmZMetersToFraction(xsVectorGetZ(TCLoc)));
+      if(ypIsAsian(i)) {
+        rmPlaceObjectDefAtLoc(ypMonasteryBuilder(i, 1), i, rmXMetersToFraction(xsVectorGetX(TCLoc)), rmZMetersToFraction(xsVectorGetZ(TCLoc)));
+        rmPlaceObjectDefAtLoc(playerAsianMarketID, i, rmXMetersToFraction(xsVectorGetX(TCLoc)), rmZMetersToFraction(xsVectorGetZ(TCLoc)));
+      }
+
+      else if(rmGetPlayerCiv(i) ==  rmGetCivID("Chinese") || rmGetPlayerCiv(i) ==  rmGetCivID("Indians")) {
+        rmPlaceObjectDefAtLoc(playerAsianMarketID, i, rmXMetersToFraction(xsVectorGetX(TCLoc)), rmZMetersToFraction(xsVectorGetZ(TCLoc)));
+      }
+
+      else
+        rmPlaceObjectDefAtLoc(playerMarketID, i, rmXMetersToFraction(xsVectorGetX(TCLoc)), rmZMetersToFraction(xsVectorGetZ(TCLoc)));
     }
     rmPlaceObjectDefAtLoc(startingUnits, i, rmXMetersToFraction(xsVectorGetX(TCLoc)), rmZMetersToFraction(xsVectorGetZ(TCLoc)));
     rmPlaceObjectDefAtLoc(playerSilverID, 0, rmXMetersToFraction(xsVectorGetX(TCLoc)), rmZMetersToFraction(xsVectorGetZ(TCLoc)));
@@ -539,11 +560,34 @@ void main(void) {
     }
   }
 
-  if (subCiv1 == rmGetCivID("Tupi")) {
+  if (subCiv1 == rmGetCivID("Jesuit")) {
+    int jesuitVillageID = -1;
+    int jesuitVillageType = rmRandInt(1, 5);
+    jesuitVillageID = rmCreateGrouping("jesuit mission", "native jesuit mission borneo 0" + jesuitVillageType);
+    rmSetGroupingMinDistance(jesuitVillageID, 0.0);
+    rmSetGroupingMaxDistance(jesuitVillageID, rmXFractionToMeters(0.50));
+    rmAddGroupingConstraint(jesuitVillageID, longAvoidImpassableLand);
+    rmAddGroupingToClass(jesuitVillageID, rmClassID("natives"));
+    rmAddGroupingToClass(jesuitVillageID, rmClassID("importantItem"));
+    rmAddGroupingConstraint(jesuitVillageID, avoidImportantItem);
+    rmAddGroupingConstraint(jesuitVillageID, avoidTradeRoute);
+    rmAddGroupingConstraint(jesuitVillageID, avoidTownCenter);
+    if (tradeRouteNum == 1) {
+      rmAddGroupingConstraint(jesuitVillageID, southIslandConstraint);
+      rmPlaceGroupingAtLoc(jesuitVillageID, 0, 0.25, 0.5);
+    } else if (tradeRouteNum == 2) {
+      rmAddGroupingConstraint(jesuitVillageID, northIslandConstraint);
+      rmPlaceGroupingAtLoc(jesuitVillageID, 0, 0.85, 0.85);
+    } else if (tradeRouteNum == 3) {
+      rmAddGroupingConstraint(jesuitVillageID, northIslandConstraint);
+      rmPlaceGroupingAtLoc(jesuitVillageID, 0, 0.85, 0.85);
+    }
+  }
+
+  if (subCiv2 == rmGetCivID("Tupi")) {
     int tupi2VillageID = -1;
     int tupi2VillageType = rmRandInt(1, 5);
     tupi2VillageID = rmCreateGrouping("tupi2 village", "native tupi village " + tupi2VillageType);
-    rmSetGroupingMinDistance(tupi2VillageID, 0.0);
     rmSetGroupingMaxDistance(tupi2VillageID, rmXFractionToMeters(0.50));
     rmAddGroupingConstraint(tupi2VillageID, longAvoidImpassableLand);
     rmAddGroupingToClass(tupi2VillageID, rmClassID("natives"));
@@ -553,33 +597,10 @@ void main(void) {
     rmAddGroupingConstraint(tupi2VillageID, avoidTownCenter);
     if (tradeRouteNum == 1) {
       rmAddGroupingConstraint(tupi2VillageID, southIslandConstraint);
-      rmPlaceGroupingAtLoc(tupi2VillageID, 0, 0.25, 0.5);
-    } else if (tradeRouteNum == 2) {
-      rmAddGroupingConstraint(tupi2VillageID, northIslandConstraint);
-      rmPlaceGroupingAtLoc(tupi2VillageID, 0, 0.85, 0.85);
+      rmPlaceGroupingAtLoc(tupi2VillageID, 0, 0.0, 0.25);
     } else if (tradeRouteNum == 3) {
       rmAddGroupingConstraint(tupi2VillageID, northIslandConstraint);
-      rmPlaceGroupingAtLoc(tupi2VillageID, 0, 0.85, 0.85);
-    }
-  }
-
-  if (subCiv2 == rmGetCivID("Tupi")) {
-    int tupi3VillageID = -1;
-    int tupi3VillageType = rmRandInt(1, 5);
-    tupi3VillageID = rmCreateGrouping("tupi3 village", "native tupi village " + tupi3VillageType);
-    rmSetGroupingMaxDistance(tupi3VillageID, rmXFractionToMeters(0.50));
-    rmAddGroupingConstraint(tupi3VillageID, longAvoidImpassableLand);
-    rmAddGroupingToClass(tupi3VillageID, rmClassID("natives"));
-    rmAddGroupingToClass(tupi3VillageID, rmClassID("importantItem"));
-    rmAddGroupingConstraint(tupi3VillageID, avoidImportantItem);
-    rmAddGroupingConstraint(tupi3VillageID, avoidTradeRoute);
-    rmAddGroupingConstraint(tupi3VillageID, avoidTownCenter);
-    if (tradeRouteNum == 1) {
-      rmAddGroupingConstraint(tupi3VillageID, southIslandConstraint);
-      rmPlaceGroupingAtLoc(tupi3VillageID, 0, 0.0, 0.25);
-    } else if (tradeRouteNum == 3) {
-      rmAddGroupingConstraint(tupi3VillageID, northIslandConstraint);
-      rmPlaceGroupingAtLoc(tupi3VillageID, 0, 0.75, 0.75);
+      rmPlaceGroupingAtLoc(tupi2VillageID, 0, 0.75, 0.75);
     }
   }
 
@@ -795,7 +816,7 @@ void main(void) {
 
   //Place fish
   int fishID = rmCreateObjectDef("fish");
-  rmAddObjectDefItem(fishID, "FishBass", 3, 9.0);
+  rmAddObjectDefItem(fishID, "ypFishCatfish", 3, 9.0);
   rmSetObjectDefMinDistance(fishID, 0.0);
   rmSetObjectDefMaxDistance(fishID, rmXFractionToMeters(0.5));
   rmAddObjectDefConstraint(fishID, fishVsFishID);
