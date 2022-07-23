@@ -90,7 +90,12 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * Changed "Yanomamo" to "Yanõmami Thëpë"<sup>[68]</sup>.
 * Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
 
-### 1.2 Single Player Campaign
+### 1.2 Random Maps
+* Added "Amazonia v2". This map script works with all three games, and features all script improvements made in _The WarChiefs_ and _The Asian Dynasties_. In addition:
+    * All tribes are now Tupinambá (the only people in the game that were historically native to the region), or Tupinambá or Societas Iesus in _The Asian Dynasties_.
+    * In _The Asian Dynasties_, the bass are now catfish (although bass live there, 60% of Amazon fish are catfish).
+
+### 1.3 Single Player Campaign
 
 #### _Blood, Ice and Steal_ Act 1
 * In _Breakout_:
@@ -158,11 +163,11 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
     * Moved Nonahkee so she starts standing with the other heroes.
     * You can now build walls and outposts.
 
-### 1.3 Music
+### 1.4 Music
 * Removed pop at the end of _Get Ye Sum_.
 * Extended _Bubble Chum_, _Camels, Straws and Backs_, _Revolootin_ and _Ruinion_.
 
-### 1.4 Random Names
+### 1.5 Random Names
 
 #### The Circle of Ossus
 * The Circle of Ossus now have more random names for their caravels, galleons, frigates and monitors. These names have been taken from [The Medieval Beastiary](<https://www.bestiary.ca/index.html>), [The Key of Solomon](<https://en.wikipedia.org/wiki/Key_of_Solomon>) and the [Labours of Hercules](<https://en.wikipedia.org/wiki/Labours_of_Hercules>). Every single name from these sources was used.  _(For a secret-order-of-European-scientists/exorcist feel. _White Jaguar_ and _White Turtle_ are the only names that were not in a medieval beastiary, and _White Merle_ has been used instead of _White Blackbird_ due to "blackbird" already having a colour in it  __-Jess__)_
