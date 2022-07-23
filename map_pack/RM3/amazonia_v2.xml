@@ -1,7 +1,0 @@
-<?xml version = "1.0" encoding = "UTF-8"?>
-<mapinfo details = "Amazonia: fight along the mighty Amazon River." imagepath = "ui\random_map\amazon" displayName = "Amazonia v2" cannotReplace = ""
-	loadDetails="Teams are separated by the mighty Amazon River. Trade Routes and Natives may be separated... or maybe not. Tupinambá or Societas Iesu live in the rain forests. Build a navy to control the river, and control the map -- but keep an eye out for enemy Outposts and cannon on the shores." loadBackground="ui\random_map\amazon\amazon_map">
-	<loadss>ui\random_map\amazon\amazon_ss_01</loadss>
-  <loadss>ui\random_map\amazon\amazon_ss_02</loadss>
-  <loadss>ui\random_map\amazon\amazon_ss_03</loadss>
-</mapinfo>
