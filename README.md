@@ -95,12 +95,10 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * Added the following new maps, which work with all three versions of the game:
     * "Amazonia v2", an improved version of "Amazonia":
         * Implements script improvements made in _The WarChiefs_ and _The Asian Dynasties_.
-        * All tribes are now Tupinambá (the only people in the game that were historically native to the region), or Tupinambá or Societas Iesus in _The Asian Dynasties_.
+        * All natives are now Tupinambá (the only people in the game that were historically native to the region), or Tupinambá or Societas Iesus in _The Asian Dynasties_.
         * In _The Asian Dynasties_, the bass are now catfish (although bass live there, 60% of Amazon fish are catfish).
     * "Florida v2", an improved version of "Bayou":
-        *  All tribes are now yat'Siminoli (which entered the region circa 1700), or yat'Siminoli or Societas Iesus in _The Asian Dynasties_.
-
-* Added "Florida v2". This map script works with all three games. All tribes ar
+        *  All natives are now yat'Siminoli (which entered the region circa 1700), or yat'Siminoli or Societas Iesus in _The Asian Dynasties_.
 
 ### 1.3 Single Player Campaign
 
