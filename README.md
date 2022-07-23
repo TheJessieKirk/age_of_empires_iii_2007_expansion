@@ -91,14 +91,14 @@ This mod requires _Age of Empires III_, _Age of Empires III: The WarChiefs_ and 
 * Changed "Zapotec" to "Be'ena'a"<sup>[52]</sup>.
 
 ### 1.2 Random Maps
-* "Bayou" changed to "Florida".
+* "Bayou" changed to "Florida"<sup>[117]</sup>.
 * Added the following new maps, which work with all three versions of the game:
     * "Amazonia v2", an improved version of "Amazonia":
         * Implements script improvements made in _The WarChiefs_ and _The Asian Dynasties_.
-        * All natives are now Tupinambá (the only people in the game that were historically native to the region), or Tupinambá or Societas Iesus in _The Asian Dynasties_.
+        * All natives are now Tupinambá (the only people in the game that were historically native to the region)<sup>[118]</sup>, or Tupinambá or Societas Iesus<sup>[118]</sup> in _The Asian Dynasties_.
         * In _The Asian Dynasties_, the bass are now catfish (although bass live there, 60% of Amazon fish are catfish).
     * "Florida v2", an improved version of "Bayou":
-        *  All natives are now yat'Siminoli (which entered the region circa 1700), or yat'Siminoli or Societas Iesus in _The Asian Dynasties_.
+        *  All natives are now yat'Siminoli<sup>[117]</sup> (which entered the region circa 1700), or yat'Siminoli or Societas Iesus<sup>[119]</sup> in _The Asian Dynasties_.
 
 ### 1.3 Single Player Campaign
 
@@ -418,3 +418,6 @@ _(I know the Knights of Malta built forts on at least one of the Carribean islan
 * [114]: [Charles Harris (pirate) (English Wikipedia)](<https://en.wikipedia.org/wiki/Charles_Harris_(pirate)>)
 * [115]: [Charles Vane (English Wikipedia)](<https://en.wikipedia.org/wiki/Charles_Vane>)
 * [116]: [Tupinambá people (English Wikipedia)](<https://en.m.wikipedia.org/wiki/Tupinamb%C3%A1_people>)
+* [117]: [History of Floria (English Wikipedia)](<https://en.wikipedia.org/wiki/History_of_Florida>)
+* [118]: [Amazon River (English Wikipedia)](<https://en.wikipedia.org/wiki/Amazon_River>)
+* [118]: [Jesuit missions in North America (English Wikipedia)](<https://en.wikipedia.org/wiki/Jesuit_missions_in_North_America>)
